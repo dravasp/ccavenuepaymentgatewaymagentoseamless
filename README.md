@@ -12,9 +12,9 @@ CCAvenue Internet Payment Gateway Module for Magento 2.4x
 ![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCv-tdY7OFWk_f1JP4_hmS5A)
 ![Github Followers](https://img.shields.io/github/followers/dravasp?style=social)
 
-If you are running 16GB NVMe Server - Change memory value to 15.5G
-`sudo nano /opt/bitnami/php/etc/php.ini`
-`sudo /opt/bitnami/ctlscript.sh restart`
+```
+If you are running 16GB NVMe Server - Change memory value to 15.5G sudo nano /opt/bitnami/php/etc/php.ini and sudo /opt/bitnami/ctlscript.sh restart
+```
 
 Install using SSH
 ```

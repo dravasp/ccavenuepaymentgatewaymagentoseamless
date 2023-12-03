@@ -23,13 +23,13 @@ Login to Magento Admin > Configuration > Sales > Payment Methods
 Instructions:
 ==================
 
-[] Fill up CCAvenue integration form - Ref. to https://www.ccavenue.com/merchant_onboarding_requisites.jsp for Merchant Onboarding Requisites
+[] Fill up CCAvenue integration form - Ref. to `https://www.ccavenue.com/merchant_onboarding_requisites.jsp` for Merchant Onboarding Requisites
   - Login to your CCAvenue Account and Go to My Account > Integration
   - Connect with your Dedicated Account Manager at CCAvenue
-  - Complete KYC and Request Approval for Live Keys
+  - `Complete KYC and Request Approval for Live Keys`
 
 [] Changes for going Live.
-  - Insert your (variables) Merchant ID + Access Code + Encyrption Key for Production Environment in Stores > Configrations > Sales > Payment Methods > CCAvenue
+  - Insert your (variables) `Merchant ID` + `Access Code` + `Encyrption Key for Production Environment` in Stores > Configrations > Sales > Payment Methods > CCAvenue
 
 [] Enabling the module and configuring it with your CCAvenue Merchant credentials
   - Login to your Magento Admin and go to Store > Configuration.
@@ -105,3 +105,140 @@ Instructions:
 	inside SSH Terminal to provide verification to VAS Team
 	
   - One-page Checkout Enabled for Magento Commerce OS - Bitnami
+
+You will now be able to integrate CCAvenue with your existing Merchant Services Account of choice where you host your Merchant Account
+
+Merchant Account or Cash Collection Service Account with India's Leading Banks allow high order value or high frequency volume (recurring trxns.) - 
+```SBI Cards & Payment Services Limited (formerly known as SBI Cards & Payment Services Private Limited) / SBIePay or SBI Merchant Services```
+
+Benefits of Merchant Services as opposed to standard Integration - 
+```
+Get an integrated, rules-based, proactive risk management system that is supported by industry standard security
+Enjoy 99.9% uptime and a 24-hour helpdesk support
+Get customised MIS solutions for your business needs
+```
+
+Optional Method to Allow Private Repositories via Composer
+`composer config --global --auth http-basic.repo.packagist.com token c6addb89a67b2822d352d114`
+
+	OR
+ 
+`cd /opt/bitnami/magento`
+`nano composer.json`
+
+	Add the following to your composer.json by
+```    
+	"repositories": [{
+		"type": "composer",
+      		"url": "https://repo.packagist.com/our-company/cool-client-proj"
+			}, 
+	{"packagist.org": false}]
+```
+  Run 
+	`composer update`
+
+Subscribe to `MATRIX Communications WAP Service` for `Terminal` Access even in Remote Locations.
+	- Register your interest at https://matrix.in
+	- Complete KYC with TRAI Required
+
+As per payment gateway policies and liability shift clause, it is merchant responsibility to adhere to PCI Compliant CMS through Payment Acceptance Directives
+
+View Patch Type - `Required` or `Optional` (in the Display Patch Grid by following commands below)
+The great part about using Bitnami Magento OS is they are all updated where mandatory security patches are applied to each release. You can view all patches applicable to your specific installation - `https://devdocs.magento.com/quality-patches/tool.html#patch-grid`
+
+Steps to Follow - Login to SSH > cd to Magento Directory
+`cd /opt/bitnami/magento`
+
+```
+sudo magento-cli maintenance:enable
+composer require magento/quality-patches
+./vendor/bin/magento-patches status
+```
+```
+Select '2' Adobe Commerce Support followed by '1' to Display All Available Requred and Optional Patches
+./vendor/bin/magento-patches apply MDVA-30106 MDVA-12304
+```
+
+```
+Steps to Revert via Single Command -
+./vendor/bin/magento-patches revert MDVA-30106 MDVA-12304
+```
+
+| Magento 2.4x on Bitnami  | Optional/REQUIRED  |  Patch Prefix
+| ------------- | ------------- | ------------- |
+| MDVA-30106 | Optional  |  MDVA
+| MDVA-12304 | Optional  |  MDVA
+| MDVA-19640 | Optional  |  MDVA
+| MDVA-41061-V4 | Optional  |  MDVA
+| MDVA-38346 | Optional  |  MDVA
+| MDVA-38626 | Optional  |  MDVA
+| MDVA-38728 | Optional  |  MDVA
+| MDVA-41305-V2 | Optional  |  MDVA
+| MDVA-42790 | Optional  |  MDVA
+| MDVA-42269 | Optional  |  MDVA
+| MDVA-42237 | Optional  |  MDVA
+| MDVA-42410 | Optional  |  MDVA
+| MDVA-41136 | Optional  |  MDVA
+| MDVA-41628 | Optional  |  MDVA
+| MDVA-42950 | Optional  |  MDVA
+| MDVA-42689 | Optional  |  MDVA
+| MDVA-41229 | Optional  |  MDVA
+| MDVA-39605 | Optional  |  MDVA
+| MDVA-43862 | Optional  |  MDVA
+| MDVA-43824 | Optional  |  MDVA
+| MDVA-43491 | Optional  |  MDVA
+| MDVA-43601 | Optional  |  MDVA
+| MDVA-44188 | Optional  |  MDVA
+| MDVA-42283 | Optional  |  MDVA
+| MDVA-43983 | Optional  |  MDVA
+| MDVA-44100 | Optional  |  MDVA
+| MDVA-43605 | Optional  |  MDVA
+| MDVA-43102 | Optional  |  MDVA
+| MDVA-43178 | Optional  |  MDVA
+| MDVA-44887 | Optional  |  MDVA
+| MDVA-44660 | Optional  |  MDVA
+| MDVA-44703 | Optional  |  MDVA
+| MDVA-44940 | Optional  |  MDVA
+| MDVA-44562 | Optional  |  MDVA
+| MDVA-43167 | Optional  |  MDVA
+| MDVA-42807 | Optional  |  MDVA
+
+```
+Select '2' Adobe Commerce Support followed by '1' to Display All Available Requred and Optional Patches
+./vendor/bin/magento-patches apply ACSD-45143 ACSD-44591
+```
+
+```
+Steps to Revert via Single Command -
+./vendor/bin/magento-patches revert ACSD-45143 ACSD-44591
+```
+
+
+| Magento 2.4x on Bitnami  | Optional/REQUIRED  |  Patch Prefix
+| ------------- | ------------- | ------------- |
+| ACSD-45143 | Optional  |  ACSD
+| ACSD-44591 | Optional  |  ACSD
+| ACSD-45169 | Optional  |  ACSD
+| ACSD-45424 | Optional  |  ACSD
+| ACSD-46146 | Optional  |  ACSD
+| ACSD-45255 | Optional  |  ACSD
+| ACSD-45488 | Optional  |  ACSD
+| ACSD-45754 | Optional  |  ACSD
+| ACSD-46213 | Optional  |  ACSD
+| ACSD-46192 | Optional  |  ACSD
+| ACSD-46404 | Optional  |  ACSD
+| ACSD-46703 | Optional  |  ACSD
+| ACSD-44851 | Optional  |  ACSD
+| ACSD-45675 | Optional  |  ACSD
+| ACSD-46869 | Optional  |  ACSD
+
+```
+sudo magento-cli cache:clean
+sudo magento-cli indexer:reindex
+sudo magento-cli maintenance:disable
+```
+
+You can avoid indexer:reindex command by entering
+```
+sudo magento-cli setup:upgrade
+```

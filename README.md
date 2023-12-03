@@ -287,7 +287,7 @@ FLOW DIAGRAM
 | Enable Maintainence Mode | Optional - Use composer to install required Packages  |  Patch Installation
 | Disable Maintainence Mode | Upload Theme via Themeforest.net using SFTP  |  - FileZilla
 | Upload Pincode Serviceability List | ^ODA Filtered  |  FedEx ODA
-| Upload Tax Rates | India Goods and Service Tax  |  Reverse GST 3% 5% 12% 18% (15.25%) 28% (21.785%)
+| Upload Tax Rates | India Goods and Service Tax  |  Reverse GST 3% (2.92%) 5% (4.765%) 12% (10.72%) 18% (15.25%) 28% (21.875%)
 | Upload Product Schema using .csv | Add Google Shopping Feed via MagModules.eu  | Frank Tiggleman
 | Install Payment Module | Test Webhook / Callback URI |  Move to Production
 | Initiate Tele-assist for redirect URL Success/Failure UAT | Optional  |  Move to Production

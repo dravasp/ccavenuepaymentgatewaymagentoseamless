@@ -92,8 +92,8 @@ Instructions:
   - Please Do Not Run composer with sudo or install in project root directory / Please Do Not Upload Static Files to Webserver.
   - Request Integration Support or Seek Guidance from Repo Maintainers
    
-  - Sandbox URL Set - https://test.ccavenue.com/transaction.do?command=initiateTransaction (Currently Enabled)
-  - Alternate Sub-set URL - https://qasecure.ccavenue.com/transaction.do?command=initiateTransaction (RP Monei via Moneybookers)
+  - Sandbox URL Set - https://test.ccavenue.com/transaction.do?command=initiateTransaction (default-payload)
+  - Alternate Sub-set URL - https://qasecure.ccavenue.com/transaction.do?command=initiateTransaction (Currently Enabled)
   - Production URL Set - https://secure.ccavenue.com/transaction.do?command=initiateTransaction (Currently Enabled)
   - Production URL Set - 
 

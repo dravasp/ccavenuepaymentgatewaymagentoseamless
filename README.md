@@ -15,7 +15,7 @@ CCAvenue Internet Payment Gateway Module for Magento 2.4x
 Install using SSH
 ```
 cd /opt/bitnami/magento
-composer require dravasp / ccavenuepaymentgatewaymagentoseamless:dev-master
+composer require dravasp/ccavenuepaymentgatewaymagentoseamless:dev-master
 sudo magento-cli setup:upgrade
 ```
 Login to Magento Admin > Configuration > Sales > Payment Methods
@@ -61,11 +61,11 @@ Instructions:
     Inside the block, you can see the latest status of the transaction on CCAvenue end. 
 
 [] Corporate Office Address  - Payment Gateway with Global Presence
-
+```
   - Infibeam Avenues Limited (India - IN) 
     - Mumbai Office - Level II, Plaza Asiad, S. V. Road, Santa Cruz (West), Mumbai - 400054. Maharashtra, India.
 		+91 22 35155072
-
+```
   - Ahmedabad Office - 28th Floor, Gift Two Tower, Block No. 56, Road 5C, Zone 5, Gift City, Gandhinagar - 382355. Gujarat, India
   - Pune Office - TRIOS CoWorkplace, Mont Vert Spectra, Office #106, 3rd floor, Opp. Hotel Wadeshwar, Baner Rd, Pallod farms, Baner, Pune - 411045, India
   - Delhi Office - Insta Office B-39, Near PVR Plaza, Block B, Connaught Place, New Delhi - 110001, India
@@ -73,11 +73,11 @@ Instructions:
   - Chennai Office - HQ10 CoWorking Office, Bristol IT Park, Plot No. 10, 4th Floor, South Phase, Thiru.vi.Ka Industrial Estate, Guindy, Chennai - 600032, India
 
   - Avenues World FZ LLC (United Arab Emirates - UAE)
-
+```
   - Dubai Office - Avenues World FZ LLC
 	- Dubai Internet City Building # 17, Level 2, Office # 253 Opp. DIC Metro Station (seaside), P.O. Box 500416, Dubai, United Arab Emirates
 		+971 4 5531029
-
+```
   - Infibeam Avenues Saudi Arabia For Information Systems Technology Co. (Kingdom of Saudi Arabia - k.s.a)
 	- Riyadh Office - Unit No. 2, First Floor, Alakhwin Building, Al Amir Abdulaziz Ibn Musaid Ibn Jalawi, Al Murabba, 12613, Riyadh, Kingdom of Saudi Arabia.
 		+966 55 024 6031
@@ -86,17 +86,16 @@ Instructions:
 	- New York Office - One Penn Plaza 36th Floor - New York 10119, US
 
 [] Important Emails for Corporate Communications and Risk Assessment
-	- Marketing contact@ccavenue.com / Technical service@ccavenue.com / Account accounts@ccavenue.com / Cardholder - Risk risk@ccavenue.com
+	- Marketing `contact@ccavenue.com` / Technical `service@ccavenue.com` / Account `accounts@ccavenue.com` / Cardholder - Risk `risk@ccavenue.com`
 
-[] Install using composer require dravasp/ccavenuepaymentgatewaymagentoseamless
+[] Install using `composer require dravasp/ccavenuepaymentgatewaymagentoseamless:dev-master`
   - Please Do Not Run composer with sudo or install in project root directory / Please Do Not Upload Static Files to Webserver.
   - Request Integration Support or Seek Guidance from Repo Maintainers
-   
+```   
   - Sandbox URL Set - https://test.ccavenue.com/transaction.do?command=initiateTransaction (default-payload)
   - Alternate Sub-set URL - https://qasecure.ccavenue.com/transaction.do?command=initiateTransaction (Currently Enabled)
   - Production URL Set - https://secure.ccavenue.com/transaction.do?command=initiateTransaction (Currently Enabled)
-  - Production URL Set - 
-
+```
   - For Testing UAT run 
 		md5 <filename>
 
@@ -109,7 +108,7 @@ Instructions:
 You will now be able to integrate CCAvenue with your existing Merchant Services Account of choice where you host your Merchant Account
 
 Merchant Account or Cash Collection Service Account with India's Leading Banks allow high order value or high frequency volume (recurring trxns.) - 
-```SBI Cards & Payment Services Limited (formerly known as SBI Cards & Payment Services Private Limited) / SBIePay or SBI Merchant Services```
+```SBI Cards & Payment Services Limited (formerly known as SBI Cards & Payment Services Private Limited) / SBIePay```
 
 Benefits of Merchant Services as opposed to standard Integration - 
 ```
@@ -119,6 +118,7 @@ Get customised MIS solutions for your business needs
 ```
 
 Optional Method to Allow Private Repositories via Composer
+
 `composer config --global --auth http-basic.repo.packagist.com token c6addb89a67b2822d352d114`
 
 	OR

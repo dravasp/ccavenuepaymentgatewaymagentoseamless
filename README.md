@@ -13,7 +13,7 @@ CCAvenue Internet Payment Gateway Module for Magento 2.4x
 ![Github Followers](https://img.shields.io/github/followers/dravasp?style=social)
 
 ```
-If you are running 16GB NVMe Server - Change memory value to 15.5G sudo nano /opt/bitnami/php/etc/php.ini and sudo /opt/bitnami/ctlscript.sh restart
+If you are running 16GB NVMe Server - Change memory value to 15.5G - sudo nano /opt/bitnami/php/etc/php.ini and sudo /opt/bitnami/ctlscript.sh restart
 ```
 
 Install using SSH
@@ -276,3 +276,18 @@ You can avoid indexer:reindex command by entering
 ```
 sudo magento-cli setup:upgrade
 ```
+
+FLOW DIAGRAM
+| Task  | Type  |  Prefixure
+| ------------- | ------------- | ------------- |
+| Launch Magento OS LTS via `https://bitnami.com/stack/magento/cloud` | r5a.d  |  ap-south1-a/-b/-c (Used in this payday)
+| Attach Elastic IP | Map DNS via Cloudflare WAF  |  Enable ASN Filtering
+| Run sudo /opt/bitnami/bncert-tool via SSH (SolarPuTTY) | issue .cert  |  via Let'sEncrypt TLS v1.3
+| Access Magento Admin | Configure amazon SES  |  amazon SNS
+| Enable Maintainence Mode | Optional - Use composer to install required Packages  |  Patch Installation
+| Disable Maintainence Mode | Upload Theme via Themeforest.net using SFTP  |  - FileZilla
+| Upload Pincode Serviceability List | ^ODA Filtered  |  FedEx ODA
+| Upload Tax Rates | India Goods and Service Tax  |  Reverse GST 3% 5% 12% 18% (15.25%) 28% (21.785%)
+| Upload Product Schema using .csv | Add Google Shopping Feed via MagModules.eu  | Frank Tiggleman
+| Install Payment Module | Test Webhook / Callback URI |  Move to Production
+| Initiate Tele-assist for redirect URL Success/Failure UAT | Optional  |  Move to Production

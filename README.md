@@ -14,7 +14,9 @@ CCAvenue Internet Payment Gateway Module for Magento 2.4x
 
 Install using SSH
 cd /opt/bitnami/magento
+
 composer require dravasp / ccavenuepaymentgatewaymagentoseamless:dev-master
+
 sudo magento-cli setup:upgrade
 
 Login to Magento Admin > Configuration > Sales > Payment Methods

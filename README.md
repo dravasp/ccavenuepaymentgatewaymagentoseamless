@@ -11,7 +11,6 @@ CCAvenue Internet Payment Gateway Module for Magento 2.4x
 ![Packagist](https://img.shields.io/packagist/stars/dravasp/ccavenuepaymentgatewaymagentoseamless?style=flat-square)
 ![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCv-tdY7OFWk_f1JP4_hmS5A)
 ![Github Followers](https://img.shields.io/github/followers/dravasp?style=social)
-![Brand Website](https://img.shields.io/website?down_color=not%20running&down_message=site%20under%20maintainence&style=flat-square&up_message=active%20and%20running&url=https://ccavenue.com)
 
 Install using SSH
 cd /opt/bitnami/magento

@@ -1,0 +1,52 @@
+{
+    "name": "dravasp/ccavenuepaymentgatewaymagentoseamless",
+    "description": "CCAvenue Internet Payment Gateway Module for Magento 2.4x optimised for aws Bitnami",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "require": {
+		"php": "~7.*|^8.2"
+		"magento/framework": "100.0.*",
+		"magento/module-sales": "100.0.*",
+        "magento/module-checkout": "100.0.*",
+        "magento/module-payment": "100.0.*",
+        
+    },
+    "keywords": [
+        "ccavenue",
+        "magento commerce",
+        "secure payments",
+        "atmanirbhar bharat india",
+        "payment gateway",
+        "wallets and emis",
+        "netbanking and upi",
+		"uae uk usa india ksa"
+    ],
+    "authors": [
+        {
+            "name": "Sentinnel One",
+            "homepage": "https://dashboard.ccavenue.com/web/genregistration.do?command=navigateGenericRegistration&reseller=CCAV",
+            "role": "Contributor"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/dravasp/ccavenuepaymentgatewaymagentoseamless",
+        "issues": "https://github.com/dravasp/ccavenuepaymentgatewaymagentoseamless",
+        "docs":
+            "https://github.com/dravasp/ccavenuepaymentgatewaymagentoseamless/blob/main/README.md"
+    },
+    "homepage": "https://www.ccavenue.com/",
+    "suggest": {
+        "magento/module-checkout-agreements": "100.*"
+    },
+    "type": "magento2-module",
+    "license": [
+		"OSL-3.0",
+        "AFL-3.0"
+		],
+    "autoload": {
+        "files": ["registration.php"],
+        "psr-4": {
+            "Magento\\Ccavenuepay\\": ""
+        }
+    }
+}

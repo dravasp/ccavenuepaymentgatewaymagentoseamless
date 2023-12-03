@@ -87,7 +87,7 @@ Instructions:
 
 [] Important Emails for Corporate Communications and Risk Assessment
 	- Marketing `contact@ccavenue.com` / Technical `service@ccavenue.com` / Account `accounts@ccavenue.com` / Cardholder - Risk `risk@ccavenue.com`
-
+ 
 [] Install using `composer require dravasp/ccavenuepaymentgatewaymagentoseamless:dev-master`
   - Please Do Not Run composer with sudo or install in project root directory / Please Do Not Upload Static Files to Webserver.
   - Request Integration Support or Seek Guidance from Repo Maintainers
@@ -104,6 +104,36 @@ Instructions:
 	inside SSH Terminal to provide verification to VAS Team
 	
   - One-page Checkout Enabled for Magento Commerce OS - Bitnami
+
+CCAvenue India for Business
+=========================================================================================
+
+Presenting CCAvenue Merchant App - the most advanced omni-channel payments platform, designed to track all your transactions on the go and request for payments via LinkPay & QRPay in a jiffy.
+
+<a href="https://apps.apple.com/in/app/ccavenue-india-for-business/id1607808934?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 5px; width: 14%; height: 3%"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1689465600" alt="Download onthe App Store" style="display: inline-block; overflow: hidden; border-radius: 5px; width: 14%; height: 3%"></a>
+
+```
+The CCAvenue App makes it easy to track your business performance and manage it effectively even on the move.
+
+With our 100% digital KYC, you get on-boarded instantly and can start accepting payments within minutes at zero cost.
+CCAvenue offers payment solutions that suit all types of businesses, be it private or public limited company,
+shop owners, teachers, doctors, freelancers or home business owners.
+You can go cashless and receive payments through 200+ payment options including credit card, debit card, Netbanking, UPI, wallets & more.
+Accepting payments is now simpler, easier & faster.
+
+Accept Payments Instantly via:
+
+CCAvenue LinkPay:
+Create & share payment links with customers via SMS, Email or WhatsApp & receive payments immediately with just a single click!
+
+CCAvenue QRPay:
+Offer secure & contactless payments with CCAvenue QR, UPI QR or Bharat QR.
+Google Play and the Google Play logo are trademarks of Google LLC.
+Your customers can simply scan & pay via any UPI enabled App. Contact Email : contact@ccavenue.com
+```
+<a href="https://play.google.com/store/apps/details?id=com.ccavenue.mars.mobile&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" style="display: inline-block; overflow: hidden; border-radius: 5px; width: 18%; height: 45%"><img alt='Get it on Google Play' src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" style="display: inline-block; overflow: hidden; border-radius: 5px; width: 18%; height: 45%"></a>
+
+
 
 You will now be able to integrate CCAvenue with your existing Merchant Services Account of choice where you host your Merchant Account
 

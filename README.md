@@ -359,3 +359,28 @@ Cloudflare WAF Custom Rule Expression (Copy-Paste by Editing Expression)
 ```
 (ip.geoip.asnum ne 21532 and ip.geoip.asnum ne 21760 and ip.geoip.asnum ne 21938 and ip.geoip.asnum ne 21982 and ip.geoip.asnum ne 21987 and ip.geoip.asnum ne 22081 and ip.geoip.asnum ne 22086 and ip.geoip.asnum ne 22106 and ip.geoip.asnum ne 22135 and ip.geoip.asnum ne 22176 and ip.geoip.asnum ne 22183 and ip.geoip.asnum ne 22216 and ip.geoip.asnum ne 22220 and ip.geoip.asnum ne 22390 and ip.geoip.asnum ne 22510 and ip.geoip.asnum ne 22538 and ip.geoip.asnum ne 22560 and ip.geoip.asnum ne 22570 and ip.geoip.asnum ne 22577 and ip.geoip.asnum ne 22720 and ip.geoip.asnum ne 22859 and ip.geoip.asnum ne 22883 and ip.geoip.asnum ne 22983 and ip.geoip.asnum ne 23047 and ip.geoip.asnum ne 23098 and ip.geoip.asnum ne 23152 and ip.geoip.asnum ne 23217 and ip.geoip.asnum ne 23227 and ip.geoip.asnum ne 23454 and ip.geoip.asnum ne 23455 and ip.geoip.asnum ne 23616 and ip.geoip.asnum ne 23644 and ip.geoip.asnum ne 23658 and ip.geoip.asnum ne 23663 and ip.geoip.asnum ne 23664 and ip.geoip.asnum ne 23765 and ip.geoip.asnum ne 23766 and ip.geoip.asnum ne 23782 and ip.geoip.asnum ne 23816 and ip.geoip.asnum ne 23915 and ip.geoip.asnum ne 24029 and ip.geoip.asnum ne 24280 and ip.geoip.asnum ne 24296 and ip.geoip.asnum ne 24568 and ip.geoip.asnum ne 24572 and ip.geoip.asnum ne 25605 and ip.geoip.asnum ne 25685 and ip.geoip.asnum ne 25829 and ip.geoip.asnum ne 25859 and ip.geoip.asnum ne 25869 and ip.geoip.asnum ne 25876 and ip.geoip.asnum ne 25883 and ip.geoip.asnum ne 25931 and ip.geoip.asnum ne 25949 and ip.geoip.asnum ne 25996 and ip.geoip.asnum ne 26085 and ip.geoip.asnum ne 26086 and ip.geoip.asnum ne 26101 and ip.geoip.asnum ne 26134 and ip.geoip.asnum ne 26144 and ip.geoip.asnum ne 26234 and ip.geoip.asnum ne 26496 and ip.geoip.asnum ne 26583 and ip.geoip.asnum ne 26607 and ip.geoip.asnum ne 26662 and ip.geoip.asnum ne 26672 and ip.geoip.asnum ne 26762 and ip.geoip.asnum ne 26936 and ip.geoip.asnum ne 27299 and ip.geoip.asnum ne 27357 and ip.geoip.asnum ne 27376 and ip.geoip.asnum ne 27476 and ip.geoip.asnum ne 27564 and ip.geoip.asnum ne 27625 and ip.geoip.asnum ne 28723 and ip.geoip.asnum ne 30060 and ip.geoip.asnum ne 30261 and ip.geoip.asnum ne 30281 and ip.geoip.asnum ne 30284 and ip.geoip.asnum ne 30285 and ip.geoip.asnum ne 30320 and ip.geoip.asnum ne 30342 and ip.geoip.asnum ne 30560 and ip.geoip.asnum ne 30561 and ip.geoip.asnum ne 30648 and ip.geoip.asnum ne 31924 and ip.geoip.asnum ne 32067 and ip.geoip.asnum ne 32116 and ip.geoip.asnum ne 32186 and ip.geoip.asnum ne 32287 and ip.geoip.asnum ne 32389 and ip.geoip.asnum ne 32496 and ip.geoip.asnum ne 32567 and ip.geoip.asnum ne 32734 and ip.geoip.asnum ne 32741 and ip.geoip.asnum ne 32948 and ip.geoip.asnum ne 32975 and ip.geoip.asnum ne 32982 and ip.geoip.asnum ne 33739 and ip.geoip.asnum ne 34697 and ip.geoip.asnum ne 32934)
 ```
+
+Packing Materials - GST Invoice
+```
+https://www.upack.in
+```
+- 5 Ply Corrugated Cardboard Box - Double Wall - `17 x 13 x 5 Inch`
+- 5 Ply Corrugated Cardboard Box - Double Wall - `20 x 15 x 6 Inch`
+- 3 Ply Corrugated Cardboard Box - Single Wall - `8 x 5 x 3 Inch`
+- 5 Ply Corrugated Cardboard Box - Double Wall - `16 x 16 x 16 Inch`
+- Shredded Tissue Paper (`Emerald Green`) - 350 gms
+- Shredded Tissue Paper (`Flamingo Pink`) - 350 gms
+
+eWay Bill Preparation -
+`https://ewaybill.nic.in` with TSS^ for Returns to Supplier (Outward Supplies)
+
+Accounting Template -
+`GST Monthly or Quarterly Filing based on Legal Entity Name instead of Trade Name` + `Debit Notes based on CN Numbers Issued` via `https://gst.gov.in` for .json Utility Upload - Company Secretary - CS Parth Sharma & associates (Justdial)
+
+TDS via .csi File (Download via Income Tax Portal) + .RPU (LTS) + .FVU (LTS) on TLS ver.1.3 Java Settings Panel
+`https://www.incometax.gov.in`
+
+Download and Sign `Form16A` via DSC Class-3 eMudhraCA (Authentication eSigner `VSign`) for Supplier engagement https://vsign.in
+
+Mail Client for Secure OSAMLx
+`Thunderbird Mail Client` with .asc and PGP via Actalis S/MIME Outlook `ZohoMail` Premium Plan

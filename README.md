@@ -290,7 +290,11 @@ https://aws.amazon.com/startups
 - Enable `Truecaller Business Profile` for your Business Number
 - `Activate Do-Not-Disturb` on your +91 Mobile Number (Opt-out of Promotions)
 
+- Imimobile Cloud Communications (india) Private Limited - 145534 - CIN U72900TG2020FTC145534
+- Built with Love at Hyderabad, India - Connect with Happiness Specialist - rbandyop@cisco.com
+
 SMS Entity and Template Registration with TSP - FLOW DIAGRAM
+- Register Telemarketer > 1102000001293 as My Telemarketer
 - Sign-in to `KYC enabled TRAI account Manager using JioTrueConnect Login` for `SENDER ID` Registration
 - Register `SMS Header` (`Transactional` - Order Updates)
 - Register (`Promotional` - Non-DND Numbers between `09:00hrs - 21:00hrs IST asia/kolkata`)

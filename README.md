@@ -277,6 +277,49 @@ You can avoid indexer:reindex command by entering
 sudo magento-cli setup:upgrade
 ```
 
+To enable SMS Notification across to Customers via Magento OS LTS -
+```
+https://docs.aws.amazon.com/sns/latest/dg/channels-sms-senderid-india.html
+https://trueconnect.jio.com
+https://www.kaleyra.com
+https://business.truecaller.com/register
+https://developers.facebook.com/docs/whatsapp/on-premises/get-started/installation/aws
+https://developers.facebook.com/docs/whatsapp/on-premises/payments-api/payments-in/pg
+https://aws.amazon.com/startups
+```
+- Enable `Truecaller Business Profile` for your Business Number
+- `Activate Do-Not-Disturb` on your +91 Mobile Number (Opt-out of Promotions)
+
+SMS Entity and Template Registration with TSP - FLOW DIAGRAM
+- Sign-in to `KYC enabled TRAI account Manager using JioTrueConnect Login` for `SENDER ID` Registration
+- Register `SMS Header` (`Transactional` - Order Updates)
+- Register (`Promotional` - Non-DND Numbers between `09:00hrs - 21:00hrs IST asia/kolkata`)
+- Register SMS Template using Variables and `Add Company Identification at the end of SMS Template`
+- Current limit is supported at `160chars per text message SMS`
+- Navigate to Template > Content Template Registration >
+  
+| Task  | Type  |  Prefixure
+| ------------- | ------------- | ------------- |
+| Content Category | Consumer Goods and Automobile  |  Header(s)
+| Template Type | Service Implicit (Transactional)  |  PLNCLQ or 556577
+```
+Congratulations! Your recent order on https://planetcliq.com for {#var#} total INR {#var#}.
+Payment has been processed via State Bank of India with txn id - {#var#}.
+We will dispatch your order via one of our delivery partners and you may track your order in
+real-time through the link you will receive shortly. Legal Terms & Conditions Apply.
+PlanetCliq.com is a WE SKY PRINT LLP enterprise.
+```
+
+Additionally, you can enable - Push Notifications using `Kaleyra and WhatsApp Business`
+Register with Kaleyra (`powered by Tata Communications`) for WhatsApp Green Tick Verified Account
+on WhatsApp Business (managed by meta Business - facebook api)
+You could `host on-premise instance for Amazon Web Services (AWS) to deploy the WhatsApp Business API`
+If you are registered with a financial institution to collect payments using WhatsApp
+- Your business can enable customers to pay for their orders through our partner payment gateways
+  without leaving WhatsApp. Businesses can send customers order_details messages, then get notified
+  about payment status updates via webhook notifications.
+For integrations using `Social Channels` - Connect with `CCAvenue` on `service@ccavenue.com`
+
 FLOW DIAGRAM
 | Task  | Type  |  Prefixure
 | ------------- | ------------- | ------------- |

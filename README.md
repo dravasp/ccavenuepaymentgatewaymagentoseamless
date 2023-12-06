@@ -391,4 +391,4 @@ Download and Sign `Form16A` via DSC Class-3 eMudhraCA (Authentication eSigner `V
 Mail Client for Secure OSAMLx
 `Thunderbird Mail Client` with .asc and PGP via Actalis S/MIME Outlook `ZohoMail` Premium Plan
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LLw1Ib8IQQk?si=DrvAN9mK93Vz-2bR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/DrvAN9mK93Vz-2bR/hqdefault.jpg)](https://www.youtube.com/embed/DrvAN9mK93Vz-2bR)

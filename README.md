@@ -391,4 +391,44 @@ Download and Sign `Form16A` via DSC Class-3 eMudhraCA (Authentication eSigner `V
 Mail Client for Secure OSAMLx
 `Thunderbird Mail Client` with .asc and PGP via Actalis S/MIME Outlook `ZohoMail` Premium Plan
 
+To ensure maximum security on your smartphones, you'd want to configure strict HTTP Layer 7 rules across ZeroTrust and enforce protective measures for a healthy outlook in the payment acceptance and processing space. Create an account on Cloudflare and navigate to Zero Trust via Menu on the left. You'll want to configure extensive options available for maximum security along with enablement of TwoFactor Authentication (2FA).
+
+If you're using ZohoMail as your default mailclient, it's advised to upgrade to Premium and register OpenPGP signature and .asc file to send encrypted mails. Mozilla Thunderbird (Donate to Opensource) is preferred Desktop PC client to access emails via IMAP/POP3. You can request uptodate public keys and add them to Thunderbird Mail Client to send encrypted mails to Security Experts at CCAvenue / Merchant Services / Attestation / DSC Services. You'd ideally want to disable integrations to external Zoho services (except Zoho Workdrive) for quick responses across Zoho Co-location Datacenter.
+
+To get started, purchase UPI Protection Plan offered via HDFCErgo (Cyber Sachet Policy) via Paytm Insurance Broking available via Paytm. Link Policy to HDFCErgo CKYC (Individual) Web Interface. Your annual coverage includes UPI Protection upto INR 10,000/- It is essential to fill the CERSAI (.pdf) and share the same with your account manager of your respective bank account. You will be required to update your address, date of birth, phone number and other KYC details instead of set defaults as it is a Master Group Policy that is issued to Individual. It takes less than 24 hours to link and dispatch a physical copy to your registered address.
+
+You can Lock Biometrics via mAadhaar (Biometric and Authentication Lock) if you suspect your details are breached. You should ideally have created an account on DigiLocker and meriPehachan and login via Mobile and 6 digit pin instead of Aadhaar Authentication. Instead login with Virtual ID where KYC norms are requested for example - Authenticated pulls via CDAC to complete Payment Acceptance License. To unlock Aadhaar, you'd require your Enrollment ID issued to you to state to Aadhaar Seva Kendra. In some cases, you'd require a formal application to your local Police Authorization where OTP Authenticated Details are not accepted across UIDAI. Ideally, you'd be protected from sensitive Biometric Data Leak across all channels. You'd not be able to Authenticate yourself across external financial services personnel for Doorstep Banking (this includes Issuance of Credit Cards) via HDFC Bank, State Bank of India, Axis Bank, and IndusInd Bank.
+
+You can complete your security enforcement on Income Tax of India CPC-IT Login by enablement of Aadhaar Authentication. You can login to Central Processing (TRACES) from your respective Netbanking Channel to download your Annual Information Statement (AIS) and Tax Information Summary (TIS). You can use UTILS or NSDL to download your Electronic (Digitally Signed) PAN Card by paying nominal fees, however banks will require you to verify using Original Issued PAN Card via Income Tax Department of India. Similarly, you'll be required to provide original UIDAI Aadhaar Letter on Passport Application along with other documents. Currently, hospitals request state issued ABHA ID on Admission for relatives (Non-Emergency). It is advised to update Co-WIN Registration on your fresh Passport (India) for eBoarding.
+
+Your primary KYC will be sent to eMudhra Government CA upon DSC Issuance (Class 3) issued via V-Sign (Verasys) or Pentasign or SIFY Technologies. Only a single DSC can be issued to Individual valid for a specified tenure applied for. You can use the DSC Java Util. to file returns to Goods and Service Tax (GST) Zonal Officer, EXIM Authority, and Legal Attestation for post processing. You can use HyperPKI 2003 to install your freshly issued .cert across acceptance.
+
+You might be required to switch to a Diskette for installing specific security drivers made available to you via your Payment Partner/s. Most workstations via Lenovo such as Lenovo Thinkstation offer reverse engineered OS to run similar drivers. Your local systems can host a simulated OS such as CIS-2003 Office that require redundancy.
+
+It is advised to host a Paid account on CIBIL Transunion, Experian or CSRIF for monitoring your financial activity such as Credit Inquiries, Loan Accounts, Implied Checks from Banks for Large Credit Transfers. However, your PAN issued via CPC IT and TRACES will be sufficient for most accuracy if you have invested in NSE/BSE Listed Equities for STCG or LTCG via your Depository Participant. Paytm Money with CDSL is a performant combination if you require low charges on your Dematerialization of Share Certificates (ASBA enabled Demat Account). However, you'd absolutely require 2FA enabled on Login.
+
+To avoid calls from Hidden Numbers, several measures can be enforced on your device -
+
+Switch Mobile Network from Automatic to Manual Select Operator. Choose LTE only as your Network Mode. Inside Access Point Configuration, enable IPV6 for APN and set Bearer to LTE (deselect others). MCC or MNC as provided. Set rest to Not Set or None. These are applicable on eSim.
+Remove all Payment Methods and Enable Google Play Recharge Balance.
+Enable nord32 Mobile AV Subscription (Annual on Single Device). Configure to Maximum Security Settings such as enable Rules to Automatically Block Hidden Numbers (Keep Unknown Numbers allowed). You can use Truecaller as your Default Calling App for Number Identification with nord32 as default for your Spam Protection.
+Disable network access to apps for bandwidth condition via Zero Trust and monitor Network Logs in Diagnostics. You can also use Quickheal Technologies for GST Billing.
+
+Prior to scanning UPI QR Codes for sending out payments, you should ideally use balance/history for Pay Again to same merchant as most merchants support plug and play for enterprise payment acceptance. This is a great feature when specific datacenters or colocation centers (across several zones) face downtime or maintenance.
+
+ZeroTrust and DNS Services offered by Cloudflare on Chrome Browser (Mobile and Desktop) allow unprecedented security based on the data colocation of your residency. You should configure your Android Device, Mobile Browser and Desktop Browser to clear browsing history, delete cookies via site settings, force logout of all apps and disable smart tech if altered results over secure channel.
+
+Most of these settings will allow users to avoid installation of custom roms or enablement of developer settings for unexpected results.
+
+Samsung Devices offer Secured by Knox with Security Updates for Android.
+
+If you're an avid user of Chip EVM Cards on Tap NFC with your Samsung device, you'll want to secure your payment limits on your Netbanking portal.
+
+To conclude, many concurrent payments are usually affected with large data and hence split or segmented payments are preferred. Unfortunately, split payments aren't processing concurrent and expected price to buy ratio might change over time lost </ proportional.
+
+Quick Tip - Select CERT-IN for Authenticated Pulls across Organization - Apply Tally OCSP to cert.in
+You can also use TAFCOP service to check the mobile numbers registered to you.
+
+You should moat definitely add filtered keywords to your social media and other websites that support this feature. Meta Services Framework currently supports this.
+
 [![Watch the video](https://img.youtube.com/vi/LLw1Ib8IQQk/hqdefault.jpg)](https://www.youtube.com/embed/LLw1Ib8IQQk)

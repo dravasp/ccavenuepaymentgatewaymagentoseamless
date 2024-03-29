@@ -431,4 +431,184 @@ You can also use TAFCOP service to check the mobile numbers registered to you.
 
 You should moat definitely add filtered keywords to your social media and other websites that support this feature. Meta Services Framework currently supports this.
 
-[![Watch the video](https://img.youtube.com/vi/LLw1Ib8IQQk/hqdefault.jpg)](https://www.youtube.com/embed/LLw1Ib8IQQk)
+Depending on your Local Machine Operating System (OS) - Microsoft Windows 10 / 11 - Pro Edition 64-bit, you will need to configure 1-click Local Group Policies (LGPO) available via DoD Cyber Exchange Public - https://public.cyber.mil/stigs/scap - Security Technical Implementation Guides (STIGs) or Security Content Automation Protocol (SCAP) sponsored by Defense Information Systems Agency (DISA) - You can use STIG/SCAP for quickly configuring your local machine to highest security standards according to CATI, CATII, and/or CATIII to protect your data from breaches and security leaks. Note - STIG/SCAP are primarily technical guidelines provided as Best Practices Standard via DISA - You will need to enforce any/all via steps outlined below. The following process will ensure approx. 64.8% security automation score on Windows 11 Home Edition and 48% Microsoft security automation score - Tested on March 29th 2024 IST (asia/kolkata +5:30 time.nist.gov).
+
+Create new folder `"DISA"` as C:\
+Create new folders `"Important", "Reports", and "Checklists"` as C:\DISA
+Download the following .zip files - https://public.cyber.mil/stigs/scap - Sort by Date (latest) and Show (50 entries) - Choose the latest security automation guidelines.
+
+	SCAP TOOLS
+
+`scc-5.8_Windows_bundle - SCC 5.8 Windows - 153.92 MB - Published on 18 Sep 2023`
+
+	SCAP 1.2 CONTENT
+
+`U_MS_Windows_11_V1R3_STIG_SCAP_1-2_Benchmark - Microsoft Windows 11 STIG Benchmark - Ver 1, Rel 3 - 96.95 KB - Published on 30 Oct 2023` - You can choose to download `Microsoft Windows 10 STIG Benchmark - Ver 2, Rel 9` if your local machine is currently using Windows 10 Pro or Windows 11 Pro if your local machine supports TPM2.0 module (Hardware-backed encryption)
+
+Download the following .zip file from STIG Viewer 3.x - https://public.cyber.mil/stigs/srg-stig-tools
+```
+U_STIGViewer-win32_x64-3-3-0 - STIG Viewer 3.3-Win64 - 140.36 MB - 07 Feb 2024
+U_MS_Defender_Antivirus_V2R5_STIG_SCAP_1-2_Benchmark - Microsoft Defender Antivirus STIG Benchmark - Ver 2, Rel 5 - 22.36 KB - Published on 22 Jan 2024
+U_Google_Chrome_V2R9_STIG_SCAP_1-2_Benchmark - Google Chrome STIG Benchmark - Ver 2, Rel 9 - 23.71 KB - Published on 22 Jan 2024
+U_MS_Edge_V1R3_STIG_SCAP_1-2_Benchmark - Microsoft Edge STIG Benchmark - Ver 1, Rel 3 - 24.2 KB	- Published on 23 Oct 2023
+U_MS_IE11_V2R6_STIG_SCAP_1-2_Benchmark - Microsoft Internet Explorer 11 STIG Benchmark - Ver 2, Rel 6 - 1.11 MB	- Published on 22 Jan 2024
+```
+
+Download the following .zip file from - https://public.cyber.mil/stigs/downloads
+`U_MS_Windows_11_V1R5_STIG - Microsoft Windows 11 STIG - Ver 1, Rel 5 - 1.34 MB	- Published on 30 Oct 2023`
+
+Download the following .zip file from - https://public.cyber.mil/stigs/gpo
+`U_STIG_GPO_Package_January_2024 - Group Policy Objects (GPOs) - January 2024 - 6.91 MB - Published on 05 Feb 2024`
+
+Download only `LGPO.zip (~519.2 KB)` from https://www.microsoft.com/en-us/download/details.aspx?id=55319 - Security Compliance Toolkit and Baselines - This set of tools allows enterprise security administrators to download, analyze, test, edit and store Microsoft-recommended security configuration baselines for Windows and other Microsoft products, while comparing them against other security configurations.
+
+If you are using WinRAR 64-bit, you can extract each archive to separate folder or extract each folder - one - by - one and move the .zip to Important for safe vault.
+
+Follow these steps to proceed -
+
+Navigate to `scc-5.8_Windows_bundle` > Extract `scc-5.8_Windows.zip` and open the folder > `C:\DISA\scc-5.8_Windows_bundle\scc-5.8_Windows\scc-5.8_Windows\scc_5.8.exe`
+Right-click and Delete the currently pre-loaded SCAP on Windows dropdown
+
+Click on Install and Select the following files - Keep YES checked for Options Checkbox >
+```
+U_MS_Defender_Antivirus_V2R5_STIG_SCAP_1-2_Benchmark - Microsoft Defender Antivirus STIG Benchmark - Ver 2, Rel 5 - 22.36 KB - Published on 22 Jan 2024
+U_Google_Chrome_V2R9_STIG_SCAP_1-2_Benchmark - Google Chrome STIG Benchmark - Ver 2, Rel 9 - 23.71 KB - Published on 22 Jan 2024
+U_MS_Edge_V1R3_STIG_SCAP_1-2_Benchmark - Microsoft Edge STIG Benchmark - Ver 1, Rel 3 - 24.2 KB	- Published on 23 Oct 2023
+U_MS_IE11_V2R6_STIG_SCAP_1-2_Benchmark - Microsoft Internet Explorer 11 STIG Benchmark - Ver 2, Rel 6 - 1.11 MB	- Published on 22 Jan 2024
+U_MS_Windows_11_V1R3_STIG_SCAP_1-2_Benchmark - Microsoft Windows 11 STIG Benchmark - Ver 1, Rel 3 - 96.95 KB - Published on 30 Oct 2023
+```
+Navigate to Options on top menu > Output Options > Set Path : `C:\DISA\Reports` for Save Results to a Custom Directory - Scan Results will be made available post querying.
+Minimize Window
+Open `C:\DISA\U_STIGViewer-win32_x64-3-3-0.exe - STIG Viewer 3.3-Win64 - 140.36 MB - 07 Feb 2024` > You can choose to customise your DISA STIG Viewer ver.3x. by enabling dark mode > Click Open Multiple Stigs by Selecting > `U_MS_Windows_11_V1R3_STIG_SCAP_1-2_Benchmark.xmlfile (STIGFile present in path - C:\DISA\U_MS_Windows_11_V1R3_STIG_SCAP_1-2_Benchmark\)` if you would like to run automation for Windows 11 benchmark or select the additional `.xmlfile` files inside `C:\DISA` folder - 
+```
+U_Google_Chrome_V2R9_STIG_SCAP_1-2_Benchmark.xml
+U_MS_Defender_Antivirus_V2R5_STIG_SCAP_1-2_Benchmark.xml
+U_MS_Edge_V1R3_STIG_SCAP_1-2_Benchmark.xml
+U_MS_IE11_V2R6_STIG_SCAP_1-2_Benchmark.xmlfile
+```
+
+Click on Gear Icon and Select Create Checklist from STIG and Save Checklist inside `C:\DISA\Checklists`
+Open Terminal or Command Prompt as Administrator and run the following commands one by one for `Windows 11 Benchmarks` present for automation inside `C:\DISA\LGPO\LGPO_30` folder
+
+`cd C:\DISA\LGPO\LGPO_30`
+
+```
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Windows 11 v1r5\GPOs\{8E534F4D-DD7E-4B14-B09A-B944F6341F6E}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Windows 11 v1r5\GPOs\{82432779-89EA-4CFC-8759-7B6759037DE1}"
+```
+
+Continue with Command Prompt as Administrator and run the following commands one by one for `Windows 10 Benchmarks`
+
+```
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Windows 10 v2r8\GPOs\{876C5A1E-7050-4D3F-9FA5-99E9B31BF80E}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Windows 10 v2r8\GPOs\{D44AA262-F641-4083-87B1-1BC05572792D}"
+```
+Note the folder value and folder name inside `C:\DISA\U_STIG_GPO_Package_January_2024\DoD Windows 10 v2r8\GPOs\` will be different for your downloaded file.
+
+For `Google Chrome Benchmarks`
+
+```
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Google Chrome v2r8\GPOs\{0FBEE738-6902-4E7E-8E79-9A0B1B2668B9}"
+```
+
+For `Internet Explorer 11 Benchmarks`
+
+```
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Internet Explorer 11 v2r5\GPOs\{843FA335-CE04-4647-9118-C4BB301D7F3A}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Internet Explorer 11 v2r5\GPOs\{932CA0DB-0AC9-413F-8EE3-9ACB5D15C4DD}"
+```
+
+For `Microsoft Defender Antivirus`
+
+```
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Microsoft Defender Antivirus STIG v2r4\GPOs\{1733BFC6-8E8E-41F7-BB76-EB2070330C89}"
+```
+For `Microsoft Edge`
+
+```
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Microsoft Edge v1r7\GPOs\{7121E30A-6426-45FA-9DA0-3C60AA4C130A}"
+```
+
+For `Microsoft Office 2019-Microsoft 365 Apps`
+```
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office 2019-M365 Apps v2r11\GPOs\{8EDEFBA3-AABA-4066-A63B-D15914BF56A8}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office 2019-M365 Apps v2r11\GPOs\{75586EAD-D728-49D5-8BC1-402C1E9A8A01}"
+```
+
+For `Microsoft Office 2013`
+
+```
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2013 and Components\GPOs\{9DDE8B7D-AADE-4F26-B769-DD36CEC7CBB0}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2013 and Components\GPOs\{9F715CEC-6EB4-41AE-804C-DFF512FCB278}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2013 and Components\GPOs\{27DA054A-1B6B-485F-A981-46810AF32CF7}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2013 and Components\GPOs\{45A93B3A-F8C4-4102-8509-FEC3B216CC43}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2013 and Components\GPOs\{46C22333-24E4-4F5A-BEBA-48634CC51E85}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2013 and Components\GPOs\{240F74C2-0465-4A87-ACE1-364066A15641}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2013 and Components\GPOs\{455AA1D6-C22A-41F6-8D86-20145139400A}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2013 and Components\GPOs\{07990314-3443-473C-9CCD-CDFEA1D5DDC2}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2013 and Components\GPOs\{B39248FF-4EC8-4E6E-A805-DE639EC598D1}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2013 and Components\GPOs\{D26A6107-F206-43A6-9C5F-3595093364D5}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2013 and Components\GPOs\{D6775239-5E9A-481C-B56B-8170C5130B54}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2013 and Components\GPOs\{FDCCB0A2-D5C0-4CD1-9AC9-98442968E3A7}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2013 and Components\GPOs\{FE1C2053-1C1C-4837-9D55-3EBBC395C642}"
+```
+
+For `Microsoft Office 2016`
+
+```
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{1A04C73B-CA54-45C6-AFE9-0BDC0FFCC0AA}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{2CA857D3-5B8D-4855-8A48-3D882386DB4A}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{4C16D0DC-6741-4952-A9B2-C81C409BAF5A}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{16D14A17-26E7-4EA5-87EC-21441E1A68E1}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{44C3946C-D604-41F3-BE67-C93BEDB80E9A}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{91FF921B-86F1-425E-9B86-F9750D3B6BA7}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{32550A92-7AE6-4A3A-805F-16925DD80219}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{68848ECD-6852-48F1-B576-DFD636820C26}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{300290AA-9189-4756-AFE1-40BBA5C23C22}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{A6642CD0-707C-46E3-80E4-9154FAA00188}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{B7997B35-2FA8-469E-9B4C-C6149044BC60}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{B3851818-412D-4844-8E79-A57D5D503B83}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{DE983C8C-5592-456A-9FD2-F716C6A40477}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{E5FC5A64-B14B-4C11-B377-A47A4572AA70}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Office System 2016 and Components\GPOs\{EA5ACE7F-77F7-4059-B72B-A9BBBEBCD6ED}"
+```
+
+For `Microsoft Defender Firewall`
+
+```
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Windows Defender Firewall v2r2\GPOs\{EB82B913-90A2-4599-A554-90B3A116B382}"
+```
+
+For `Adobe Acrobat Reader DC Continuous`
+
+```
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Adobe Acrobat Reader DC Continuous V2R1\GPOs\{45606343-8AFB-48D5-848E-2A6D22B3BA70}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Adobe Acrobat Reader DC Continuous V2R1\GPOs\{BFDDF882-A145-4758-B1B5-F8A207880C61}"
+```
+
+Adobe `Acrobat Pro DC Continuous`
+
+```
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Adobe Acrobat Pro DC Continuous V2R1\GPOs\{58B892A3-ECB0-4DAD-91D4-B647524DFF30}"
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Adobe Acrobat Pro DC Continuous V2R1\GPOs\{67BE380B-ADBA-4E71-B702-821D607D4A9B}"
+```
+
+For `Mozilla Firefox`
+
+```
+.\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Mozilla Firefox v6r5\GPOs\{F1176AFA-BA81-47FB-A41E-5CDE92DA0EF4}"
+```
+You can now run a query to Scan on SCAP Compliance Checker (minimized window) to generate security benchmark scores in native .HTML Format for Digital Sign-off to SOC Auditor. `View Results under Results Menu.`
+
+Make sure to enable `Zerotrust Gateway *(Cloudflare) > Preferences > Account > Login with Org. created inside Cf. Dashboard Zero Trust Settings.`
+
+You can enable DNS to `1.1.1.1 (Cloudflare DNS)` inside `Google Chrome Browser Settings` and further level up your browsing experience by `disable preload and continue in background.`
+
+`Enable TLS 1.3 by searching for Internet Options > Advanced > uncheck TLS 1.1 and 1.2`
+
+You can partition your local SSD nVME m.2 into 3 spheres by accessing Storage options on Windows Partition Manager. This will help in keeping your CMS data redundant alongwith Product Images/Videos/AR(beta) clipped from Background with SEO-ready filenames (Altags) and installation folders for Packagist.org and Github Repositories or Windows Installation Folders attributed by your Administrator - `Localdisk C (Operating System + mbr)`, `Localdisk D (Bitlocker Information and Redundancy on Phantom Drive created using ESET nord32)`, and `Localdisk Z (Media and Payment Information)`. Noteworthy recommendation for local storage and memory - Crucial (Micron) storage and unlocked memory DDR5 or higher.
+
+For 1-click cloud deploys you can use `Bitnami Hardened Images (CMS pre-bundeled Ubuntu OS)` or configure manually using `CIS Benchmarks` and proceed with manual installation of `CMS image on Bare Metal Servers (awsCloud, Azure, or GCP)`. 
+
+Bitnami Application Catalog hosts a wide gammut of CMS eCommerce applications such as WordPress, Prestashop, and OroCommerce (Requested - currently available on GCP or Google Cloud) - `Currently OROCommerce requires Payment Gateways for Acceptance in Mumbai Metropolitan Region`. CCAvenue allows CC Validation Checks as well. Connect with your CCAvenue Security Expert to customise a solution based on the above Document.
+

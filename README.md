@@ -614,3 +614,9 @@ For 1-click cloud deploys you can use `Bitnami Hardened Images (CMS pre-bundeled
 
 Bitnami Application Catalog hosts a wide gammut of CMS eCommerce applications such as WordPress, Prestashop, and OroCommerce (Requested - currently available on GCP or Google Cloud) - `Currently OROCommerce requires Payment Gateways for Acceptance in Mumbai Metropolitan Region`. CCAvenue allows CC Validation Checks as well. Connect with your CCAvenue Security Expert to customise a solution based on the above Document.
 
+Additional Notes - For non-compliant businesses proofing invalid invoices or declaring perishable items on Audit Trail - Your analyst can check traces and amend the following -
+
+| eCommerce/In-store/Offline Transaction Xf-Value | Freight on Board Value  |  Annoted Declaration
+| ------------- | ------------- | ------------- |
+| 40557024169041165/DL15028274652425/IN65 | Optional 18% |  H2334349595303
+| 40557024169041165/DL15028274652425/IN65-TRANS1 | Optional 21.785% |  H2334349595303 | 0.00

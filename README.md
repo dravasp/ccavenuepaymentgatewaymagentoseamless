@@ -620,3 +620,14 @@ Additional Notes - For non-compliant businesses proofing invalid invoices or dec
 | ------------- | ------------- | ------------- |
 | 40557024169041165/DL15028274652425/IN65 | Optional 18% |  H2334349595303
 | 40557024169041165/DL15028274652425/IN65-TRANS1 | Optional 21.785% |  H2334349595303 | 0.00
+
+Contributors to Secure boot-kernels
+Kensler and OS Team
+ - Muratorif8.ag-agma
+ - Muratorif6.ag-agma
+ - Muratori32-fsmlacey
+ - Lanczos8
+ - Lanczos6
+ - HEVC.1
+ - Gunderson
+ - Kensler

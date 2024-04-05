@@ -631,3 +631,18 @@ Kensler and OS Team
  - HEVC.1
  - Gunderson
  - Kensler
+
+If you'd like to get started with installing Magento OS on `Kubeapps (Kubernetes Cluster)` you can use the link below -
+
+Method 01. Easy Deploy - Bitnami Helm Chart for Magento By: Bitnami by VMware (Broadcom) - `https://aws.amazon.com/marketplace/pp/prodview-ib5rz4q2rtrgq?sr=0-9&ref_=beagle&applicationId=AWSMPContessa`
+
+Enable Prometheus (Optional) via `Helm Catalog inside kubeapps` post deploying Magento
+
+Method 02. Manual Installation - 
+
+1. Install Talos (SideroLabs) Linux (Hardened) - `https://www.talos.dev/v1.6/talos-guides/install/cloud-platforms/aws`
+
+2. Enable Prometheus (Optional)
+3. Enable Magento OS
+
+`You will be required to exchange tokens to enable Prometheus`

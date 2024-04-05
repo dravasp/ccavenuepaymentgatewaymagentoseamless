@@ -645,4 +645,4 @@ Method 02. Manual Installation -
 2. Enable Prometheus (Optional)
 3. Enable Magento OS
 
-`You will be required to exchange tokens to enable Prometheus`
+`You will be required to exchange tokens to enable Prometheus` - `https://aws.amazon.com/blogs/mt/migrating-to-amazon-managed-service-for-prometheus-with-the-prometheus-operator/`

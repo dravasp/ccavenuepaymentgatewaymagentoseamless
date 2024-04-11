@@ -642,7 +642,11 @@ Method 02. Manual Installation -
 
 1. Install Talos (SideroLabs) Linux (Hardened) - `https://www.talos.dev/v1.6/talos-guides/install/cloud-platforms/aws`
 
-2. Enable Prometheus (Optional)
+2. Enable Prometheus /or Grafana (Optional)
 3. Enable Magento OS
 
 `You will be required to exchange tokens to enable Prometheus` - Refer to aws re:Post by Mike George - `https://aws.amazon.com/blogs/mt/migrating-to-amazon-managed-service-for-prometheus-with-the-prometheus-operator/`
+
+To learn CMUD project - `https://dbdb.io/db/aurora`
+
+To host `aws Aurora Relational Database Service (RDS)` or a multi-tenant ver. bitnami Magento Commerce OS - You can select `Multi-tier` and costs^performance ratio will vary accordingly.

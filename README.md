@@ -650,3 +650,28 @@ Method 02. Manual Installation -
 To learn CMUD project - `https://dbdb.io/db/aurora`
 
 To host `aws Aurora Relational Database Service (RDS)` or a multi-tenant ver. bitnami Magento Commerce OS - You can select `Multi-tier` and costs^performance ratio will vary accordingly.
+
+Hardening your Microsoft Windows Desktop PC / Laptop running Windows 10 Pro/ 11 `Pro` / Server 2022 / 2019 requires you to have several security configurations remediated prior to setting out in the payment space. This includes `installing and automating the process using buildkits that scan and remediate the system (local or server) according to security standards as uniananmously agreed upon`. Process of Hardening your system requires your Company IT Administrator or Workgroup Admin to select your desired workable OSx - `https://www.cisecurity.org/cis-benchmarks` (..with search filters for compatibility with CIS-CAT Pro) or `https://www.cisecurity.org/benchmark` (list)- adept a `paid end-user license` - `CIS Membership Suite (1-year, 2-year recommended or 3-year ^cost-savings)` - `https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro` and follow the below steps outlined -
+
+- `Login` using your credentials to `https://workbench.cisecurity.org/registration` > Escalate Issues - mailto:learn@cisecurity.org
+- Verify Checksum - `certutil -hashfile ./ Downloads/CIS-CAT-Assessor-windows-GUI-jre-v4.24.0.zip MD5` or even better `Get-FileHash C:\Users\user1\Downloads\CIS-CAT-Assessor-windows-GUI-jre-v4.24.0.zip -Algorithm SHA384 | Format-List` Replace user1 with your DesktopName - Learn more for various formats SHA256 | 512 - `https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-filehash?view=powershell-7.4` - Make sure to validate the checksum values exactly as is with `Bitnami` or `CIS Workbench` or `Magento Opensource`
+- Download and Extract the CIS Buildkit for your desired Operating System (Choose Level 1 or Level 2) (Server or Local Workstation) with GUI or Graphical User Interface 64-bit ver. 
+- Note - (View CIS-CAT Pro Supported ver. - select your desired workable OSx - `https://www.cisecurity.org/cis-benchmarks` (..with search filters for compatibility with CIS-CAT Pro)
+- `Copy the license.xml file` to `license folder` after extracting .zip
+- Run the `Assessor-GUI.exe`
+
+If license.xml file is placed correctly in the license folder, the program will automatically deploy as `CIS CAT Pro - Assessor Toolkit`. You will `NOT` be able to remediate hardening steps with `1-click remediation` using Buildkits (that allow the automation on system) if you're planning to use CIS CAT Assessor Toolkit (as Free ver.)
+
+You can complete this process on all employee/organisation workstations including Network `Routers` and local systems running `Microsoft Office` products and enable security enhanced ver. of your software. CIS Suite offers remediation for `Linux` / `Windows` and `MacOSx` + Cisco Routers IEEE 802.3ab and IEEE 802.3z that are generally configured.
+
+These steps `differ from DISA STIGs and SCAPs outlined above as you're simply configuring Local Group Policies on Pro ver. of your Operating Systems - fresh out of the box`. Enabling and remediating your systems using CIS CAT Assessor Toolkit Pro will result in hardening your systems - `Making changes to your OS functions and programs to Security Standards`. I have personally used the Toolkit on my systems and experienced `a security enhanced experience, saving me hours of deployment and compliance/audit checks for OCC compliance (or SOC - India)`.
+
+Your `CIS Account Manager will connect with you`, on registration, for screening, ~if required.
+
+I personally use CIS CAT Assessor Toolkit Pro 64-bit by verifying the checksum values MD5 / SHA on the CIS Workbench (Administrator Dashboard) to not request and install a false positive.
+
+It is `NOT` legal to create, distribute or sell AMI or Machine Image in any form post altering the system using CIS CAT Assessor Toolkit Pro as you'd directly violate End-user License (`Microsoft OS or its affiliates` and `Center for Internet Security`). You could `opt-in to CIS Hardened Images for your choice of Cloud OS via Azure or AWS Marketplace` instead for `continued support and staying resilient` against erroneous deploys. `Advisories - https://www.cisecurity.org/advisory` - You can subscribe to `CIS Hardened` `AMI` or `Containers` hosted on `AWS Cloud` by clicking on the link here - https://go.aws/3TZkolO
+
+`Some IT Administrators prefer to enable Network on Boot to deploy stable OS which is purchasing a (Pro ver.) licensed copy of your OS, and boot image through Network, however, this is quite complicated as you'd need to alter .win file from the OS Image and several other steps. Ideally, not recommended for incremental ver. upgrades for examole. Windows 7 / 10 2019 to 2022. Resilience to your local/cloud systems is a vector landscape that you define. Works for some though.`
+
+Deployments across Multiple Cloud Infrastracture and Cancellations will result in ingress `Subscription Fees`. Make sure to `add/modify/cancel a valid Payment Method across CIS Administrator Dashboard`, AWS Marketplace (aws Console) or Azure Marketplace. If you are planning on securing an `Apple OSx device (On-prem / for Cloud)` - You can `seek support from your CIS Account Manager` regarding `LTS and Apple Developer Support`.

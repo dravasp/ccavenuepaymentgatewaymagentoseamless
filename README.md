@@ -649,3 +649,5 @@ It is `NOT` legal to create, distribute or sell AMI or Machine Image in any form
 `Some IT Administrators prefer to enable Network on Boot to deploy stable OS which is purchasing a (Pro ver.) licensed copy of your OS, and boot image through Network, however, this is quite complicated as you'd need to alter .win file from the OS Image and several other steps. Ideally, not recommended for incremental ver. upgrades for examole. Windows 7 / 10 2019 to 2022. Resilience to your local/cloud systems is a vector landscape that you define. Works for some though.`
 
 Deployments across Multiple Cloud Infrastracture and Cancellations will result in ingress `Subscription Fees`. Make sure to `add/modify/cancel a valid Payment Method across CIS Administrator Dashboard`, AWS Marketplace (aws Console) or Azure Marketplace. If you are planning on securing an `Apple OSx device (On-prem / for Cloud)` - You can `seek support from your CIS Account Manager` regarding `LTS and Apple Developer Support`.
+
+[Subscribe to future updates to this repo by click here](https://github.com/dravasp/ccavenuepaymentgatewaymagentoseamless/commits.atom) - View .atom RSS file to import to Thunderbird

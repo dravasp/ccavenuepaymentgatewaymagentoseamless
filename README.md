@@ -652,28 +652,28 @@ Deployments across Multiple Cloud Infrastracture and Cancellations will result i
 
 The following settings apply to mostly any smartphone or cellular device connecting to a mobile network in India.
 
-`Settings` - `Connections` - `Mobile Networks` - `Network Operators` - Disable Select Automatically and Search for Your Sim Provider - `Choose Reliance Jio`
+- `Settings` - `Connections` - `Mobile Networks` - `Network Operators` - Disable Select Automatically and Search for Your Sim Provider - `Choose Reliance Jio`
 
-Set `Network Mode` (Manual - Disable Select Automatically)
-If `Reliance` - `5G or LTE` (Disable Others)
-If `Vodafone` - `LTE/3G/2G` (Select Automatically) or LTE
-If `Airtel` - `LTE/3G/2G` (Select Automatically) or LTE if available
+- Set `Network Mode` (Manual - Disable Select Automatically)
+- If `Reliance` - `5G or LTE` (Disable Others)
+- If `Vodafone` - `LTE/3G/2G` (Select Automatically) or LTE
+- If `Airtel` - `LTE/3G/2G` (Select Automatically) or LTE if available
 
-You can `create a new APN Profile` by navigating to `Settings` - `Connections` - `Mobile Networks` - `Access Point Names (APN)` - Make sure to select it after settings are applied on your end.
+- You can `create a new APN Profile` by navigating to `Settings` - `Connections` - `Mobile Networks` - `Access Point Names (APN)` - Make sure to select it after settings are applied on your end.
 
-Access Point Names (APN Settings)
+- Access Point Names (APN Settings)
 Settings for Reliance Jio
-`Name` - Jio 4G (You can give it a relevant name of choice)
-`APN` - `jionet`
-(`Proxy`, `Port`, `Username`, `Password`, `Server`, `MMSC`, `Multimedia Message Proxy`, `Multimedia Message Port`) - `Not Set`
-`MCC` - `405`
-`MNC` - `874`
-`Authentication` - `CHAP`
-`APN Type` - Enter `default,xcap,supl`
-`APN Protocol` - `IPV4`
-`APN Roaming Protocol` - `IPV4`
-`Bearer` - `LTE`
-`Mobile Virtual Network Operator Type` - 
+- `Name` - Jio 4G (You can give it a relevant name of choice)
+- `APN` - `jionet`
+- (`Proxy`, `Port`, `Username`, `Password`, `Server`, `MMSC`, `Multimedia Message Proxy`, `Multimedia Message Port`) - `Not Set`
+- `MCC` - `405`
+- `MNC` - `874`
+- `Authentication` - `CHAP`
+- `APN Type` - Enter `default,xcap,supl`
+- `APN Protocol` - `IPV4`
+- `APN Roaming Protocol` - `IPV4`
+- `Bearer` - `LTE`
+- `Mobile Virtual Network Operator Type` - 
 (Set Any One)
 - If `SPN`
 Mobile Virtual Network Operator Value - `Jio`

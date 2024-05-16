@@ -650,4 +650,52 @@ It is `NOT` legal to create, distribute or sell AMI or Machine Image in any form
 
 Deployments across Multiple Cloud Infrastracture and Cancellations will result in ingress `Subscription Fees`. Make sure to `add/modify/cancel a valid Payment Method across CIS Administrator Dashboard`, AWS Marketplace (aws Console) or Azure Marketplace. If you are planning on securing an `Apple OSx device (On-prem / for Cloud)` - You can `seek support from your CIS Account Manager` regarding `LTS and Apple Developer Support`.
 
+The following settings apply to mostly any smartphone or cellular device connecting to a mobile network in India.
+
+`Settings` - `Connections` - `Mobile Networks` - `Network Operators` - Disable Select Automatically and Search for Your Sim Provider - `Choose Reliance Jio`
+
+Set `Network Mode` (Manual - Disable Select Automatically)
+If `Reliance` - `5G or LTE` (Disable Others)
+If `Vodafone` - `LTE/3G/2G` (Select Automatically) or LTE
+If `Airtel` - `LTE/3G/2G` (Select Automatically) or LTE if available
+
+You can `create a new APN Profile` by navigating to `Settings` - `Connections` - `Mobile Networks` - `Access Point Names (APN)` - Make sure to select it after settings are applied on your end.
+
+Access Point Names (APN Settings)
+Settings for Reliance Jio
+`Name` - Jio 4G (You can give it a relevant name of choice)
+`APN` - `jionet`
+(`Proxy`, `Port`, `Username`, `Password`, `Server`, `MMSC`, `Multimedia Message Proxy`, `Multimedia Message Port`) - `Not Set`
+`MCC` - `405`
+`MNC` - `874`
+`Authentication` - `CHAP`
+`APN Type` - Enter `default,xcap,supl`
+`APN Protocol` - `IPV4`
+`APN Roaming Protocol` - `IPV4`
+`Bearer` - `LTE`
+`Mobile Virtual Network Operator Type` - 
+(Set Any One)
+- If `SPN`
+Mobile Virtual Network Operator Value - `Jio`
+- If `IMSI`
+Mobile Virtual Network Operator Value - `405874x`
+- If `GID`
+Mobile Virtual Network Operator Value - `FFFFFFFFFFFFFFFFFFFF`
+
+Click on the three dot menu on the right and select `Save`.
+
+For `Video KYC`, these settings remain as stated above. `Kindly do not approve telecallers claiming to revoke the above settings. These are cellular network settings fetched for servicing data plans on your smartphone.`
+
+These are configuration settings sent over SMS via Carrier Network on SIM insert but the options are not enabled as set above. Data Services should be fully compliant for banking channels, communications and others.
+
+You can confirm these settings are successfully set by navigating to `Settings` - `About Phone` - `Status Information` - `Sim Card Status`.
+
+`Quick note for IPV6` - Browsing data can be made possible, but unfortunately, many mobile applications do not support IPV6. This is mostly because Mobile App Developers do not enable (inbound/outbound) traffic to be served over IPV6 Protocol when deploying apps via Network Interface.
+
+For `dual sim`, SIM1 will be applied for the above settings, SIM2 will have LTE or 3G automatically set as the values are not passed to SIM2.
+
+Users on Xiaomi and Apple iOS are unable to save the APN after creating it, and the default setting is set, over again. You can individually select and enable as many options as possible from above to save the APN Profile as intended.
+
+Network Carriers are selectively deploying Reliance Jio LTE and Reliance Jio to allow clients to migrate network applications to IPV6 sub-net NAT on pushback request. The redundancy change would take a while to come in effect though.
+
 [Subscribe to future updates to this repo by click here](https://github.com/dravasp/ccavenuepaymentgatewaymagentoseamless/commits.atom) - View .atom RSS file to import to Thunderbird

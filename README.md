@@ -339,6 +339,17 @@ FLOW DIAGRAM
 | Install Payment Module | Test Webhook / Callback URI |  Move to Production
 | Initiate Tele-assist for redirect URL Success/Failure UAT | Optional  |  Move to Production
 
+aws Instance Type Information (Hosting Web Server) - `Recommended for Magento OS Commerce`
+- `r5a.large` - `Memory Optimised` Web Server - 65 USD per month `Standard Reserved`
+- `16.00GB - AMD EPYC 7571 2vCPUs and 1 CPU core` - `https://www.cpubenchmark.net/cpu.php?cpu=AMD+EPYC+7571`
+- `0.75 Baseline / 10.0 Burst bandwidth (Gbps) - Network with ENA, x4 Max. network interfaces, x10 IP addresses per interface and IPv6 Network Support Capabilities.`
+
+aws Instance Type Information (Hosting Web Server) - `Recommended for WooCommerce WordPress CMS`
+- `m5ad.large` - `General Purpose EC2 with Nitro` - 31 USD per month `Standard Reserved`
+- `8.00GB - AMD EPYC 7571 2vCPUs and 1 CPU core` - `https://www.cpubenchmark.net/cpu.php?cpu=AMD+EPYC+7571`
+- `0.75 Baseline / 10.0 Burst bandwidth (Gbps) - Network with ENA, x3 Max. network interfaces, x10 IP addresses per interface and IPv6 Network Support Capabilities.`
+
+
 - SMTP Extension for Magento 2 (amazonSES) via MagePlaza
 ```
 - https://www.mageplaza.com/blog/how-to-configure-amazon-ses-smtp-in-magento-2.html

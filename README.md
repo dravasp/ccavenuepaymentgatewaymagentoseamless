@@ -416,7 +416,7 @@ Your primary KYC will be sent to `eMudhra Government CA upon DSC Issuance (Class
 
 You might be required to `switch to a Diskette for installing specific security drivers made available to you via your Payment Partner/s`. Most workstations via `#Lenovo` such as `Lenovo Thinkstation` offer `reverse engineered OS / COBOL` to run similar drivers. Your local systems can host a simulated OS such as CIS-2003 Office that require redundancy (further below).
 
-It is advised to host a `Paid account on CIBIL Transunion, Experian or CSRIF for monitoring your financial activity such as Credit Inquiries, Loan Accounts, Implied Checks from Banks for Large Credit Transfers`. However, your `PAN issued via CPC IT and TRACES will be sufficient for most accuracy if you have invested in NSE/BSE Listed Equities for STCG or LTCG via your Depository Participant`. `PaytmMoney with CDSL is a performant combination if you require low charges on your Dematerialization of Share Certificates (ASBA enabled Demat Account). However, you'd absolutely require 2FA enabled on Login.`
+It is advised to host a `Paid account on CIBIL Transunion, Experian or CRIFHighmark for monitoring your financial activity such as Credit Inquiries, Loan Accounts, Implied Checks from Banks for Large Credit Transfers`. However, your `PAN issued via CPC IT and TRACES will be sufficient for most accuracy if you have invested in NSE/BSE Listed Equities for STCG or LTCG via your Depository Participant`. `PaytmMoney with CDSL is a performant combination if you require low charges on your Dematerialization of Share Certificates (ASBA enabled Demat Account). However, you'd absolutely require 2FA enabled on Login.`
 
 To avoid calls from Hidden Numbers, several measures can be enforced on your device -
 

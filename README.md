@@ -349,6 +349,21 @@ aws Instance Type Information (Hosting Web Server) - `Recommended for WooCommerc
 - `8.00GB - AMD EPYC 7571 2vCPUs and 1 CPU core` - `https://www.cpubenchmark.net/cpu.php?cpu=AMD+EPYC+7571`
 - `0.75 Baseline / 10.0 Burst bandwidth (Gbps) - Network with ENA, x3 Max. network interfaces, x10 IP addresses per interface and IPv6 Network Support Capabilities.`
 
+aws Instance Type Information (Hosting Web Server) - `Recommended for WooCommerce WordPress CMS`
+
+`r7gd.medium` - `Memory Optimised` Web Server - `32 USD per month` `Standard Reserved`
+`8.00GB + 59 NVMe SSD - AWS Graviton3 processors` - `https://aws.amazon.com/ec2/instance-types/r7g`
+`Up to 12500 M of Network Performance`
+
+aws Instance Type Information (Hosting Web Server) - `Recommended for WooCommerce WordPress CMS`
+
+`m7gd.medium` - `General Purpose` Web Server - `26 USD per month` `Standard Reserved`
+`4.00GB + 59 NVMe SSD - AWS Graviton3 processors` - `https://aws.amazon.com/ec2/instance-types/r7g`
+`Up to 12500 M of Network Performance`
+
+Couple two or more instances `4GB x2 = 8 or x4 = 16 GB (Standard Performance)` / `8GB x2 = 16 (High Performance)` on `Amazon EKS Cluster Bitnami Helm Chart`
+`Amazon managed Kubernetes cluster` 
+- `Launch on a new EKS cluster with QuickLaunch - Cloudformation >> Stacks` - `https://aws.amazon.com/marketplace/pp/prodview-43djy7psn24cg`
 
 - SMTP Extension for Magento 2 (amazonSES) via MagePlaza
 ```

@@ -417,6 +417,54 @@ Download and Sign `Form16A` via DSC Class-3 eMudhraCA (Authentication eSigner `V
 Mail Client for Secure OSAMLx
 `Thunderbird Mail Client` with .asc and PGP via Actalis S/MIME Outlook `ZohoMail` Premium Plan
 
+You can issue and upload `S/MIME Certificate from Actalis` via `ZohoMail Premium Plan (Valid for 1 Year) on your Custom Domain` for validity and authenticity across your email communication recipient/s,
+
+`ZohoMail Premium Plan (Paid - Valid for 1 Year)` - https://www.zoho.com/mail/zohomail-pricing.html
+`Actalis S/MIME Certificate` - https://shop.actalis.com/store/it-en/s-mime-certificates or https://www.actalis.com/s-mime-certificates.aspx 
+Learn More about `Actalis` - Follow the Link here - https://www.actalis.it/documenti-it/caact-free-s-mime-certificates-policy.aspx
+
+Certs are issued in `.p12` and `.pfx` - Fully supported across ZohoMail Custom Email Address (Upload either one) and a `valid password` whilst uploading to Zoho Mail for Server Side Rendering (One-time Setup till Cert Validity) - You can `push mails via Web Mail, Desktop Client, or Mobile Client once configured on the server`. Provide `Zoho User ID` 6xxx241xxx7 to `Zoho Customer Support for Live Support` in case you run into unexpected errors. You can add funds to `Zoho Subscription Balance as a Payment Method` for `Automatic Renewals and Issue of GST Invoice for your Monthly/Quarterly GSTR 1/3B and 9 Filing`. Zoho Invoices are fully compliant and allow Audit Trail. You can also `enable your Zoho Books Account for Seamless Accounting` across `SELF` or `Zoho Books Partner in your region` `(India, Australia, United Arab Emirates, Bahrain, Oman, Qatar, Saudi Arabia, Kuwait, Canada, Germany, Kenya, Mexico, South Africa, United Kingdom, United States)`
+
+If you wish to `use S/MIME Certificate across Paid Business Google Workspace/Gmail` - [Refer to Article](https://support.google.com/a/answer/6374496?hl=en)
+
+If you wish to `use S/MIME Certificate across Microsoft Outlook (with Paid Microsoft 365 Plan)` - [Refer to Article](https://www.microsoft.com/en-us/microsoft-365/outlook/outlook-email-plan?ocid=cmmhk3ktunq) - `Setup S/MIME via Exchange Online - Active Directory` - [Refer to Article](https://learn.microsoft.com/en-us/exchange/security-and-compliance/smime-exo/configure-smime-exo) and [Refer to Article](https://support.microsoft.com/en-us/office/encrypt-email-messages-373339cb-bf1a-4509-b296-802a39d801dc) - `(Adding Custom Domain via Microsoft 365 Plan is required prior to enable sending communication across Active Directory configured Mail Client of Choice. Also, DNS Records need to point across Exchange Online)`
+
+If you wish to `use S/MIME Certificate across Amazon WorkMail (Paid - Valid for 1 Year)` - [Refer to Article](https://docs.aws.amazon.com/workmail/latest/userguide/send_encrypted_email.html) `(Adding Custom Domain via Route53 is required prior to Enabling sending communication across Amazon Workmail. Also, DNS Records need to point across Amazon Workmail Servers. Billing for Amazon Workmail is calculated for your respective Billing Cycle across GST Invoice with Charges for Route 53 Zones Enabled and other AWS services such as EC2, ECS, EKS, SES, or SNS (if enabled)).`
+
+You can `claim 18% GST Input Tax Credit for your Annual Purchase across ZohoMail Premium Subscription (Direct with ZohoCorp with Live Support across ZohoAssist and Phone Support)`, `amazon WorkMail (Billing via Valid AWS Account with Registered GSTIN across Amazon Web Services Private Limited)` and `Google Workspace (Business) editions via Reseller (India)` preferablly `(Xenia Systems Private Limited - 07AAACX1336P1Z1)`
+
+Steps to Follow - 
+
+ - Navigate to `https://extrassl.actalis.it/portal/uapub/freemail?lang=en` - Verify your Email
+ - Click on `Customer Area` - (Link) sent via Email
+ - `Switch Language from Italian to English` from Top Right Corner
+ - `Register an Account` and Receive a Code
+ - Navigate to `https://extrassl.actalis.it/portal` and Access Personal Area
+ - Enter `User code and Private Personal Code (CRP)`
+ - Reset, if necessary - `https://extrassl.actalis.it/portal/uapub/forgotpassword`
+ - Download Certs issued in `.p12 and .pfx (.zip file)` - Free S/MIME Certificate (SubCA G3) - 1 year and Logout
+ - `Login to Zoho Mail > Admin Dashboard > Admin Console > Security and Compliance > Security > S/MIME` > Enable the Radio Button > Uncheck Allow Users to Upload their own certificates
+ - `Login to Zoho Mail > Admin Dashboard > Admin Console > Users > Select User > Click on Security Tab > S/MIME > Add > Select Email Address from Dropdown > Upload .pfx or .p12 and Enter Password > On Success > Enable Status Button to Activate on all modes (Web Mail, Desktop Client, or Mobile Client)`
+
+Sample URL - `https://mailadmin.zoho.in/xxxxxx/home.do#users/6xxx241xxx7/security/smime`
+
+Once completed, you can enable sending mail via Desktop Client of choice - `ZohoMail`, `Mozilla Thunderbird Open Source` or `Outlook` on PC Windows 64-bit / macOS LTS
+
+You can also push an email to CCAvenue `compliance@ccavenue.com` for enabling `PCI DSS Compliance (Redirect or Whitelist) for Accepting Payments across Terminal IPG Service with IVR Collect + VAS (Tap to Pay and UPI Collect)`
+Attach Filled Word Document - `Self-Assessment Questionnaire D for Merchants and Attestation of Compliance For use with PCI DSS Version 4.0`
+
+`PCI-DSS-v4-0-SAQ-D-Merchant-r1.docx` for sending an email to your respective `CCAvenue Account Manager`
+
+Download latest applicable ver. via `PCI Security Standards Council Website (Document Library)` - `https://www.pcisecuritystandards.org/document_library`
+
+You will be required to file `AOC + SAQ (PCI Level 1 - High)` as your business grows. As a starting point, you will be required to enable `SAQ for PCI Level 4 (Low)`.
+`AOC` stands for `Attestation of Compliance` and `SAQ` - `Self-Assessment Questionnaire`
+
+Refer to Stripe's Documentation to simplify your understanding of PCI Compliance and Why is it Necessary for Merchants - [Refer to Article](https://stripe.com/en-sg/guides/pci-compliance)
+
+To assist with PCI Compliance there is Amazon Web Services - `AWS Security Assurance Services` - highly recommended for seamless payment processing and staying compliant - `CISOs at AWS Security Assurance Services`
+ - [Submit an Inquiry to AWS Security Assurance Services](https://aws.amazon.com/professional-services/security-assurance-services)
+
 To ensure maximum security on your smartphones, you'd want to `configure strict HTTP Layer 7 rules across ZeroTrust` and `enforce protective measures for a healthy outlook in the payment acceptance and processing space`. Create an account on `Cloudflare and navigate to Zero Trust via Menu on the left. You'll want to configure extensive options available for maximum security along with enablement of TwoFactor Authentication (2FA).`
 
 If you're using `ZohoMail` as your default mailclient, it's advised to `upgrade to Premium and register OpenPGP signature and .asc file to send encrypted mails`. `Mozilla Thunderbird (Donate to Opensource) is preferred Desktop PC client to access emails via IMAP/POP3`. You can request uptodate public keys and add them to Thunderbird Mail Client to send encrypted mails to Security Experts at CCAvenue / Merchant Services / Attestation / DSC Services. You'd ideally want to disable integrations to external Zoho services (except Zoho Workdrive) for quick responses across Zoho Co-location Datacenter.

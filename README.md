@@ -743,7 +743,7 @@ Settings for Reliance Jio
 - `MCC` - `405`
 - `MNC` - `874`
 - `Authentication` - `CHAP`
-- `APN Type` - Enter `default,xcap,supl`
+- `APN Type` - Enter `default,supl,xcap,net,ia,hipri,mms,wap`
 - `APN Protocol` - `IPV4`
 - `APN Roaming Protocol` - `IPV4`
 - `Bearer` - `LTE`

@@ -465,6 +465,54 @@ Refer to Stripe's Documentation to simplify your understanding of PCI Compliance
 To assist with PCI Compliance there is Amazon Web Services - `AWS Security Assurance Services` - highly recommended for seamless payment processing and staying compliant - `CISOs at AWS Security Assurance Services`
  - [Submit an Inquiry to AWS Security Assurance Services](https://aws.amazon.com/professional-services/security-assurance-services)
 
+Add a `Timestamp Server` for Adobe Acrobat Reader or Adobe Acrobat Pro - Note - This solution is to confirm the authenticity of timestamped documents viewed in Adobe Acrobat Reader or Adobe Acrobat Pro - signed across a Qualified Certificate Authority (QCA) via AATL or EU specific region.
+
+`Acrobat Reader > Preferences > Signatures > Document Timestamping > More > Time Stamp Servers > New > Add Name and URL from the List Below` -
+
+```
+
+entrust - http://timestamp.entrust.net/TSS/RFC3161sha2TS
+DigiCert - http://timestamp.digicert.com
+GeoTrust - https://timestamp.geotrust.com
+Sectigo - http://timestamp.sectigo.com
+GlobalSign - http://timestamp.globalsign.com/scripts/timestamp.dll
+ACCV TSA - http://tss.accv.es:8318/tsa
+Signicat TSA - https://tsa.signicat.com/tsaproxy/
+Apple - http://timestamp.apple.com/ts01
+SignFiles - http://ca.signfiles.com/tsa/get.aspx
+
+Free TSA - https://freetsa.org/tsr
+Certum - http://time.certum.pl
+Zeitstempel - http://zeitstempel.dfn.de
+CesNet 01 - http://tsa.cesnet.cz:3161/tsa
+CesNet 02 - https://tsa.cesnet.cz:3162/tsa
+CesNet 03 - http://tsa.cesnet.cz:5816/tsa
+CesNet 04 - https://tsa.cesnet.cz:5817/tsa
+Aloaha - http://card.aloaha.com:8081/tsa.aspx
+
+```
+
+You can `Sign a Document via Adobe Acrobat Reader Pro DC` - `Open > All Tools > Use a Certificate > Digitally Sign > Configure New Digital ID by Saving to Windows Certificate Store` 
+`Tools` Menu in Adobe Acrobat Reader or Adobe Reader Pro DC has `Digitally Sign` Tab which is different from `Fill and Sign` or `Request e-Signatures`.
+
+Alternatively, you can `Timestamp` which will `create a Read-only Copy with File Name`.
+
+If you would like to `Sign a Legal Document` via `ZohoSign` - 
+
+`UIDAI Aadhaar eSign (2 Zoho Credits)` or `eMudhra eSign  (100 Zoho Credits/year)`
+
+```
+
+Estamping for India
+Singpass for Singapore
+Advanced electronic signatures for South African businesses
+eIDAS-compliant qualified electronic signatures for the European Union
+ZertES-compliant electronic signatures for Switzerland
+Japan Data Communications Association (JADAC)
+
+```
+
+
 To ensure maximum security on your smartphones, you'd want to `configure strict HTTP Layer 7 rules across ZeroTrust` and `enforce protective measures for a healthy outlook in the payment acceptance and processing space`. Create an account on `Cloudflare and navigate to Zero Trust via Menu on the left. You'll want to configure extensive options available for maximum security along with enablement of TwoFactor Authentication (2FA).`
 
 If you're using `ZohoMail` as your default mailclient, it's advised to `upgrade to Premium and register OpenPGP signature and .asc file to send encrypted mails`. `Mozilla Thunderbird (Donate to Opensource) is preferred Desktop PC client to access emails via IMAP/POP3`. You can request uptodate public keys and add them to Thunderbird Mail Client to send encrypted mails to Security Experts at CCAvenue / Merchant Services / Attestation / DSC Services. You'd ideally want to disable integrations to external Zoho services (except Zoho Workdrive) for quick responses across Zoho Co-location Datacenter.

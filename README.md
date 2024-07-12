@@ -470,7 +470,6 @@ Add a `Timestamp Server` for Adobe Acrobat Reader or Adobe Acrobat Pro - Note - 
 `Acrobat Reader > Preferences > Signatures > Document Timestamping > More > Time Stamp Servers > New > Add Name and URL from the List Below` -
 
 ```
-
 entrust - http://timestamp.entrust.net/TSS/RFC3161sha2TS
 DigiCert - http://timestamp.digicert.com
 GeoTrust - https://timestamp.geotrust.com
@@ -489,7 +488,6 @@ CesNet 02 - https://tsa.cesnet.cz:3162/tsa
 CesNet 03 - http://tsa.cesnet.cz:5816/tsa
 CesNet 04 - https://tsa.cesnet.cz:5817/tsa
 Aloaha - http://card.aloaha.com:8081/tsa.aspx
-
 ```
 
 You can `Sign a Document via Adobe Acrobat Reader Pro DC` - `Open > All Tools > Use a Certificate > Digitally Sign > Configure New Digital ID by Saving to Windows Certificate Store` 
@@ -497,21 +495,18 @@ You can `Sign a Document via Adobe Acrobat Reader Pro DC` - `Open > All Tools > 
 
 Alternatively, you can `Timestamp` which will `create a Read-only Copy with File Name`.
 
-If you would like to `Sign a Legal Document` via `ZohoSign` - 
+If you would like to `Sign a Legal Document` via `ZohoSign` - https://www.zoho.com/sign/sign-documents-with-aadhaar-esign.html
 
 `UIDAI Aadhaar eSign (2 Zoho Credits)` or `eMudhra eSign  (100 Zoho Credits/year)`
 
 ```
-
 Estamping for India
 Singpass for Singapore
 Advanced electronic signatures for South African businesses
 eIDAS-compliant qualified electronic signatures for the European Union
 ZertES-compliant electronic signatures for Switzerland
 Japan Data Communications Association (JADAC)
-
 ```
-
 
 To ensure maximum security on your smartphones, you'd want to `configure strict HTTP Layer 7 rules across ZeroTrust` and `enforce protective measures for a healthy outlook in the payment acceptance and processing space`. Create an account on `Cloudflare and navigate to Zero Trust via Menu on the left. You'll want to configure extensive options available for maximum security along with enablement of TwoFactor Authentication (2FA).`
 

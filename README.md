@@ -339,6 +339,40 @@ FLOW DIAGRAM
 | Install Payment Module | Test Webhook / Callback URI |  Move to Production
 | Initiate Tele-assist for redirect URL Success/Failure UAT | Optional  |  Move to Production
 
+
+```GST Filing using Google Sheets (.csv) with Zoho GST```
+
+`You need to download this template and enter your Sales (Standard Zoho Template Available) and Purchase (Modified Template Available) with Credit Note (Modified Template Available) data for GST Filing.
+Match Tables as per Data`
+
+```Purchase (Modified Template Available)``` - Download Here - https://bit.ly/4c2SI6N
+
+| Zoho Fix Name  | Match  |  Google Sheets Header
+| ------------- | ------------- | ------------- |
+| Customer GSTIN > match with > Customer GSTIN | Invoice Details | Invoice Number > match with > Invoice Number
+| Invoice Date > match with > Invoice Date > match with > dd/mm/yyyy (Fix by Format > Number > Date inside Google Sheets to switch to dd-mm-yyyy) | Invoice Amount > match with > Invoice Amount | Invoice Type > match with > Invoice Type
+| Place of Supply > match with > State Code with Numbers | Unique Quantity Code > match with > Unique Quantity Code | Quantity > match with > Quantity
+| Rate > match with > Rate | Taxable Amount > match with > Final Taxable Amount | ITC Eligibility > match with > ITC Eligibility
+| IGST Tax Percentage  > match with > IGST Tax Percentage | IGST Tax Amount > match with > IGST Tax Amount | CGST Tax Percentage > match with > CGST Tax Percentage 
+| CGST Tax Amount > match with > CGST Tax Amount | SGST Tax Percentage > match with > SGST Tax Percentage | SGST Tax Amount > match with > SGST Tax Amount
+
+
+```Credit Note (Modified Template Available)``` - Download Here - https://bit.ly/4c2SI6N - Change Sheet from Bottom Left
+
+| Zoho Fix Name  | Match  |  Google Sheets Header
+| ------------- | ------------- | ------------- |
+| Customer GSTIN > match with > Customer GSTIN | Credit Note Number > match with > Credit Note Number | Credit Note Date > match with > Credit Note Date > dd/MM/yyyy
+| Place of Supply > match with > Place of Supply | Type > match with > Type | Credit Note Type > match with > Credit Note Type
+| Credit Note Reason > match with > Reason Code | Invoice Number > match with > Invoice Number | Invoice Date > match with > Invoice Note Date > dd/MM/yyyy
+| Invoice Amount > match with > Invoice Amount | Invoice Differential Value > match with > Differential Value | Invoice Details 
+| Invoice Number > match with > Invoice Number | Invoice Date > match with > Invoice Date > match with > dd/mm/yyyy (Fix by Format > Number > Date inside Google Sheets to switch to dd-mm-yyyy | Invoice Amount > match with > Invoice Amount
+| Invoice Type > match with > Invoice Type | Place of Supply > match with > State Code with Numbers | Unique Quantity Code > match with > Unique Quantity Code
+| Quantity > match with > Quantity | Rate > match with > Rate | Taxable Amount > match with > Final Taxable Amount
+| ITC Eligibility > match with > ITC Eligibility | IGST Tax Percentage  > match with > IGST Tax Percentage | IGST Tax Amount > match with > IGST Tax Amount
+| CGST Tax Percentage > match with > CGST Tax Percentage | CGST Tax Amount > match with > CGST Tax Amount | SGST Tax Percentage > match with > SGST Tax Percentage
+
+Parsing data takes about 90 seconds after uploading.
+
 aws Instance Type Information (Hosting Web Server) - `Recommended for Magento OS Commerce`
 - `r5a.large` - `Memory Optimised` Web Server - 65 USD per month `Standard Reserved`
 - `16.00GB - AMD EPYC 7571 2vCPUs and 1 CPU core` - `https://www.cpubenchmark.net/cpu.php?cpu=AMD+EPYC+7571`

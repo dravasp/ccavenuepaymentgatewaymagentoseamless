@@ -373,6 +373,8 @@ Match Tables as per Data`
 
 Parsing data takes about 90 seconds after uploading.
 
+If your company has enrolled for `Monthly` filing of `GSTR-1 and GSTR-3B`, import trxn. for the period only. For example, whilst writing this article, we are in the `Month of July` - hence for Monthly return filing, `exclude August trxn. and include filing trxn. with Invoice Dates up to 31st July 2024`. If `Quarterly filing is enabled` for your company, please consider filing `during the October period`.
+
 aws Instance Type Information (Hosting Web Server) - `Recommended for Magento OS Commerce`
 - `r5a.large` - `Memory Optimised` Web Server - 65 USD per month `Standard Reserved`
 - `16.00GB - AMD EPYC 7571 2vCPUs and 1 CPU core` - `https://www.cpubenchmark.net/cpu.php?cpu=AMD+EPYC+7571`

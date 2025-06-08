@@ -1,0 +1,384 @@
+# Complete List of CCAvenue Merchant Error Codes
+
+{
+  "error_codes": [
+    {
+      "error_code": "10002",
+      "short_message": "Authentication Failed",
+      "long_message": "Merchant Authentication failed",
+      "correcting_error": "This error can be caused by an incorrect merchant ID, an incorrect access code, or if the order originates from an unregistered URL. Make sure that all three of these values are correct. For your security, CCAvenue does not report exactly which of these three values might be in error."
+    },
+    {
+      "error_code": "21001",
+      "short_message": "Missing Parameter",
+      "long_message": "order_id:Required parameter missing",
+      "correcting_error": "Ensure that the order_id parameter is not blank."
+    },
+    {
+      "error_code": "21002",
+      "short_message": "Missing Parameter",
+      "long_message": "currency: Required paramter missing",
+      "correcting_error": "Ensure that the currency parameter is not blank."
+    },
+    {
+      "error_code": "21003",
+      "short_message": "Missing Parameter",
+      "long_message": "amount:Required parameter missing",
+      "correcting_error": "Ensure that the amount parameter is not blank."
+    },
+    {
+      "error_code": "21004",
+      "short_message": "Missing Parameter",
+      "long_message": "billing_name: Required parameter missing",
+      "correcting_error": "Ensure that the billing_name parameter is not blank."
+    },
+    {
+      "error_code": "21005",
+      "short_message": "Missing Parameter",
+      "long_message": "billing_address: Required parameter missing",
+      "correcting_error": "Ensure that the billing_address parameter is not blank."
+    },
+    {
+      "error_code": "21006",
+      "short_message": "Missing Parameter",
+      "long_message": "billing_city: Required parameter missing",
+      "correcting_error": "Ensure that the billing_city parameter is not blank."
+    },
+    {
+      "error_code": "21007",
+      "short_message": "Missing Parameter",
+      "long_message": "billing_state: Required parameter missing",
+      "correcting_error": "Ensure that the billing_state parameter is not blank."
+    },
+    {
+      "error_code": "21008",
+      "short_message": "Missing Parameter",
+      "long_message": "billing_zip: Required parameter missing",
+      "correcting_error": "Ensure that the billing_zip parameter is not blank."
+    },
+    {
+      "error_code": "21009",
+      "short_message": "Missing Parameter",
+      "long_message": "billing_country: Required parameter missing",
+      "correcting_error": "Ensure that the billing_country parameter is not blank."
+    },
+    {
+      "error_code": "21010",
+      "short_message": "Missing Parameter",
+      "long_message": "billing_tel: Required parameter missing",
+      "correcting_error": "Ensure that the billing_tel parameter is not blank."
+    },
+    {
+      "error_code": "21011",
+      "short_message": "Missing Parameter",
+      "long_message": "billing_email: Required parameter missing",
+      "correcting_error": "Ensure that the billing_email parameter is not blank."
+    },
+    {
+      "error_code": "21012",
+      "short_message": "Missing Parameter",
+      "long_message": "delivery_name: Required parameter missing",
+      "correcting_error": "Ensure that the delivery_name parameter is not blank."
+    },
+    {
+      "error_code": "21013",
+      "short_message": "Missing Parameter",
+      "long_message": "delivery_address: Required parameter missing",
+      "correcting_error": "Ensure that the delivery_address parameter is not blank."
+    },
+    {
+      "error_code": "21014",
+      "short_message": "Missing Parameter",
+      "long_message": "delivery_city: Required parameter missing",
+      "correcting_error": "Ensure that the billing_city parameter is not blank."
+    },
+    {
+      "error_code": "21015",
+      "short_message": "Missing Parameter",
+      "long_message": "delivery_state: Required parameter missing",
+      "correcting_error": "Ensure that the delivery_state parameter is not blank."
+    },
+    {
+      "error_code": "21016",
+      "short_message": "Missing Parameter",
+      "long_message": "delivery_zip: Required parameter missing",
+      "correcting_error": "Ensure that the delivery_zip parameter is not blank."
+    },
+    {
+      "error_code": "21017",
+      "short_message": "Missing Parameter",
+      "long_message": "delivery_country: Required parameter missing",
+      "correcting_error": "Ensure that the delivery_country parameter is not blank."
+    },
+    {
+      "error_code": "21018",
+      "short_message": "Missing Parameter",
+      "long_message": "delivery_tel: Required parameter missing",
+      "correcting_error": "Ensure that the delivery_tel parameter is not blank."
+    },
+    {
+      "error_code": "21020",
+      "short_message": "Missing Parameter",
+      "long_message": "card_name: Required parameter missing",
+      "correcting_error": "Ensure that the card_name parameter is not blank."
+    },
+    {
+      "error_code": "21021",
+      "short_message": "Missing Parameter",
+      "long_message": "card_type: Required parameter missing",
+      "correcting_error": "Ensure that the card_type parameter is not blank."
+    },
+    {
+      "error_code": "21022",
+      "short_message": "Missing Parameter",
+      "long_message": "payment_option: Required parameter missing",
+      "correcting_error": "Ensure that the payment_option parameter is not blank."
+    },
+    {
+      "error_code": "21023",
+      "short_message": "Missing Parameter",
+      "long_message": "card_number: Required parameter missing",
+      "correcting_error": "Ensure that the card_number parameter is not blank."
+    },
+    {
+      "error_code": "21024",
+      "short_message": "Missing Parameter",
+      "long_message": "expiry_month: Required parameter missing",
+      "correcting_error": "Ensure that the expiry_month parameter is not blank."
+    },
+    {
+      "error_code": "21025",
+      "short_message": "Missing Parameter",
+      "long_message": "expiry_year: Required parameter missing",
+      "correcting_error": "Ensure that the expiry_year parameter is not blank."
+    },
+    {
+      "error_code": "21026",
+      "short_message": "Missing Parameter",
+      "long_message": "cvv_number: Required parameter missing",
+      "correcting_error": "Ensure that the cvv_number parameter is not blank."
+    },
+    {
+      "error_code": "21027",
+      "short_message": "Missing Parameter",
+      "long_message": "issuing_bank: Required parameter missing",
+      "correcting_error": "Ensure that the issuing_bank parameter is not blank."
+    },
+    {
+      "error_code": "21028",
+      "short_message": "Missing Parameter",
+      "long_message": "emi_plan_id: Required parameter missing",
+      "correcting_error": "Ensure that the emi_plan_id parameter is not blank."
+    },
+    {
+      "error_code": "21029",
+      "short_message": "Missing Parameter",
+      "long_message": "emi_tenure_id: Required parameter missing",
+      "correcting_error": "Ensure that the emi_tenure_id parameter is not blank."
+    },
+    {
+      "error_code": "21031",
+      "short_message": "Missing Parameter",
+      "long_message": "mm_id: Required parameter missing",
+      "correcting_error": "Ensure that the mmid parameter is not blank."
+    },
+    {
+      "error_code": "21032",
+      "short_message": "Missing Parameter",
+      "long_message": "otp: Required parameter missing",
+      "correcting_error": "Ensure that the otp parameter is not blank."
+    },
+    {
+      "error_code": "31001",
+      "short_message": "Invalid Parameter",
+      "long_message": "order_id:Invalid Parameter",
+      "correcting_error": "Ensure that the order_id parameter is not Invalid."
+    },
+    {
+      "error_code": "31002",
+      "short_message": "Invalid Parameter",
+      "long_message": "currency: Invalid Parameter",
+      "correcting_error": "Ensure that the currency parameter is not Invalid."
+    },
+    {
+      "error_code": "31003",
+      "short_message": "Invalid Parameter",
+      "long_message": "amount:Invalid Parameter",
+      "correcting_error": "Ensure that the amount parameter is not Invalid."
+    },
+    {
+      "error_code": "31004",
+      "short_message": "Invalid Parameter",
+      "long_message": "billing_name: Invalid Parameter",
+      "correcting_error": "Ensure that the billing_name parameter is not Invalid."
+    },
+    {
+      "error_code": "31005",
+      "short_message": "Invalid Parameter",
+      "long_message": "billing_address: Invalid Parameter",
+      "correcting_error": "Ensure that the billing_address parameter is not Invalid."
+    },
+    {
+      "error_code": "31006",
+      "short_message": "Invalid Parameter",
+      "long_message": "billing_city: Invalid Parameter",
+      "correcting_error": "Ensure that the billing_city parameter is not Invalid."
+    },
+    {
+      "error_code": "31007",
+      "short_message": "Invalid Parameter",
+      "long_message": "billing_state: Invalid Parameter",
+      "correcting_error": "Ensure that the billing_state parameter is not Invalid."
+    },
+    {
+      "error_code": "31008",
+      "short_message": "Invalid Parameter",
+      "long_message": "billing_zip: Invalid Parameter",
+      "correcting_error": "Ensure that the billing_zip parameter is not Invalid."
+    },
+    {
+      "error_code": "31009",
+      "short_message": "Invalid Parameter",
+      "long_message": "billing_country: Invalid Parameter",
+      "correcting_error": "Ensure that the billing_country parameter is not Invalid."
+    },
+    {
+      "error_code": "31010",
+      "short_message": "Invalid Parameter",
+      "long_message": "billing_tel: Invalid Parameter",
+      "correcting_error": "Ensure that the billing_tel parameter is not Invalid."
+    },
+    {
+      "error_code": "31011",
+      "short_message": "Invalid Parameter",
+      "long_message": "billing_email: Invalid Parameter",
+      "correcting_error": "Ensure that the billing_email parameter is not Invalid."
+    },
+    {
+      "error_code": "31012",
+      "short_message": "Invalid Parameter",
+      "long_message": "delivery_name: Invalid Parameter",
+      "correcting_error": "Ensure that the delivery_name parameter is not Invalid."
+    },
+    {
+      "error_code": "31013",
+      "short_message": "Invalid Parameter",
+      "long_message": "delivery_address: Invalid Parameter",
+      "correcting_error": "Ensure that the delivery_address parameter is not Invalid."
+    },
+    {
+      "error_code": "31014",
+      "short_message": "Invalid Parameter",
+      "long_message": "delivery_city: Invalid Parameter",
+      "correcting_error": "Ensure that the billing_city parameter is not Invalid."
+    },
+    {
+      "error_code": "31015",
+      "short_message": "Invalid Parameter",
+      "long_message": "delivery_state: Invalid Parameter",
+      "correcting_error": "Ensure that the delivery_state parameter is not Invalid."
+    },
+    {
+      "error_code": "31016",
+      "short_message": "Invalid Parameter",
+      "long_message": "delivery_zip: Invalid Parameter",
+      "correcting_error": "Ensure that the delivery_zip parameter is not Invalid."
+    },
+    {
+      "error_code": "31017",
+      "short_message": "Invalid Parameter",
+      "long_message": "delivery_country: Invalid Parameter",
+      "correcting_error": "Ensure that the delivery_country parameter is not Invalid."
+    },
+    {
+      "error_code": "31018",
+      "short_message": "Invalid Parameter",
+      "long_message": "delivery_tel: Invalid Parameter",
+      "correcting_error": "Ensure that the delivery_tel parameter is not Invalid."
+    },
+    {
+      "error_code": "31020",
+      "short_message": "Invalid Parameter",
+      "long_message": "card_name: Invalid Parameter",
+      "correcting_error": "Ensure that the card_name parameter is not Invalid."
+    },
+    {
+      "error_code": "31021",
+      "short_message": "Invalid Parameter",
+      "long_message": "card_type: Invalid Parameter",
+      "correcting_error": "Ensure that the card_type parameter is not Invalid."
+    },
+    {
+      "error_code": "31022",
+      "short_message": "Invalid Parameter",
+      "long_message": "payment_option: Invalid Parameter",
+      "correcting_error": "Ensure that the payment_option parameter is not Invalid."
+    },
+    {
+      "error_code": "31023",
+      "short_message": "Invalid Parameter",
+      "long_message": "card_number: Invalid Parameter",
+      "correcting_error": "Ensure that the card_number parameter is not Invalid."
+    },
+    {
+      "error_code": "31024",
+      "short_message": "Invalid Parameter",
+      "long_message": "expiry_month: Invalid Parameter",
+      "correcting_error": "Ensure that the expiry_month parameter is not Invalid."
+    },
+    {
+      "error_code": "31025",
+      "short_message": "Invalid Parameter",
+      "long_message": "expiry_year: Invalid Parameter",
+      "correcting_error": "Ensure that the expiry_year parameter is not Invalid."
+    },
+    {
+      "error_code": "31026",
+      "short_message": "Invalid Parameter",
+      "long_message": "cvv_number: Invalid Parameter",
+      "correcting_error": "Ensure that the cvv_number parameter is not Invalid."
+    },
+    {
+      "error_code": "31027",
+      "short_message": "Invalid Parameter",
+      "long_message": "issuing_bank: Invalid Parameter",
+      "correcting_error": "Ensure that the issuing_bank parameter is not Invalid."
+    },
+    {
+      "error_code": "31028",
+      "short_message": "Invalid Parameter",
+      "long_message": "emi_plan_id: Invalid Parameter",
+      "correcting_error": "Ensure that the emi_plan_id parameter is not Invalid."
+    },
+    {
+      "error_code": "31029",
+      "short_message": "Invalid Parameter",
+      "long_message": "emi_tenure_id: Invalid Parameter",
+      "correcting_error": "Ensure that the emi_tenure_id parameter is not Invalid."
+    },
+    {
+      "error_code": "31030",
+      "short_message": "Invalid Parameter",
+      "long_message": "order_uid: Invalid Parameter",
+      "correcting_error": "Ensure that the order_uid parameter is not Invalid."
+    },
+    {
+      "error_code": "31031",
+      "short_message": "Invalid Parameter",
+      "long_message": "mm_id: Invalid Parameter",
+      "correcting_error": "Ensure that the mm_id parameter is not Invalid."
+    },
+    {
+      "error_code": "31032",
+      "short_message": "Invalid Parameter",
+      "long_message": "otp: Invalid Parameter",
+      "correcting_error": "Ensure that the otp parameter is not Invalid."
+    },
+    {
+      "error_code": "31034",
+      "short_message": "Invalid Parameter",
+      "long_message": "Selected EMI facility is not valid for entered card",
+      "correcting_error": "As verified by bank EMI transactions are not enabled on this card."
+    }
+  ]
+}

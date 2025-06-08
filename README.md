@@ -9,7 +9,7 @@ CCAvenue Internet Payment Gateway Module for Magento 2.4x
 ![Github language](https://img.shields.io/github/languages/code-size/dravasp/ccavenuepaymentgatewaymagentoseamless?style=flat-square)
 ![Packagist](https://img.shields.io/packagist/dt/dravasp/ccavenuepaymentgatewaymagentoseamless?style=flat-square)
 ![Packagist](https://img.shields.io/packagist/stars/dravasp/ccavenuepaymentgatewaymagentoseamless?style=flat-square)
-![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCv-tdY7OFWk_f1JP4_hmS5A)
+![YuTube Channel](https://img.shields.io/youtube/channel/subscribers/UCv-tdY7OFWk_f1JP4_hmS5A)
 ![Github Followers](https://img.shields.io/github/followers/dravasp?style=social)
 
 ```
@@ -63,6 +63,30 @@ Instructions:
   - Click on the first order in the data grid. This should be the order that you just placed
   - When the order details page opens up, look for "Payment Information" block. 
     Inside the block, you can see the latest status of the transaction on CCAvenue end. 
+
+[] Use Postman API Collection to Outline Error Troubleshooting with payload response `encrypted` and `decrypted` 
+```
+  - Explanation: `encrypted`
+Key Generation: Ensure that the key used for encryption is kept secret and is 32 bytes long for AES-256.
+Initialization Vector (IV): A random IV is generated for each encryption to ensure that the same plaintext will encrypt to different ciphertexts each time.
+Encryption Process: The encrypt function takes the plaintext and the key, encrypts the data using AES-256-CBC, and returns the IV along with the encrypted data.
+Sending Encrypted Data: You can then send the encryptedRequest to the payment gateway instead of the plain JSON request.
+In Postman, you can use the pre-request script feature to run JavaScript code before sending the request.
+You can include the encryption logic there to encrypt the request body dynamically.
+Always handle encryption keys securely and avoid hardcoding them in your source code.
+Use environment variables or secure vaults for sensitive information.
+param `order_date` has been omitted for code integrity.
+
+  - Explanation: `decrypted`
+Decryption Function: The decrypt function uses the AES-256-CBC algorithm to decrypt the data. It splits the encrypted text into the IV and the encrypted data, then uses the IV to initialize the decipher.
+Environment Variable: The encryption key is retrieved from an environment variable named encryption_key. Ensure that this key is a 32-byte string for AES-256 decryption.
+Getting the Encrypted Response: The encrypted response body is obtained from the server response using pm.response.text().
+Decrypting the Response: The encrypted response body is decrypted using the decrypt function. The decrypted data is logged to the console for verification.
+Storing Decrypted Response: Optionally, the decrypted response can be stored in an environment variable named decrypted_response for further use in subsequent requests or tests.
+```
+View - [https://www.postman.com/weskyprint/ccavenue-internet-payment-gateway-aes-256-cbc-w-encrypt-decrypt](https://bit.ly/44f5Qnx)
+
+
 
 [] Corporate Office Address  - Payment Gateway with Global Presence
 ```

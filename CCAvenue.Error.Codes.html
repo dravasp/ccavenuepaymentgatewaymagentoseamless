@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CCAvenue Error Codes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: #fff;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>CCAvenue Error Codes</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Error Code</th>
+                <th>Short Message</th>
+                <th>Long Message</th>
+                <th>Correcting this Error</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>10002</td>
+                <td>Authentication Failed</td>
+                <td>Merchant Authentication failed</td>
+                <td>This error can be caused by an incorrect merchant ID, an incorrect access code, or if the order originates from an unregistered URL. Make sure that all three of these values are correct. For your security, CCAvenue does not report exactly which of these three values might be in error.</td>
+            </tr>
+            <tr>
+                <td>21001</td>
+                <td>Missing Parameter</td>
+                <td>order_id: Required parameter missing</td>
+                <td>Ensure that the order_id parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21002</td>
+                <td>Missing Parameter</td>
+                <td>currency: Required parameter missing</td>
+                <td>Ensure that the currency parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21003</td>
+                <td>Missing Parameter</td>
+                <td>amount: Required parameter missing</td>
+                <td>Ensure that the amount parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21004</td>
+                <td>Missing Parameter</td>
+                <td>billing_name: Required parameter missing</td>
+                <td>Ensure that the billing_name parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21005</td>
+                <td>Missing Parameter</td>
+                <td>billing_address: Required parameter missing</td>
+                <td>Ensure that the billing_address parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21006</td>
+                <td>Missing Parameter</td>
+                <td>billing_city: Required parameter missing</td>
+                <td>Ensure that the billing_city parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21007</td>
+                <td>Missing Parameter</td>
+                <td>billing_state: Required parameter missing</td>
+                <td>Ensure that the billing_state parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21008</td>
+                <td>Missing Parameter</td>
+                <td>billing_zip: Required parameter missing</td>
+                <td>Ensure that the billing_zip parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21009</td>
+                <td>Missing Parameter</td>
+                <td>billing_country: Required parameter missing</td>
+                <td>Ensure that the billing_country parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21010</td>
+                <td>Missing Parameter</td>
+                <td>billing_tel: Required parameter missing</td>
+                <td>Ensure that the billing_tel parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21011</td>
+                <td>Missing Parameter</td>
+                <td>billing_email: Required parameter missing</td>
+                <td>Ensure that the billing_email parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21012</td>
+                <td>Missing Parameter</td>
+                <td>delivery_name: Required parameter missing</td>
+                <td>Ensure that the delivery_name parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21013</td>
+                <td>Missing Parameter</td>
+                <td>delivery_address: Required parameter missing</td>
+                <td>Ensure that the delivery_address parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21014</td>
+                <td>Missing Parameter</td>
+                <td>delivery_city: Required parameter missing</td>
+                <td>Ensure that the billing_city parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21015</td>
+                <td>Missing Parameter</td>
+                <td>delivery_state: Required parameter missing</td>
+                <td>Ensure that the delivery_state parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21016</td>
+                <td>Missing Parameter</td>
+                <td>delivery_zip: Required parameter missing</td>
+                <td>Ensure that the delivery_zip parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21017</td>
+                <td>Missing Parameter</td>
+                <td>delivery_country: Required parameter missing</td>
+                <td>Ensure that the delivery_country parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21018</td>
+                <td>Missing Parameter</td>
+                <td>delivery_tel: Required parameter missing</td>
+                <td>Ensure that the delivery_tel parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21020</td>
+                <td>Missing Parameter</td>
+                <td>card_name: Required parameter missing</td>
+                <td>Ensure that the card_name parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21021</td>
+                <td>Missing Parameter</td>
+                <td>card_type: Required parameter missing</td>
+                <td>Ensure that the card_type parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21022</td>
+                <td>Missing Parameter</td>
+                <td>payment_option: Required parameter missing</td>
+                <td>Ensure that the payment_option parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21023</td>
+                <td>Missing Parameter</td>
+                <td>card_number: Required parameter missing</td>
+                <td>Ensure that the card_number parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21024</td>
+                <td>Missing Parameter</td>
+                <td>expiry_month: Required parameter missing</td>
+                <td>Ensure that the expiry_month parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21025</td>
+                <td>Missing Parameter</td>
+                <td>expiry_year: Required parameter missing</td>
+                <td>Ensure that the expiry_year parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21026</td>
+                <td>Missing Parameter</td>
+                <td>cvv_number: Required parameter missing</td>
+                <td>Ensure that the cvv_number parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21027</td>
+                <td>Missing Parameter</td>
+                <td>issuing_bank: Required parameter missing</td>
+                <td>Ensure that the issuing_bank parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21028</td>
+                <td>Missing Parameter</td>
+                <td>emi_plan_id: Required parameter missing</td>
+                <td>Ensure that the emi_plan_id parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21029</td>
+                <td>Missing Parameter</td>
+                <td>emi_tenure_id: Required parameter missing</td>
+                <td>Ensure that the emi_tenure_id parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21031</td>
+                <td>Missing Parameter</td>
+                <td>mm_id: Required parameter missing</td>
+                <td>Ensure that the mmid parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>21032</td>
+                <td>Missing Parameter</td>
+                <td>otp: Required parameter missing</td>
+                <td>Ensure that the otp parameter is not blank.</td>
+            </tr>
+            <tr>
+                <td>31001</td>
+                <td>Invalid Parameter</td>
+                <td>order_id: Invalid Parameter</td>
+                <td>Ensure that the order_id parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31002</td>
+                <td>Invalid Parameter</td>
+                <td>currency: Invalid Parameter</td>
+                <td>Ensure that the currency parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31003</td>
+                <td>Invalid Parameter</td>
+                <td>amount: Invalid Parameter</td>
+                <td>Ensure that the amount parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31004</td>
+                <td>Invalid Parameter</td>
+                <td>billing_name: Invalid Parameter</td>
+                <td>Ensure that the billing_name parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31005</td>
+                <td>Invalid Parameter</td>
+                <td>billing_address: Invalid Parameter</td>
+                <td>Ensure that the billing_address parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31006</td>
+                <td>Invalid Parameter</td>
+                <td>billing_city: Invalid Parameter</td>
+                <td>Ensure that the billing_city parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31007</td>
+                <td>Invalid Parameter</td>
+                <td>billing_state: Invalid Parameter</td>
+                <td>Ensure that the billing_state parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31008</td>
+                <td>Invalid Parameter</td>
+                <td>billing_zip: Invalid Parameter</td>
+                <td>Ensure that the billing_zip parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31009</td>
+                <td>Invalid Parameter</td>
+                <td>billing_country: Invalid Parameter</td>
+                <td>Ensure that the billing_country parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31010</td>
+                <td>Invalid Parameter</td>
+                <td>billing_tel: Invalid Parameter</td>
+                <td>Ensure that the billing_tel parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31011</td>
+                <td>Invalid Parameter</td>
+                <td>billing_email: Invalid Parameter</td>
+                <td>Ensure that the billing_email parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31012</td>
+                <td>Invalid Parameter</td>
+                <td>delivery_name: Invalid Parameter</td>
+                <td>Ensure that the delivery_name parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31013</td>
+                <td>Invalid Parameter</td>
+                <td>delivery_address: Invalid Parameter</td>
+                <td>Ensure that the delivery_address parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31014</td>
+                <td>Invalid Parameter</td>
+                <td>delivery_city: Invalid Parameter</td>
+                <td>Ensure that the billing_city parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31015</td>
+                <td>Invalid Parameter</td>
+                <td>delivery_state: Invalid Parameter</td>
+                <td>Ensure that the delivery_state parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31016</td>
+                <td>Invalid Parameter</td>
+                <td>delivery_zip: Invalid Parameter</td>
+                <td>Ensure that the delivery_zip parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31017</td>
+                <td>Invalid Parameter</td>
+                <td>delivery_country: Invalid Parameter</td>
+                <td>Ensure that the delivery_country parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31018</td>
+                <td>Invalid Parameter</td>
+                <td>delivery_tel: Invalid Parameter</td>
+                <td>Ensure that the delivery_tel parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31020</td>
+                <td>Invalid Parameter</td>
+                <td>card_name: Invalid Parameter</td>
+                <td>Ensure that the card_name parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31021</td>
+                <td>Invalid Parameter</td>
+                <td>card_type: Invalid Parameter</td>
+                <td>Ensure that the card_type parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31022</td>
+                <td>Invalid Parameter</td>
+                <td>payment_option: Invalid Parameter</td>
+                <td>Ensure that the payment_option parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31023</td>
+                <td>Invalid Parameter</td>
+                <td>card_number: Invalid Parameter</td>
+                <td>Ensure that the card_number parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31024</td>
+                <td>Invalid Parameter</td>
+                <td>expiry_month: Invalid Parameter</td>
+                <td>Ensure that the expiry_month parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31025</td>
+                <td>Invalid Parameter</td>
+                <td>expiry_year: Invalid Parameter</td>
+                <td>Ensure that the expiry_year parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31026</td>
+                <td>Invalid Parameter</td>
+                <td>cvv_number: Invalid Parameter</td>
+                <td>Ensure that the cvv_number parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31027</td>
+                <td>Invalid Parameter</td>
+                <td>issuing_bank: Invalid Parameter</td>
+                <td>Ensure that the issuing_bank parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31028</td>
+                <td>Invalid Parameter</td>
+                <td>emi_plan_id: Invalid Parameter</td>
+                <td>Ensure that the emi_plan_id parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31029</td>
+                <td>Invalid Parameter</td>
+                <td>emi_tenure_id: Invalid Parameter</td>
+                <td>Ensure that the emi_tenure_id parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31030</td>
+                <td>Invalid Parameter</td>
+                <td>order_uid: Invalid Parameter</td>
+                <td>Ensure that the order_uid parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31031</td>
+                <td>Invalid Parameter</td>
+                <td>mm_id: Invalid Parameter</td>
+                <td>Ensure that the mm_id parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31032</td>
+                <td>Invalid Parameter</td>
+                <td>otp: Invalid Parameter</td>
+                <td>Ensure that the otp parameter is not Invalid.</td>
+            </tr>
+            <tr>
+                <td>31034</td>
+                <td>Invalid Parameter</td>
+                <td>Selected EMI facility is not valid for entered card</td>
+                <td>As verified by bank EMI transactions are not enabled on this card.</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>

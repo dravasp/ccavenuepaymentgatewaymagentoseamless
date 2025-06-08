@@ -84,7 +84,7 @@ Getting the Encrypted Response: The encrypted response body is obtained from the
 Decrypting the Response: The encrypted response body is decrypted using the decrypt function. The decrypted data is logged to the console for verification.
 Storing Decrypted Response: Optionally, the decrypted response can be stored in an environment variable named decrypted_response for further use in subsequent requests or tests.
 ```
-View - [https://www.postman.com/weskyprint/ccavenue-internet-payment-gateway-aes-256-cbc-w-encrypt-decrypt](https://bit.ly/44f5Qnx)
+View - [Postman Workspace API](https://bit.ly/44f5Qnx)
 
 
 

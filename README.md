@@ -421,6 +421,21 @@ aws Instance Type Information (Hosting Web Server) - `Recommended for WooCommerc
 `4.00GB + 59 NVMe SSD - AWS Graviton3 processors` - `https://aws.amazon.com/ec2/instance-types/r7g`
 `Up to 12500 M of Network Performance`
 
+aws Instance Type Information (Hosting Web Server) - `Recommended for WooCommerce WordPress CMS`
+- `c7i-flex.2xlarge` - `Compute Optimized with AWS Nitro Supported` - 133 USD per month `Spot Price`
+- `Mumbai - Asia Pacific` supported
+- `16.00GB - Intel Xeon Scalable 4th Generation (codename: Sapphire Rapids) 8vCPUs and 1 CPU core`
+- `0.78 Baseline / 12.5 Burst bandwidth (Gbps) - Network with ENA, x8 Max. network interfaces, x30 IP addresses - switch to IPv6 Network Support Capabilities.`
+- `Intel Total Memory Encryption (TME) - Advance Matrix Extensions (AMX) - (Supported on C7i and C7i-flex).`
+- `However, to accelerate processes related to data operations - specifically - encryption, compression, and queue management - crucial for Financial Services.`
+- `C7i Instances instead of C7i-flex for additional optimisations across`
+- `CPU-based ML - Data Streaming Accelerator (DSA)`
+- `In-Memory Analytics Accelerator (IAA)`
+- `QuickAssist Technology (QAT)`
+- `(Refer to specific pricing on Vantage.sh (Regional Pricing) or Official AWS https://aws.amazon.com/ec2/instance-types/c7i/`
+- `Quick note on Vantage.sh - You can gain extended visibility into accrued network and data transfer costs associated`
+- `k8io - resizing and efficient I/O network fees via Scalable Processors and Cloud Service Managers.`
+
 Couple two or more instances `4GB x2 = 8 or x4 = 16 GB (Standard Performance)` / `8GB x2 = 16 (High Performance)` on `Amazon EKS Cluster Bitnami Helm Chart`
 `Amazon managed Kubernetes cluster` 
 - `Launch on a new EKS cluster with QuickLaunch - Cloudformation >> Stacks` - `https://aws.amazon.com/marketplace/pp/prodview-43djy7psn24cg`
@@ -490,6 +505,14 @@ If you wish to `use S/MIME Certificate across Paid Business Google Workspace/Gma
 If you wish to `use S/MIME Certificate across Microsoft Outlook (with Paid Microsoft 365 Plan)` - [Refer to Article](https://www.microsoft.com/en-us/microsoft-365/outlook/outlook-email-plan?ocid=cmmhk3ktunq) - `Setup S/MIME via Exchange Online - Active Directory` - [Refer to Article](https://learn.microsoft.com/en-us/exchange/security-and-compliance/smime-exo/configure-smime-exo) and [Refer to Article](https://support.microsoft.com/en-us/office/encrypt-email-messages-373339cb-bf1a-4509-b296-802a39d801dc) - `(Adding Custom Domain via Microsoft 365 Plan is required prior to enable sending communication across Active Directory configured Mail Client of Choice. Also, DNS Records need to point across Exchange Online)`
 
 If you wish to `use S/MIME Certificate across Amazon WorkMail (Paid - Valid for 1 Year)` - [Refer to Article](https://docs.aws.amazon.com/workmail/latest/userguide/send_encrypted_email.html) `(Adding Custom Domain via Route53 is required prior to Enabling sending communication across Amazon Workmail. Also, DNS Records need to point across Amazon Workmail Servers. Billing for Amazon Workmail is calculated for your respective Billing Cycle across GST Invoice with Charges for Route 53 Zones Enabled and other AWS services such as EC2, ECS, EKS, SES, or SNS (if enabled)).`
+
+`Several IoT Devices that link to - Merchant Services and Payments Acceptance mode (Post-Quantum Cryptography)`
+`You can request a fully qualified Extended Domain Validation (EV) trust certificate (via primitive Unique Identifier`
+`to approve Chain of Trust via legacy X.509 certificates on Device Lifecycle Manager) as per issuer policy mandates set in place.`
+`Providers include - DigiCert CA, comodo CA, thawte CA, Actalis, Cloudflare Inc. (incl. Business Plan - Advanced Certificate Manager`
+`OCSP Stable Origin / CRL Status / HTTP enforced - DNSSEC / RSA) and other On-premise Server Certificates (Exchange Server - Microsoft IIS, and Apache Tomcat)`
+`Basic understanding of Certificate Signing Request (Decoding Cipher - PFX, DER, or PEM - CAA OpenTLS) is required.`
+`You can apply for Norton SiteLock (.. coupled with EV SSL*) or TrustedSite Pro (McAfee) - Automatic Sitemap Submission to large user base and industry experts (Non-OEM)`
 
 You can `claim 18% GST Input Tax Credit for your Annual Purchase across ZohoMail Premium Subscription (Direct with ZohoCorp with Live Support across ZohoAssist and Phone Support)`, `amazon WorkMail (Billing via Valid AWS Account with Registered GSTIN across Amazon Web Services Private Limited)` and `Google Workspace (Business) editions via Reseller (India)` preferablly `(Xenia Systems Private Limited - 07AAACX1336P1Z1)`
 

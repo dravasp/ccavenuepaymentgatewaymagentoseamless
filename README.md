@@ -898,4 +898,140 @@ Users on Xiaomi and Apple iOS are unable to save the APN after creating it, and 
 
 Network Carriers are selectively deploying Reliance Jio LTE and Reliance Jio to allow clients to migrate network applications to IPV6 sub-net NAT on pushback request. The redundancy change would take a while to come in effect though.
 
+_________________________________________________________________________________________
+
+```
+Recognise a Charge on your Statement - Guided Steps for Immediate Resolution via CCAvenue Merchant Services (ISV) - risk@ccavenue.com - *Stipulated Fees Apply*
+
+Sale Date (as shown on card statement)
+`DD/MM/YYYY` as `01/JAN/1975`
+
+Credit Card Statement `Generation Date` from Merchant Services
+`DD/MM/YYYY` as `01/JAN/1975`
+
+Credit Card Statement reflects `Merchant Name` `Shortcode` or `Company Name` from Acquirer Merchant Services
+- `CCAvenue.com`
+- `Avenues India Private Limited`
+- `Avenues World Pte. Ltd.`
+
+Enter Reference Details (Ultimate Beneficial `Ownership` Declaration `of Payment Mode Applied to Inquire`)
+```
+
+```
+Select Mode of Payment
+- `eCommerce via CCAvenue Checkout` (`Self-hosted` / `Re-direct Seamless` / `Seamless`) - Enter `URL starting with https://www. or https://`
+	Select if `CCAvenue Checkout was Enabled across your Checkout Experience` or `requisite a charge associated via (Redirect / Landing / External Checkout via Bank Channel)`
+	- `Magento OS Commerce (Bitnami on AWS / GCP / Azure Hosting) (Bitnami on Kubernetes) (Bitnami on Headless Commerce - GraphQL Framework)`
+	- `Shopware` / `Demandware` / `HCL Commerce Cloud` / `Sanity CMS Framework` - Extended Order Management
+	- `WooCommerce` or `WooCommerce Payments` or `WordPress Checkout`
+	- `Shopify Plus Checkout` (Hosted and Headless via Nuxt.js version: GitHub Deployment)
+	- `PayPal Hosted Checkout` (`iZettle` / `Braintree` / `Payflow Pro` / `PayPal Payments via Authorise.net or Cybersource Vendor` / PayPal Checkout)
+	- `Medusa Commerce` / `Salesforce Commerce Cloud` / `Bigcommerce` / `Squarespace Commerce (Godaddy Payments)`
+	- `ZOHO Workspace (Zoho Mail, Zoho Inventory, Zoho Books and Zoho Payments)` / `Odoo ERP (Commerce Integration)` / `Snipcart (Rich Snippets)`
+	- `Payment via SMS (DLT-TRAI DoT approved Commerce Vendors)` `(Kaleyra.io - TATA Communications)`
+	- `Exchange Mail Active Directory (Mailmerge) (Newsletter Communication) (Redistributable Payment Channel Provider)` `(Google Campaign Sitelinks)`
+	- `Links via Web Framework (HTML) (Forms - Embedded or Clickable)` `(Chat Messaging Apps or Pop-ups)` `(Frequency set via XML / RSS Distribution / Internal or External Back-links / Pingback for UM Trackback)`
+	- `Payments to Sponsorships (Event Host Information) (Approved Confirmation) (Technology as a Service) (Non-Merchandise Payments) (Legal - Independent Software Contracts)`
+- IVR Payment via Phone Commerce Authorisation - Self-checkout - `Mention (UCC or SMS Shortcode)`
+	- `WhatsApp (Multimedia Calling) - RCS (Rich Communication Service)` `WhatsApp Business (API) (On-premise)`
+	- `Instagram (Multimedia Calling) - Payments Channel (Endorsements)`
+	- `Limited Release SDKs (Non-Origin Communication Services)`
+	- `UCC Complaints Registration` - `https://myjio-trueconnect.jio.com/preference`
+```
+
+```
+- Tele-sales (Live Agent) / SMS / IVR / MMS / WhatsApp Commerce / API
+	Category (Select applicable category or categories - Bulk Payments)
+	- eCommerce Marketplace (International / Domestic Secure Transaction / Utility Payments / External Providers)
+	- Entertainment or Infotainment (Subscription to Service D2H Provider - Native or In-built Digital Commerce Links)
+	- Trade Experience Center (International / Domestic Expo / ITPO - Arts and Theatre)
+	- Travel Card (Frequent Flyer Member) (Redeemed or Issued) (Employee Receipts - Excluded)
+	- Insurance (Health Assurance Desk) (Acko General Insurance / HDFC Ergo General Insurance / ICICI Lombard General Insurance / Niva Bupa Health Insurance)
+	- Hospital Billing (Clinical Health) (Smart Admissions) (Domiciliary Patient Care) (Day Care and Scientific)
+	- Veterinarian (Pet Store or Clinical) (Consumable / Disposable / Pharmaceutical)
+	- Real-estate (Payment towards Brokerage / Housing Allowance / RERA or MAHARERA - Land Department Payments) (ISO: Transliteration and Translation)
+	- Government Payments (Cash at Counter OTC / Bank Transfer UTR)
+	- Ed-tech Coaching (Tutor Payments)
+	- Restaurant / Cafeteria / FnB Chains / Nightlife (Privy Memberships)
+	- Cab Service (International / Domestic) (OLA - Smart Mobility Solutions - Intercity Travels - Volvo - Bharat Benz Daimler)
+	- Taxi Rentals (International / Domestic) (Permit Assurance Desk)
+	- Passenger Rail (Domestic) and Rail Transit Insurance (Insured by TPA - Incl. Personal Accident Policy)
+	- Telecommunication (Postpaid or Prepaid Plans incl. 5G 4G Data Recharge or International Calling Service)
+	- Medical Practioner (Payments to Registered Medical Practioners) (Clinical) (Ayush) (Homeopathy) (State Dispensaries) (Senior Care) (Nursing Home - Medical Board) (Domiciliary Warden - CMO)
+	- Imaging Departments (Medical - NGO Assisted - PMJAY)
+	- Stationery Stores (Xerox and Printing) - Confectionery
+	- Ration Marts (Exclusive) (Domestic / International)
+	- Payments towards Cybersecurity Framework Association - Demand Generation - Lead Broking and Terminal Desk (International)
+	- Exchange and Asset Management (Advisory Payments - Scope of Work and Completed Projects)
+	- IoT Device Registration (AI-assist) / Coverage (API) / Vending Machines (Terminal Payments - Smart Mobility / Food and Beverage (Smart Tracking and Route Optimisation) / Optics / Bullion Service Providers)
+	- Reseller Payments (Outward: Merchant Induced)
+		- Microsoft Store (Windows) (Bing Shopping Search)
+		- Amazon Web Services (AWS Gov Cloud / AWS India / UK) Ubuntu Linux Open Source (CIS)
+		- Redhat On-premise (Hosting) / Azure Marketplace (Kubernetes)
+		- Google Cloud Platform (GCP) (Docker) (Google Shopping Console) (Google Manufacturer Center)
+		- Redis / MongoDb / NVIDIA / Radeon Labs (Language Models)
+		- Meta facebook Instagram twitter reddit Taboola Display Advertising (Promotional Credits and Certification)
+		- Print and Display Advertising (Promotional Credits and Certification) - Newspaper / Digital OOH / D2H and (Print Packaging and Authenticity)
+		- Sales via QR Ads (WhatsApp Commerce / UPI Intent Apps / Marketplace and Retail Commerce Vendor Apps) (CCAvenue Business Promotion)
+		- Music Distribution (Radio Ads) (Payments applied via Phone IVR 3-way Connect Call CCAvenue Merchant Desk Payment Systems)
+		- Spotify Artists (Private Label and Promotions)
+		- Netflix Entertainment (Private Label and Promotions)
+		- Amazon Prime (Channel) (Private Merchandise)
+		- Apple TV and Apple TV+ (Proprietary Content Merchandising)
+		- Disney+ (Proprietary Content Merchandising)
+		- Sony Networks (Proprietary Content Merchandising)
+		- Apple Music (Promotions and Private Artists)
+		- Dobly Vision UHDR - Dolby Labs (Movies - IMAX) / Dolby Atmos Encoding (Partnerships)
+		- Kodak Film Processing (Geo-spatial Film Processing - Application Engineering (Access Engineering - EXIF Data and Acquisitions)) (Release Rights) (Cinematic Experiences)
+	- CCAvenue Reseller Payments (Affiliates and Merchant Provisioner) (In-ward: Customer Induced)
+	- DPIIT approved Entities at Commerce Expo and World Convention Centers
+		- Jio World Plaza (Bandra Kurla Complex - Mumbai)
+		- Bharat Mandapam (New Delhi ITPO)
+		- Lincoln Center (Global)
+		- NCPA Cultural Exchange (South Mumbai AVSK)
+		- US-India Dosti House and World Trade Center - (Bandra Kurla Complex - Mumbai) Delhi
+		- Secretariat House (Parliament House - New Delhi and Mumbai)
+		- Bharat Diamond Bourse (Bandra Kurla Complex - Mumbai)
+		- Aviation Hanger (Commercial Expo / India Cargo Complex - Sahar JNPT (Bandra Kurla Complex - Mumbai)) var.
+		- Inland Ports and Maritime Cargo Complex - JNPTU / KA / MIDCO var.
+		- Aditya Birla Cultural and Heritage Center (South Mumbai AVSK)
+		- Changi Airport Terminal (Goh Choon Phong)
+		- Vande Bharat Express Lounges (Indian Rail Corporation) (HAL)
+		- Toll Transfers (Reserved Spaces) (City Limits)
+		- Advanced Computing Channel Partners (Government eMarketplace) - Data Centers (NIC) - Quantum Cryptographic Modulisation (SMM) - Circuit Boards
+		- Patent Application and Trademark Office (Datamatics)
+		- Judiciary Establishments (Advocacy - Human Rights Commissions Office)
+```
+
+```
+- Merchant Kiosk with Merchant Name
+- CCAvenue Business Payment Link or (Pay by Link on Invoice generated by Merchant)
+- Soundbox Max (QR Pay / QR UPI / QR Intent Collect)
+- Select if Applicable (NFC Tap to Pay / Visa Wave Collect / Membership Card / Barcode Token - Redeemable Giftcard / Loyalty Points)
+	- Issued by - Organisation Name and Expiry Set on Card (DD / MM / YY or YYYY) (MM / YY) or (MM / YYYY)
+	- Contact Information (Any) (Owner of Establishment) (FSSAI) (License Number) (Ward Office)
+	- Shipment Returns (Auction or Proceeds) (Insolvency) (Asset Restructuring) (Disposables)
+	- Software or Software as a Service (Applied under Export Control Laws - Sanctioned or Non-Sanctioned)
+```
+
+```
+Dispute Collection Officer Information Report
+- Legal Name (Salutation / First / Middle / Last) as per verified KYC Documents
+- Company Name (Private Limited / Public Limited / Limited Liability / Donations to Charitable Institutions Non-profit NGO)
+- Email (@outlook.com MS IIS Exchange or Business 365 Apps Domain / @sifymail.com SifyCorp Business / @gmail.com Google Workspace / @awsapps.com Amazon WorkMail / @india.gov.in NIC MeITY)
+- Address Line 01
+- Address Line 02
+- Address Line 03
+- Mobile Number (+91) Country Code (India) or (+65) Country Code (Singapore) or (+1) Country Code (United States of America)
+- Billing Address same as Shipping Address (Yes / No / Enter Shipping Address if Applicable)
+- Shipment / Cargo (International / Domestic) Tracking Information - Enter AWB DDP or In-transit Airway Bill Information
+- Insurance (Marine Cargo / In-land / Retail) (Docket or Scheme ref. Number via IRDAI) (Value Self-insured - Commercial Cargo / Insured via Logistics Provider (Organisation Name) - International / Domestic)
+- Goods and Service Tax Invoice (Sale of Goods - HSN) or Bill of Sale (Cargo - IMPEX Freezone Gift City IBU) or Freelancer Invoice (Individual - Services SAC) or Donations Receipt (Exempted or Inclusive Charities)
+- Does Sale of Goods or Service fall under Restricted or Prohibited Category (Exports awaiting clearance Non-DPU) 
+- Electronic Transfer Remittance Details (Sale - Outward or Inward) (Payments towards Compliance) (Remittance Exchange House MCX) (Contractual) (ISV or Independent Service Provider)
+- If Inward Transfer (Specific Payment Mode - Authorise or Authorise and Capture - Cancelled due to Declined) (Apply Transaction Mapping) (EMI - Installments Approved Rating for Merchant)
+
+`Previous Communication ref. trxn. ticket.id`
+```
+
 [Subscribe to future updates to this repo by click here](https://github.com/dravasp/ccavenuepaymentgatewaymagentoseamless/commits.atom) - View .atom RSS file to import to Thunderbird

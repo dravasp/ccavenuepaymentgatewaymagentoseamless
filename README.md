@@ -1,5 +1,5 @@
 CCAvenue Internet Payment Gateway Module for Magento 2.4x
-============================================================
+_________________________________________________________________________________________
 ![CCAvenue Infibeam Avenues Ltd. Internet Payment Gateway Module for Magento 2.4x optimised for aws Bitnami - Partner Affiliate Marketing - WE SKY PRINT LLP](https://github.com/dravasp/ccavenuepaymentgatewaymagentoseamless/assets/27689043/020044ee-e213-4f1c-b1b0-6e63ad1c9288)&emsp;<a href="https://apps.apple.com/in/app/ccavenue-india-for-business/id1607808934?itscg=30200&amp;itsct=apps_box_appicon" style="width: 7%; height: 7%; border-radius: 3%; overflow: hidden; display: inline-block; vertical-align: middle;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/80/af/c6/80afc674-115e-33e1-12e9-345f13112f2f/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/540x540bb.jpg" alt="CCAvenue India for Business" style="width: 7%; height: 7%; border-radius: 3%; overflow: hidden; display: inline-block; vertical-align: middle;"></a>&emsp;<img src="https://pbs.twimg.com/profile_images/1789943330295427072/lv7whBjj_400x400.jpg" style="width: 7%; height: 7%; border-radius: 3%; overflow: hidden; display: inline-block; vertical-align: middle;"> &emsp; <img src="https://upload.wikimedia.org/wikipedia/commons/archive/9/9e/20220314171849%21Ia-infibeam-avenues.png" alt="Infibeam logo" height="70" width="200"></a>
 
 [![GitHub issues](https://img.shields.io/github/issues/dravasp/ccavenuepaymentgatewaymagentoseamless?logo=github&style=flat-square)](https://github.com/dravasp/ccavenuepaymentgatewaymagentoseamless/issues)
@@ -11,6 +11,96 @@ CCAvenue Internet Payment Gateway Module for Magento 2.4x
 ![Packagist](https://img.shields.io/packagist/stars/dravasp/ccavenuepaymentgatewaymagentoseamless?style=flat-square)
 ![YuTube Channel](https://img.shields.io/youtube/channel/subscribers/UCv-tdY7OFWk_f1JP4_hmS5A)
 ![Github Followers](https://img.shields.io/github/followers/dravasp?style=social)
+
+_________________________________________________________________________________________
+`CCAvenue` - Turns 24 - and coherently, ranks 23rd among 452 active competitors globally
+- Estimated `Annual Conglomerate Revenue recorded at ₹3,200Cr --on Mar 31, 2024`
+Investors and Valuation Experts (Data Insights)
+
+_For all your design imperative individuals who are brand frenzy - here is_
+`India's most trusted payment gateway enables businesses to do seamless transactions with ironclad security.`
+`CCAvenue`. `Because Every Transaction Counts.`
+
+_________________________________________________________________________________________
+Build a sense of familiarity in large number of `forward-thinking customers` by integrating `CCAvenue's Merchant Services and Assurance Vendors` across your line of business.
+`CCAvenue` is empowered with high network businesses and service providers across the country, `India` (and in `Singapore` - globally).
+With an array of payment options to `entrust merchant-buyer acquisition terms of sale`, you can be rest assured,
+`CCAvenue` is a `safe, secure and quick mode of payment` regardless of the mode of payment (.. `acceptance`) you choose to enable.
+At `CCAvenue`; `a new-age payments processing and infrastructure partner based out of the financial capital of India`,
+a co-herent `PCI-DSS 4.0.1 Compliant Solutions and Software as a Service Vendor (2025 January)` proves essential
+in making it one of the `most secure payment gateways across IVY League service partners` - `Fintech and Non-banking Institution`.
+In a `rapidly provisioning ecosystem of payment products and merchant services acquiring` (companies), for `ecommerce and beyond`,
+`CCAvenue` outlines `excellent time to market propositions` and `incentives across a large user-base`.
+_________________________________________________________________________________________
+In 2025, India (`Bharat`) has transitioned in to a `quick-commerce --hyperlocal consumer market` with ever evolving sales to `offset legacy merchant acquisition means and demeanors`.
+`To be acquainted in the discovery lifecycle of new merchant on-boarding to relentlessly maintaining internationally certified security standards, (.. of not just payment acceptance)`, thus,
+making it the most trust worthy `Net Authentication Agency` in the bustling city of `Mumbai, Maharashtra, India`. As you tend to grow stronger with better health,
+`CCAvenue applied Strong Authentication dispositions` (applied via `VISA such as 3D-Secure CVV OTP Authentication`), `CCAvenue` `offsets implied volatility by over 99.96%` 
+
+- Similar to `VISA`, by `enabling Secure Code across Mastercard Global Payment Services (India)`, merchants now are able to `accept and transition wide range of payments`
+across `domestic and international market players` today - `Residency in Large Sector Markets` - offering - not limited to Realty Trendsetters, .. but also
+`--Government Supply Chain Officials`, `Logistic Partners`, `Insurance Sectors`, `Healthcare and Information Technology Manufacturers`,
+and ofcourse --New Age Vendors offering the latest `kicks`, you got it all!
+_________________________________________________________________________________________
+You can simply `distinguish` a warm welcoming entity of `payment processor` at `CCAvenue` from a `legacy paper-pusher, with no means of survival`,
+across the world of `increasingly limited thresholds, chargebacks and no ends to make ambitions meet`.
+
+Your transactions are simply - `Safe and Secure - when processed via CCAvenue` - `stay back the rest, YOU!`
+`Boost confidence` in `rapidly provisioned systems` and unapologetically `highest approval rates` whether you are proposing a new-to-market `FX retail order slicing`
+- `encrypted at rest`.
+
+Market challenges today are `unidentified entity with no earmark that quite sadly, degrade the overall merchant reputation`.
+`Employ a chain of trust, as the folks at Infibeam Avenues - Avenues India do with theirs` 
+_________________________________________________________________________________________
+- Sign up at `https://www.ccavenue.com` to accept, track, and manage payments-on-the-go with strong business insights leveraged across `CCAvenue Merchant Desk`
+  and `Value Added Service Providers`. Offer your valued customers - `discounts across any supply chain and gain that competitive edge over your pre-decessors`.
+_________________________________________________________________________________________
+What's more you ask ?
+`Stay end-to-end PCI-DSS Compliant 4.0.1 with CCAvenue` as your `payment-processing solution provider`, catering to nearly `18 million merchants across all sectoral and vertical indices.`
+Explore path-breaking `technology in the Fintech space`, `CCAvenue` is `committed to redefine user experience, improve transaction success rates`
+and `increase the earning potential of merchants exponentially`.
+`Proven unparalleled product differentiation that is meticulously designed to expand the customer reach` of its web merchants,
+taking their `online businesses to the next level`. Get your `Commerce Platform` - `'CCAvenue marked' NOW!`
+_________________________________________________________________________________________
+If you are in -- arrange a `personalised connect with one of the experts` - `best in the industry to valuate your needs` -
+_________________________________________________________________________________________
+Global Presence:
+`Dubai, United Arab Emirates` at `Dubai Internet City (DIC Metro Station)` - ask for `Avenues World FZ LLC`
+`Riyadh, Kingdom of Saudi Arabia` at `Al Murabba` - `Information Systems Technology Co.` - ask for `Avenues World FZ LLC`
+`New York, United States of America` at `One Penn Plaza` - ask for `CCAvenue Commerce`
+_________________________________________________________________________________________
+Domiscile of:
+captial city of `Delhi, India` at `DBS Business Centre` - `World Trade Tower` - ask for `Connaught Place`
+financial capital of India - `Mumbai` at `Plaza Asiad` - `Santacruz - head to Level 2` - `Infibeam Avenues Limited`
+`Bengaluru` - `Cornor Woods` - click through to 3rd Floor - `Narayan Reddy Complex` - `Infibeam Avenues Limited`
+slicing through open roads in `Pune` - `Teerth Exchange` - `Baner` - `Infibeam Avenues Limited`
+_________________________________________________________________________________________
+CoWorking Sundowners at:
+HQ10 `Bristol IT Park` - `Industrial Estate at Guindy` - `Chennai` - `Infibeam Avenues Limited`
+_________________________________________________________________________________________
+Resident National:
+All Geared in at `Gandhinagar, Gujarat Gift City` - `Lift to 28th Floor Please`
+ - `Infibeam Avenues Limited` - ask for `Chief Business Officer`
+_________________________________________________________________________________________
+Spokesperson -
+`Menon`, `Sr. Vice President - Alliances and Operations`, `Infibeam Avenues Ltd. (BSE: 539807, NSE: INFIBEAM)`
+_"CCAvenue's commitment to enhancing digital payment infrastructure and facilitating seamless and efficient transactions across its network."_
+_________________________________________________________________________________________
+`Currently, the company foresights re-developing the supply chain across innovative Indian businesses transitioning to Australia and Oman for value-added support.`
+For `Certificate of Conformity` Standards and Regulations - `CCAvenue Hardware Products are currently certified` - `EMV L1, L2, PCI PTS, CE, FCC, and RoHS`
+_________________________________________________________________________________________
+Escalations -
+`Vishwas Patel, Joint Managing Director`
+`Vishal Mehta, Chairman and Managing Director` _Spearheads Finance at Infibeam Avenues Limited_
+_________________________________________________________________________________________
+Shareholding across `major technology platforms` - `rediff.com` - `India's finest`
+Strong ties across `American Express` - ecology, `RuPay` and `NPCI`, `BBPS`, `BHIM UPI`, `Department of Internet and Telecom Registry of India`
+`Office of Hon. Prime Minister of India` _and political leaders who envision success at every step_,
+`Indian Business Council (IBC) Summit`, `State Bank of India` (SBIN powered VBV and Escrow Payments) - VISA Debit Card issued in India
+`QRC Assurance Partner SoA (Vamsi K M)`, and `TÜV SÜD` South Asia (`PCI DSS Compliance 4.0.1` v.2026) `(Mr. Atul Srivastava)`
+_________________________________________________________________________________________
+
+Enabling Service - `Register and Enable` `Core Middleware (mPOS)`, `Hardware Token`, `and Connected Systems`
 
 ```
 If you are running 16GB NVMe Server - Change memory value to 15.5G - sudo nano /opt/bitnami/php/etc/php.ini and sudo /opt/bitnami/ctlscript.sh restart
@@ -25,7 +115,7 @@ sudo magento-cli setup:upgrade
 Login to Magento Admin > Configuration > Sales > Payment Methods
 
 Instructions:
-==================
+_________________________________________________________________________________________
 
 [] Fill up CCAvenue integration form - Ref. to `https://www.ccavenue.com/merchant_onboarding_requisites.jsp` for Merchant Onboarding Requisites
   - Login to your CCAvenue Account and Go to My Account > Integration
@@ -84,8 +174,9 @@ Getting the Encrypted Response: The encrypted response body is obtained from the
 Decrypting the Response: The encrypted response body is decrypted using the decrypt function. The decrypted data is logged to the console for verification.
 Storing Decrypted Response: Optionally, the decrypted response can be stored in an environment variable named decrypted_response for further use in subsequent requests or tests.
 ```
+_________________________________________________________________________________________
 View - [Postman Workspace API](https://bit.ly/44f5Qnx)
-
+_________________________________________________________________________________________
 
 
 [] Corporate Office Address  - Payment Gateway with Global Presence
@@ -112,10 +203,11 @@ View - [Postman Workspace API](https://bit.ly/44f5Qnx)
 
   - AI Fintech Inc. (United States of America - USA)
 	- New York Office - One Penn Plaza 36th Floor - New York 10119, US
-
+_________________________________________________________________________________________
 [] Important Emails for Corporate Communications and Risk Assessment
 	- Marketing `contact@ccavenue.com` / Technical `service@ccavenue.com` / Account `accounts@ccavenue.com` / Cardholder - Risk `risk@ccavenue.com`
- 
+
+ _________________________________________________________________________________________
 [] Install using `composer require dravasp/ccavenuepaymentgatewaymagentoseamless:dev-master`
   - Please Do Not Run composer with sudo or install in project root directory / Please Do Not Upload Static Files to Webserver.
   - Request Integration Support or Seek Guidance from Repo Maintainers
@@ -134,8 +226,7 @@ View - [Postman Workspace API](https://bit.ly/44f5Qnx)
   - One-page Checkout Enabled for Magento Commerce OS - Bitnami
 
 CCAvenue India for Business
-=========================================================================================
-
+_________________________________________________________________________________________
 Presenting CCAvenue Merchant App - the most advanced omni-channel payments platform, designed to track all your transactions on the go and request for payments via LinkPay & QRPay in a jiffy.
 
 <a href="https://apps.apple.com/in/app/ccavenue-india-for-business/id1607808934?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 5px; width: 14%; height: 3%"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1689465600" alt="Download onthe App Store" style="display: inline-block; overflow: hidden; border-radius: 5px; width: 14%; height: 3%"></a>
@@ -159,22 +250,22 @@ Offer secure & contactless payments with CCAvenue QR, UPI QR or Bharat QR.
 Google Play and the Google Play logo are trademarks of Google LLC.
 Your customers can simply scan & pay via any UPI enabled App. Contact Email : contact@ccavenue.com
 ```
+_________________________________________________________________________________________
 <a href="https://play.google.com/store/apps/details?id=com.ccavenue.mars.mobile&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" style="display: inline-block; overflow: hidden; border-radius: 5px; width: 18%; height: 45%"><img alt='Get it on Google Play' src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" style="display: inline-block; overflow: hidden; border-radius: 5px; width: 18%; height: 45%"></a>
 
-
-
+_________________________________________________________________________________________
 You will now be able to integrate CCAvenue with your existing Merchant Services Account of choice where you host your Merchant Account
 
 Merchant Account or Cash Collection Service Account with India's Leading Banks allow high order value or high frequency volume (recurring trxns.) - 
 ```SBI Cards & Payment Services Limited (formerly known as SBI Cards & Payment Services Private Limited) / SBIePay```
-
+_________________________________________________________________________________________
 Benefits of Merchant Services as opposed to standard Integration - 
 ```
 Get an integrated, rules-based, proactive risk management system that is supported by industry standard security
 Enjoy 99.9% uptime and a 24-hour helpdesk support
 Get customised MIS solutions for your business needs
 ```
-
+_________________________________________________________________________________________
 Optional Method to Allow Private Repositories via Composer
 
 `composer config --global --auth http-basic.repo.packagist.com token c6addb89a67b2822d352d114`
@@ -203,7 +294,7 @@ As per payment gateway policies and liability shift clause, it is merchant respo
 
 View Patch Type - `Required` or `Optional` (in the Display Patch Grid by following commands below)
 The great part about using Bitnami Magento OS is they are all updated where mandatory security patches are applied to each release. You can view all patches applicable to your specific installation - `https://devdocs.magento.com/quality-patches/tool.html#patch-grid`
-
+_________________________________________________________________________________________
 Steps to Follow - Login to SSH > cd to Magento Directory
 `cd /opt/bitnami/magento`
 
@@ -221,7 +312,7 @@ Select '2' Adobe Commerce Support followed by '1' to Display All Available Requr
 Steps to Revert via Single Command -
 ./vendor/bin/magento-patches revert MDVA-30106 MDVA-12304
 ```
-
+_________________________________________________________________________________________
 | Magento 2.4x on Bitnami  | Optional/REQUIRED  |  Patch Prefix
 | ------------- | ------------- | ------------- |
 | MDVA-30106 | Optional  |  MDVA
@@ -270,7 +361,7 @@ Select '2' Adobe Commerce Support followed by '1' to Display All Available Requr
 Steps to Revert via Single Command -
 ./vendor/bin/magento-patches revert ACSD-45143 ACSD-44591
 ```
-
+_________________________________________________________________________________________
 
 | Magento 2.4x on Bitnami  | Optional/REQUIRED  |  Patch Prefix
 | ------------- | ------------- | ------------- |
@@ -300,7 +391,7 @@ You can avoid indexer:reindex command by entering
 ```
 sudo magento-cli setup:upgrade
 ```
-
+_________________________________________________________________________________________
 To enable SMS Notification across to Customers via Magento OS LTS -
 ```
 https://docs.aws.amazon.com/sns/latest/dg/channels-sms-senderid-india.html
@@ -316,7 +407,7 @@ https://aws.amazon.com/startups
 
 - Imimobile Cloud Communications (india) Private Limited - 145534 - CIN U72900TG2020FTC145534
 - Built with Love at Hyderabad, India - Connect with Happiness Specialist - rbandyop@cisco.com
-
+_________________________________________________________________________________________
 SMS Entity and Template Registration with TSP - FLOW DIAGRAM
 - Register Telemarketer > 1102000001293 as My Telemarketer
 - Sign-in to `KYC enabled TRAI account Manager using JioTrueConnect Login` for `SENDER ID` Registration
@@ -337,7 +428,7 @@ We will dispatch your order via one of our delivery partners and you may track y
 real-time through the link you will receive shortly. Legal Terms & Conditions Apply.
 PlanetCliq.com is a WE SKY PRINT LLP enterprise.
 ```
-
+_________________________________________________________________________________________
 Additionally, you can enable - Push Notifications using `Kaleyra and WhatsApp Business`
 Register with Kaleyra (`powered by Tata Communications`) for WhatsApp Green Tick Verified Account
 on WhatsApp Business (managed by meta Business - facebook api)
@@ -347,7 +438,7 @@ If you are registered with a financial institution to collect payments using Wha
   without leaving WhatsApp. Businesses can send customers order_details messages, then get notified
   about payment status updates via webhook notifications.
 For integrations using `Social Channels` - Connect with `CCAvenue` on `service@ccavenue.com`
-
+_________________________________________________________________________________________
 FLOW DIAGRAM
 | Task  | Type  |  Prefixure
 | ------------- | ------------- | ------------- |
@@ -363,9 +454,9 @@ FLOW DIAGRAM
 | Install Payment Module | Test Webhook / Callback URI |  Move to Production
 | Initiate Tele-assist for redirect URL Success/Failure UAT | Optional  |  Move to Production
 
-
+_________________________________________________________________________________________
 ```GST Filing using Google Sheets (.csv) with Zoho GST```
-
+_________________________________________________________________________________________
 `You need to download this template and enter your Sales (Standard Zoho Template Available) and Purchase (Modified Template Available) with Credit Note (Modified Template Available) data for GST Filing.
 Match Tables as per Data`
 
@@ -380,7 +471,7 @@ Match Tables as per Data`
 | IGST Tax Percentage  > match with > IGST Tax Percentage | IGST Tax Amount > match with > IGST Tax Amount | CGST Tax Percentage > match with > CGST Tax Percentage 
 | CGST Tax Amount > match with > CGST Tax Amount | SGST Tax Percentage > match with > SGST Tax Percentage | SGST Tax Amount > match with > SGST Tax Amount
 
-
+_________________________________________________________________________________________
 ```Credit Note (Modified Template Available)``` - Download Here - https://bit.ly/4c2SI6N - Change Sheet from Bottom Left
 
 | Zoho Fix Name  | Match  |  Google Sheets Header
@@ -396,8 +487,9 @@ Match Tables as per Data`
 | CGST Tax Percentage > match with > CGST Tax Percentage | CGST Tax Amount > match with > CGST Tax Amount | SGST Tax Percentage > match with > SGST Tax Percentage
 
 Parsing data takes about 90 seconds after uploading.
-
+_________________________________________________________________________________________
 If your company has enrolled for `Monthly` filing of `GSTR-1 and GSTR-3B`, import trxn. for the period only. For example, whilst writing this article, we are in the `Month of July` - hence for Monthly return filing, `exclude August trxn. and include filing trxn. with Invoice Dates up to 31st July 2024`. If `Quarterly filing is enabled` for your company, please consider filing `during the October period`.
+_________________________________________________________________________________________
 
 aws Instance Type Information (Hosting Web Server) - `Recommended for Magento OS Commerce`
 - `r5a.large` - `Memory Optimised` Web Server - 65 USD per month `Standard Reserved`
@@ -439,13 +531,14 @@ aws Instance Type Information (Hosting Web Server) - `Recommended for WooCommerc
 Couple two or more instances `4GB x2 = 8 or x4 = 16 GB (Standard Performance)` / `8GB x2 = 16 (High Performance)` on `Amazon EKS Cluster Bitnami Helm Chart`
 `Amazon managed Kubernetes cluster` 
 - `Launch on a new EKS cluster with QuickLaunch - Cloudformation >> Stacks` - `https://aws.amazon.com/marketplace/pp/prodview-43djy7psn24cg`
+_________________________________________________________________________________________
 
 - SMTP Extension for Magento 2 (amazonSES) via MagePlaza
 ```
 - https://www.mageplaza.com/blog/how-to-configure-amazon-ses-smtp-in-magento-2.html
 - https://github.com/mageplaza/magento-2-smtp
 ```
-
+_________________________________________________________________________________________
 Cloudflare WAF Custom Rule Expression (Copy-Paste by Editing Expression)
 ```
 (ip.geoip.asnum ne 15169 and ip.geoip.asnum ne 56201 and ip.geoip.asnum ne 8075 and ip.geoip.asnum ne 132892 and ip.geoip.asnum ne 714 and ip.geoip.asnum ne 55163 and ip.geoip.asnum ne 13414 and ip.geoip.asnum ne 2635 and ip.geoip.asnum ne 33 and ip.geoip.asnum ne 71 and ip.geoip.asnum ne 99 and ip.geoip.asnum ne 108 and ip.geoip.asnum ne 109 and ip.geoip.asnum ne 125 and ip.geoip.asnum ne 151 and ip.geoip.asnum ne 158 and ip.geoip.asnum ne 163 and ip.geoip.asnum ne 196 and ip.geoip.asnum ne 516 and ip.geoip.asnum ne 521 and ip.geoip.asnum ne 543 and ip.geoip.asnum ne 547 and ip.geoip.asnum ne 577 and ip.geoip.asnum ne 601 and ip.geoip.asnum ne 602 and ip.geoip.asnum ne 603 and ip.geoip.asnum ne 609 and ip.geoip.asnum ne 676 and ip.geoip.asnum ne 701 and ip.geoip.asnum ne 702 and ip.geoip.asnum ne 703 and ip.geoip.asnum ne 704 and ip.geoip.asnum ne 705 and ip.geoip.asnum ne 706 and ip.geoip.asnum ne 714 and ip.geoip.asnum ne 792 and ip.geoip.asnum ne 793 and ip.geoip.asnum ne 794 and ip.geoip.asnum ne 795 and ip.geoip.asnum ne 796 and ip.geoip.asnum ne 797 and ip.geoip.asnum ne 800 and ip.geoip.asnum ne 812 and ip.geoip.asnum ne 824 and ip.geoip.asnum ne 851 and ip.geoip.asnum ne 1102 and ip.geoip.asnum ne 1103 and ip.geoip.asnum ne 1105 and ip.geoip.asnum ne 1106 and ip.geoip.asnum ne 1107 and ip.geoip.asnum ne 1108 and ip.geoip.asnum ne 1120 and ip.geoip.asnum ne 1129 and ip.geoip.asnum ne 1130 and ip.geoip.asnum ne 1131 and ip.geoip.asnum ne 1200 and ip.geoip.asnum ne 1294 and ip.geoip.asnum ne 1295 and ip.geoip.asnum ne 1313 and ip.geoip.asnum ne 1342 and ip.geoip.asnum ne 1343 and ip.geoip.asnum ne 1348 and ip.geoip.asnum ne 1360 and ip.geoip.asnum ne 1406 and ip.geoip.asnum ne 1424 and ip.geoip.asnum ne 1698 and ip.geoip.asnum ne 1705 and ip.geoip.asnum ne 1730 and ip.geoip.asnum ne 1760 and ip.geoip.asnum ne 1775 and ip.geoip.asnum ne 1781 and ip.geoip.asnum ne 1787 and ip.geoip.asnum ne 1790 and ip.geoip.asnum ne 1849 and ip.geoip.asnum ne 1873 and ip.geoip.asnum ne 1874 and ip.geoip.asnum ne 1889 and ip.geoip.asnum ne 1890 and ip.geoip.asnum ne 1931 and ip.geoip.asnum ne 1997 and ip.geoip.asnum ne 2002 and ip.geoip.asnum ne 2003 and ip.geoip.asnum ne 2051 and ip.geoip.asnum ne 2129 and ip.geoip.asnum ne 2130 and ip.geoip.asnum ne 2140 and ip.geoip.asnum ne 2154 and ip.geoip.asnum ne 2155 and ip.geoip.asnum ne 2156 and ip.geoip.asnum ne 2157 and ip.geoip.asnum ne 2158 and ip.geoip.asnum ne 2159 and ip.geoip.asnum ne 2160 and ip.geoip.asnum ne 2161 and ip.geoip.asnum ne 2162 and ip.geoip.asnum ne 2163 and ip.geoip.asnum ne 2164 and ip.geoip.asnum ne 2165 and ip.geoip.asnum ne 2166 and ip.geoip.asnum ne 2168 and ip.geoip.asnum ne 2169 and ip.geoip.asnum ne 2170 and ip.geoip.asnum ne 2171 and ip.geoip.asnum ne 2173 and ip.geoip.asnum ne 2532 and ip.geoip.asnum ne 2539 and ip.geoip.asnum ne 2554 and ip.geoip.asnum ne 2559 and ip.geoip.asnum ne 139509)
@@ -466,7 +559,7 @@ Cloudflare WAF Custom Rule Expression (Copy-Paste by Editing Expression)
 ```
 (ip.geoip.asnum ne 21532 and ip.geoip.asnum ne 21760 and ip.geoip.asnum ne 21938 and ip.geoip.asnum ne 21982 and ip.geoip.asnum ne 21987 and ip.geoip.asnum ne 22081 and ip.geoip.asnum ne 22086 and ip.geoip.asnum ne 22106 and ip.geoip.asnum ne 22135 and ip.geoip.asnum ne 22176 and ip.geoip.asnum ne 22183 and ip.geoip.asnum ne 22216 and ip.geoip.asnum ne 22220 and ip.geoip.asnum ne 22390 and ip.geoip.asnum ne 22510 and ip.geoip.asnum ne 22538 and ip.geoip.asnum ne 22560 and ip.geoip.asnum ne 22570 and ip.geoip.asnum ne 22577 and ip.geoip.asnum ne 22720 and ip.geoip.asnum ne 22859 and ip.geoip.asnum ne 22883 and ip.geoip.asnum ne 22983 and ip.geoip.asnum ne 23047 and ip.geoip.asnum ne 23098 and ip.geoip.asnum ne 23152 and ip.geoip.asnum ne 23217 and ip.geoip.asnum ne 23227 and ip.geoip.asnum ne 23454 and ip.geoip.asnum ne 23455 and ip.geoip.asnum ne 23616 and ip.geoip.asnum ne 23644 and ip.geoip.asnum ne 23658 and ip.geoip.asnum ne 23663 and ip.geoip.asnum ne 23664 and ip.geoip.asnum ne 23765 and ip.geoip.asnum ne 23766 and ip.geoip.asnum ne 23782 and ip.geoip.asnum ne 23816 and ip.geoip.asnum ne 23915 and ip.geoip.asnum ne 24029 and ip.geoip.asnum ne 24280 and ip.geoip.asnum ne 24296 and ip.geoip.asnum ne 24568 and ip.geoip.asnum ne 24572 and ip.geoip.asnum ne 25605 and ip.geoip.asnum ne 25685 and ip.geoip.asnum ne 25829 and ip.geoip.asnum ne 25859 and ip.geoip.asnum ne 25869 and ip.geoip.asnum ne 25876 and ip.geoip.asnum ne 25883 and ip.geoip.asnum ne 25931 and ip.geoip.asnum ne 25949 and ip.geoip.asnum ne 25996 and ip.geoip.asnum ne 26085 and ip.geoip.asnum ne 26086 and ip.geoip.asnum ne 26101 and ip.geoip.asnum ne 26134 and ip.geoip.asnum ne 26144 and ip.geoip.asnum ne 26234 and ip.geoip.asnum ne 26496 and ip.geoip.asnum ne 26583 and ip.geoip.asnum ne 26607 and ip.geoip.asnum ne 26662 and ip.geoip.asnum ne 26672 and ip.geoip.asnum ne 26762 and ip.geoip.asnum ne 26936 and ip.geoip.asnum ne 27299 and ip.geoip.asnum ne 27357 and ip.geoip.asnum ne 27376 and ip.geoip.asnum ne 27476 and ip.geoip.asnum ne 27564 and ip.geoip.asnum ne 27625 and ip.geoip.asnum ne 28723 and ip.geoip.asnum ne 30060 and ip.geoip.asnum ne 30261 and ip.geoip.asnum ne 30281 and ip.geoip.asnum ne 30284 and ip.geoip.asnum ne 30285 and ip.geoip.asnum ne 30320 and ip.geoip.asnum ne 30342 and ip.geoip.asnum ne 30560 and ip.geoip.asnum ne 30561 and ip.geoip.asnum ne 30648 and ip.geoip.asnum ne 31924 and ip.geoip.asnum ne 32067 and ip.geoip.asnum ne 32116 and ip.geoip.asnum ne 32186 and ip.geoip.asnum ne 32287 and ip.geoip.asnum ne 32389 and ip.geoip.asnum ne 32496 and ip.geoip.asnum ne 32567 and ip.geoip.asnum ne 32734 and ip.geoip.asnum ne 32741 and ip.geoip.asnum ne 32948 and ip.geoip.asnum ne 32975 and ip.geoip.asnum ne 32982 and ip.geoip.asnum ne 33739 and ip.geoip.asnum ne 34697 and ip.geoip.asnum ne 32934)
 ```
-
+_________________________________________________________________________________________
 Packing Materials - GST Invoice
 ```
 https://www.upack.in
@@ -477,35 +570,35 @@ https://www.upack.in
 - 5 Ply Corrugated Cardboard Box - Double Wall - `16 x 16 x 16 Inch`
 - Shredded Tissue Paper (`Emerald Green`) - 350 gms
 - Shredded Tissue Paper (`Flamingo Pink`) - 350 gms
-
+_________________________________________________________________________________________
 eWay Bill Preparation -
 `https://ewaybill.nic.in` with TSS^ for Returns to Supplier (Outward Supplies)
-
+_________________________________________________________________________________________
 Accounting Template -
 `GST Monthly or Quarterly Filing based on Legal Entity Name instead of Trade Name` + `Debit Notes based on CN Numbers Issued` via `https://gst.gov.in` for .json Utility Upload - Company Secretary - CS Parth Sharma & associates (Justdial)
-
+_________________________________________________________________________________________
 TDS via .csi File (Download via Income Tax Portal) + .RPU (LTS) + .FVU (LTS) on TLS ver.1.3 Java Settings Panel
 `https://www.incometax.gov.in`
-
+_________________________________________________________________________________________
 Download and Sign `Form16A` via DSC Class-3 eMudhraCA (Authentication eSigner `VSign`) for Supplier engagement https://vsign.in
-
+_________________________________________________________________________________________
 Mail Client for Secure OSAMLx
 `Thunderbird Mail Client` with .asc and PGP via Actalis S/MIME Outlook `ZohoMail` Premium Plan
-
+_________________________________________________________________________________________
 You can issue and upload `S/MIME Certificate from Actalis` via `ZohoMail Premium Plan (Valid for 1 Year) on your Custom Domain` for validity and authenticity across your email communication recipient/s,
-
+_________________________________________________________________________________________
 `ZohoMail Premium Plan (Paid - Valid for 1 Year)` - https://www.zoho.com/mail/zohomail-pricing.html
 `Actalis S/MIME Certificate` - https://shop.actalis.com/store/it-en/s-mime-certificates or https://www.actalis.com/s-mime-certificates.aspx 
 Learn More about `Actalis` - Follow the Link here - https://www.actalis.it/documenti-it/caact-free-s-mime-certificates-policy.aspx
-
+_________________________________________________________________________________________
 Certs are issued in `.p12` and `.pfx` - Fully supported across ZohoMail Custom Email Address (Upload either one) and a `valid password` whilst uploading to Zoho Mail for Server Side Rendering (One-time Setup till Cert Validity) - You can `push mails via Web Mail, Desktop Client, or Mobile Client once configured on the server`. Provide `Zoho User ID` 6xxx241xxx7 to `Zoho Customer Support for Live Support` in case you run into unexpected errors. You can add funds to `Zoho Subscription Balance as a Payment Method` for `Automatic Renewals and Issue of GST Invoice for your Monthly/Quarterly GSTR 1/3B and 9 Filing`. Zoho Invoices are fully compliant and allow Audit Trail. You can also `enable your Zoho Books Account for Seamless Accounting` across `SELF` or `Zoho Books Partner in your region` `(India, Australia, United Arab Emirates, Bahrain, Oman, Qatar, Saudi Arabia, Kuwait, Canada, Germany, Kenya, Mexico, South Africa, United Kingdom, United States)`
-
+_________________________________________________________________________________________
 If you wish to `use S/MIME Certificate across Paid Business Google Workspace/Gmail` - [Refer to Article](https://support.google.com/a/answer/6374496?hl=en)
-
+_________________________________________________________________________________________
 If you wish to `use S/MIME Certificate across Microsoft Outlook (with Paid Microsoft 365 Plan)` - [Refer to Article](https://www.microsoft.com/en-us/microsoft-365/outlook/outlook-email-plan?ocid=cmmhk3ktunq) - `Setup S/MIME via Exchange Online - Active Directory` - [Refer to Article](https://learn.microsoft.com/en-us/exchange/security-and-compliance/smime-exo/configure-smime-exo) and [Refer to Article](https://support.microsoft.com/en-us/office/encrypt-email-messages-373339cb-bf1a-4509-b296-802a39d801dc) - `(Adding Custom Domain via Microsoft 365 Plan is required prior to enable sending communication across Active Directory configured Mail Client of Choice. Also, DNS Records need to point across Exchange Online)`
-
+_________________________________________________________________________________________
 If you wish to `use S/MIME Certificate across Amazon WorkMail (Paid - Valid for 1 Year)` - [Refer to Article](https://docs.aws.amazon.com/workmail/latest/userguide/send_encrypted_email.html) `(Adding Custom Domain via Route53 is required prior to Enabling sending communication across Amazon Workmail. Also, DNS Records need to point across Amazon Workmail Servers. Billing for Amazon Workmail is calculated for your respective Billing Cycle across GST Invoice with Charges for Route 53 Zones Enabled and other AWS services such as EC2, ECS, EKS, SES, or SNS (if enabled)).`
-
+_________________________________________________________________________________________
 `Several IoT Devices that link to - Merchant Services and Payments Acceptance mode (Post-Quantum Cryptography)`
 `You can request a fully qualified Extended Domain Validation (EV) trust certificate (via primitive Unique Identifier`
 `to approve Chain of Trust via legacy X.509 certificates on Device Lifecycle Manager) as per issuer policy mandates set in place.`
@@ -513,11 +606,11 @@ If you wish to `use S/MIME Certificate across Amazon WorkMail (Paid - Valid for 
 `OCSP Stable Origin / CRL Status / HTTP enforced - DNSSEC / RSA) and other On-premise Server Certificates (Exchange Server - Microsoft IIS, and Apache Tomcat)`
 `Basic understanding of Certificate Signing Request (Decoding Cipher - PFX, DER, or PEM - CAA OpenTLS) is required.`
 `You can apply for Norton SiteLock (.. coupled with EV SSL*) or TrustedSite Pro (McAfee) - Automatic Sitemap Submission to large user base and industry experts (Non-OEM)`
-
+_________________________________________________________________________________________
 You can `claim 18% GST Input Tax Credit for your Annual Purchase across ZohoMail Premium Subscription (Direct with ZohoCorp with Live Support across ZohoAssist and Phone Support)`, `amazon WorkMail (Billing via Valid AWS Account with Registered GSTIN across Amazon Web Services Private Limited)` and `Google Workspace (Business) editions via Reseller (India)` preferablly `(Xenia Systems Private Limited - 07AAACX1336P1Z1)`
-
+_________________________________________________________________________________________
 Steps to Follow - 
-
+_________________________________________________________________________________________
  - Navigate to `https://extrassl.actalis.it/portal/uapub/freemail?lang=en` - Verify your Email
  - Click on `Customer Area` - (Link) sent via Email
  - `Switch Language from Italian to English` from Top Right Corner
@@ -528,30 +621,30 @@ Steps to Follow -
  - Download Certs issued in `.p12 and .pfx (.zip file)` - Free S/MIME Certificate (SubCA G3) - 1 year and Logout
  - `Login to Zoho Mail > Admin Dashboard > Admin Console > Security and Compliance > Security > S/MIME` > Enable the Radio Button > Uncheck Allow Users to Upload their own certificates
  - `Login to Zoho Mail > Admin Dashboard > Admin Console > Users > Select User > Click on Security Tab > S/MIME > Add > Select Email Address from Dropdown > Upload .pfx or .p12 and Enter Password > On Success > Enable Status Button to Activate on all modes (Web Mail, Desktop Client, or Mobile Client)`
-
+_________________________________________________________________________________________
 Sample URL - `https://mailadmin.zoho.in/xxxxxx/home.do#users/6xxx241xxx7/security/smime`
-
+_________________________________________________________________________________________
 Once completed, you can enable sending mail via Desktop Client of choice - `ZohoMail`, `Mozilla Thunderbird Open Source` or `Outlook` on PC Windows 64-bit / macOS LTS
-
+_________________________________________________________________________________________
 You can also push an email to CCAvenue `compliance@ccavenue.com` for enabling `PCI DSS Compliance (Redirect or Whitelist) for Accepting Payments across Terminal IPG Service with IVR Collect + VAS (Tap to Pay and UPI Collect)`
 Attach Filled Word Document - `Self-Assessment Questionnaire D for Merchants and Attestation of Compliance For use with PCI DSS Version 4.0`
-
+_________________________________________________________________________________________
 `PCI-DSS-v4-0-SAQ-D-Merchant-r1.docx` for sending an email to your respective `CCAvenue Account Manager`
-
+_________________________________________________________________________________________
 Download latest applicable ver. via `PCI Security Standards Council Website (Document Library)` - `https://www.pcisecuritystandards.org/document_library`
-
+_________________________________________________________________________________________
 You will be required to file `AOC + SAQ (PCI Level 1 - High)` as your business grows. As a starting point, you will be required to enable `SAQ for PCI Level 4 (Low)`.
 `AOC` stands for `Attestation of Compliance` and `SAQ` - `Self-Assessment Questionnaire`
-
+_________________________________________________________________________________________
 Refer to Stripe's Documentation to simplify your understanding of PCI Compliance and Why is it Necessary for Merchants - [Refer to Article](https://stripe.com/en-sg/guides/pci-compliance)
-
+_________________________________________________________________________________________
 To assist with PCI Compliance there is Amazon Web Services - `AWS Security Assurance Services` - highly recommended for seamless payment processing and staying compliant - `CISOs at AWS Security Assurance Services`
  - [Submit an Inquiry to AWS Security Assurance Services](https://aws.amazon.com/professional-services/security-assurance-services)
-
+_________________________________________________________________________________________
 Add a `Timestamp Server` for Adobe Acrobat Reader or Adobe Acrobat Pro - Note - This solution is to confirm the authenticity of timestamped documents viewed in Adobe Acrobat Reader or Adobe Acrobat Pro - signed across a Qualified Certificate Authority (QCA) via AATL or EU specific region.
-
+_________________________________________________________________________________________
 `Acrobat Reader > Preferences > Signatures > Document Timestamping > More > Time Stamp Servers > New > Add Name and URL from the List Below` -
-
+_________________________________________________________________________________________
 ```
 entrust - http://timestamp.entrust.net/TSS/RFC3161sha2TS
 DigiCert - http://timestamp.digicert.com
@@ -572,14 +665,14 @@ CesNet 03 - http://tsa.cesnet.cz:5816/tsa
 CesNet 04 - https://tsa.cesnet.cz:5817/tsa
 Aloaha - http://card.aloaha.com:8081/tsa.aspx
 ```
-
+_________________________________________________________________________________________
 You can `Sign a Document via Adobe Acrobat Reader Pro DC` - `Open > All Tools > Use a Certificate > Digitally Sign > Configure New Digital ID by Saving to Windows Certificate Store` 
 `Tools` Menu in Adobe Acrobat Reader or Adobe Reader Pro DC has `Digitally Sign` Tab which is different from `Fill and Sign` or `Request e-Signatures`.
-
+_________________________________________________________________________________________
 Alternatively, you can `Timestamp` which will `create a Read-only Copy with File Name`.
-
+_________________________________________________________________________________________
 If you would like to `Sign a Legal Document` via `ZohoSign` - https://www.zoho.com/sign/sign-documents-with-aadhaar-esign.html
-
+_________________________________________________________________________________________
 `UIDAI Aadhaar eSign (2 Zoho Credits)` or `eMudhra eSign  (100 Zoho Credits/year)`
 
 ```
@@ -590,7 +683,7 @@ eIDAS-compliant qualified electronic signatures for the European Union
 ZertES-compliant electronic signatures for Switzerland
 Japan Data Communications Association (JADAC)
 ```
-
+_________________________________________________________________________________________
 To ensure maximum security on your smartphones, you'd want to `configure strict HTTP Layer 7 rules across ZeroTrust` and `enforce protective measures for a healthy outlook in the payment acceptance and processing space`. Create an account on `Cloudflare and navigate to Zero Trust via Menu on the left. You'll want to configure extensive options available for maximum security along with enablement of TwoFactor Authentication (2FA).`
 
 If you're using `ZohoMail` as your default mailclient, it's advised to `upgrade to Premium and register OpenPGP signature and .asc file to send encrypted mails`. `Mozilla Thunderbird (Donate to Opensource) is preferred Desktop PC client to access emails via IMAP/POP3`. You can request uptodate public keys and add them to Thunderbird Mail Client to send encrypted mails to Security Experts at CCAvenue / Merchant Services / Attestation / DSC Services. You'd ideally want to disable integrations to external Zoho services (except Zoho Workdrive) for quick responses across Zoho Co-location Datacenter.
@@ -606,7 +699,7 @@ Your primary KYC will be sent to `eMudhra Government CA upon DSC Issuance (Class
 You might be required to `switch to a Diskette for installing specific security drivers made available to you via your Payment Partner/s`. Most workstations via `#Lenovo` such as `Lenovo Thinkstation` offer `reverse engineered OS / COBOL` to run similar drivers. Your local systems can host a simulated OS such as CIS-2003 Office that require redundancy (further below).
 
 It is advised to host a `Paid account on CIBIL Transunion, Experian or CRIFHighmark for monitoring your financial activity such as Credit Inquiries, Loan Accounts, Implied Checks from Banks for Large Credit Transfers`. However, your `PAN issued via CPC IT and TRACES will be sufficient for most accuracy if you have invested in NSE/BSE Listed Equities for STCG or LTCG via your Depository Participant`. `PaytmMoney with CDSL is a performant combination if you require low charges on your Dematerialization of Share Certificates (ASBA enabled Demat Account). However, you'd absolutely require 2FA enabled on Login.`
-
+_________________________________________________________________________________________
 To avoid calls from Hidden Numbers, several measures can be enforced on your device -
 
 ```
@@ -617,7 +710,7 @@ Disable network access to apps for bandwidth condition via Zero Trust and monito
 
 Prior to scanning UPI QR Codes for sending out payments, you should ideally use balance/history for Pay Again to same merchant as most merchants support plug and play for enterprise payment acceptance. This is a great feature when specific datacenters or colocation centers (across several zones) face downtime or maintenance.
 ```
-
+_________________________________________________________________________________________
 ZeroTrust and DNS Services offered by Cloudflare on Chrome Browser (Mobile and Desktop) allow unprecedented security based on the data colocation of your residency. You should configure your Android Device, Mobile Browser and Desktop Browser to clear browsing history, delete cookies via site settings, force logout of all apps and disable smart tech if altered results over secure channel.
 
 Most of these settings will allow users to `avoid installation of custom roms or enablement of developer settings for unexpected results.`
@@ -630,11 +723,12 @@ To conclude, many concurrent payments are usually affected with large data and h
 
 Quick Tip - Select CERT-IN for Authenticated Pulls across Organization - Apply Tally OCSP to cert.in
 You can also use TAFCOP service to check the mobile numbers registered to you.
-
+_________________________________________________________________________________________
 You should moat definitely add filtered keywords to your social media and other websites that support this feature. `Meta Services Framework` currently supports this.
 
+_________________________________________________________________________________________
 Depending on your Local Machine Operating System (OS) - Microsoft Windows 10 / 11 - Pro Edition 64-bit, you will need to configure 1-click `Local Group Policies (LGPO)` available via `DoD Cyber Exchange Public` - https://public.cyber.mil/stigs/scap - `Security Technical Implementation Guides (STIGs)` or `Security Content Automation Protocol (SCAP)` sponsored by `Defense Information Systems Agency (DISA)` - You can use STIG/SCAP for quickly configuring your local machine to highest security standards according to CATI, CATII, and/or CATIII to protect your data from breaches and security leaks. Note - STIG/SCAP are primarily technical guidelines provided as Best Practices Standard via DISA - You will need to enforce any/all via steps outlined below. The following process will ensure approx. 64.8% security automation score on Windows 11 Home Edition and 48% Microsoft security automation score - Tested on March 29th 2024 IST (asia/kolkata +5:30 time.nist.gov).
-
+_________________________________________________________________________________________
 Create new folder `"DISA"` as C:\
 Create new folders `"Important", "Reports", and "Checklists"` as C:\DISA
 Download the following .zip files - https://public.cyber.mil/stigs/scap - Sort by Date (latest) and Show (50 entries) - Choose the latest security automation guidelines.
@@ -665,7 +759,7 @@ Download the following .zip file from - https://public.cyber.mil/stigs/gpo
 Download only `LGPO.zip (~519.2 KB)` from https://www.microsoft.com/en-us/download/details.aspx?id=55319 - Security Compliance Toolkit and Baselines - This set of tools allows enterprise security administrators to download, analyze, test, edit and store Microsoft-recommended security configuration baselines for Windows and other Microsoft products, while comparing them against other security configurations.
 
 If you are using WinRAR 64-bit, you can extract each archive to separate folder or extract each folder - one - by - one and move the .zip to Important for safe vault.
-
+_________________________________________________________________________________________
 Follow these steps to proceed -
 
 Navigate to `scc-5.8_Windows_bundle` > Extract `scc-5.8_Windows.zip` and open the folder > `C:\DISA\scc-5.8_Windows_bundle\scc-5.8_Windows\scc-5.8_Windows\scc_5.8.exe`
@@ -688,7 +782,7 @@ U_MS_Defender_Antivirus_V2R5_STIG_SCAP_1-2_Benchmark.xml
 U_MS_Edge_V1R3_STIG_SCAP_1-2_Benchmark.xml
 U_MS_IE11_V2R6_STIG_SCAP_1-2_Benchmark.xmlfile
 ```
-
+_________________________________________________________________________________________
 Click on Gear Icon and Select Create Checklist from STIG and Save Checklist inside `C:\DISA\Checklists`
 Open Terminal or Command Prompt as Administrator and run the following commands one by one for `Windows 11 Benchmarks` present for automation inside `C:\DISA\LGPO\LGPO_30` folder
 
@@ -801,13 +895,13 @@ For `Mozilla Firefox`
 .\LGPO.exe /g "C:\DISA\U_STIG_GPO_Package_January_2024\DoD Mozilla Firefox v6r5\GPOs\{F1176AFA-BA81-47FB-A41E-5CDE92DA0EF4}"
 ```
 You can now run a query to Scan on SCAP Compliance Checker (minimized window) to generate security benchmark scores in native .HTML Format for Digital Sign-off to SOC Auditor. `View Results under Results Menu.`
-
+_________________________________________________________________________________________
 Make sure to enable `Zerotrust Gateway *(Cloudflare) > Preferences > Account > Login with Org. created inside Cf. Dashboard Zero Trust Settings.`
 
 You can enable DNS to `1.1.1.1 (Cloudflare DNS)` inside `Google Chrome Browser Settings` and further level up your browsing experience by `disable preload and continue in background.`
 
 `Enable TLS 1.3 by searching for Internet Options > Advanced > uncheck TLS 1.1 and 1.2`
-
+_________________________________________________________________________________________
 You can partition your local SSD nVME m.2 into 3 spheres by accessing Storage options on Windows Partition Manager. This will help in keeping your CMS data redundant alongwith Product Images/Videos/AR(beta) clipped from Background with SEO-ready filenames (Altags) and installation folders for Packagist.org and Github Repositories or Windows Installation Folders attributed by your Administrator - `Localdisk C (Operating System + mbr)`, `Localdisk D (Bitlocker Information and Redundancy on Phantom Drive created using ESET nord32)`, and `Localdisk Z (Media and Payment Information)`. Noteworthy recommendation for local storage and memory - Crucial (Micron) storage and unlocked memory DDR5 or higher.
 
 For 1-click cloud deploys you can use `Bitnami Hardened Images (CMS pre-bundeled Ubuntu OS)` or configure manually using `CIS Benchmarks` and proceed with manual installation of `CMS image on Bare Metal Servers (awsCloud, Azure, or GCP)`. 
@@ -822,7 +916,7 @@ Additional Notes - For non-compliant businesses proofing invalid invoices or dec
 | 40557024169041165/DL15028274652425/IN65-TRANS1 | Optional 21.785% |  H2334349595303 | 0.00
 
 To learn CMUD project - `https://dbdb.io/db/aurora`
-
+_________________________________________________________________________________________
 To host `aws Aurora Relational Database Service (RDS)` or a multi-tenant ver. bitnami Magento Commerce OS - You can select `Multi-tier` and costs^performance ratio will vary accordingly.
 
 Hardening your Microsoft Windows Desktop PC / Laptop running Windows 10 Pro / 11 `Pro` / Server 2022 / 2019 requires you to have several security configurations remediated prior to setting out in the payment space. This includes `installing and automating the process using buildkits that scan and remediate the system (local or server) according to security standards as uniananmously agreed upon`. Process of Hardening your system requires your Company IT Administrator or Workgroup Admin to select your desired workable OSx - `https://www.cisecurity.org/cis-benchmarks` (..with search filters for compatibility with CIS-CAT Pro) or `https://www.cisecurity.org/benchmark` (list)- adept a `paid end-user license` - `CIS Membership Suite (1-year, 2-year recommended or 3-year ^cost-savings)` - `https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro` and follow the below steps outlined -
@@ -833,7 +927,7 @@ Hardening your Microsoft Windows Desktop PC / Laptop running Windows 10 Pro / 11
 - Note - (View CIS-CAT Pro Supported ver. - select your desired workable OSx - `https://www.cisecurity.org/cis-benchmarks` (..with search filters for compatibility with CIS-CAT Pro)
 - `Copy the license.xml file` to `license folder` after extracting .zip
 - Run the `Assessor-GUI.exe`
-
+_________________________________________________________________________________________
 If license.xml file is placed correctly in the license folder, the program will automatically deploy as `CIS CAT Pro - Assessor Toolkit`. You will `NOT` be able to remediate hardening steps with `1-click remediation` using Buildkits (that allow the automation on system) if you're planning to use CIS CAT Assessor Toolkit (as Free ver.)
 
 You can complete this process on all employee/organisation workstations including Network `Routers` and local systems running `Microsoft Office` products and enable security enhanced ver. of your software. CIS Suite offers remediation for `Linux` / `Windows` and `MacOSx` + Cisco Routers IEEE 802.3ab and IEEE 802.3z that are generally configured.
@@ -841,17 +935,17 @@ You can complete this process on all employee/organisation workstations includin
 These steps `differ from DISA STIGs and SCAPs outlined above as you're simply configuring Local Group Policies on Pro ver. of your Operating Systems - fresh out of the box`. Enabling and remediating your systems using CIS CAT Assessor Toolkit Pro will result in hardening your systems - `Making changes to your OS functions and programs to Security Standards`. I have personally used the Toolkit on my systems and experienced `a security enhanced experience, saving me hours of deployment and compliance/audit checks for OCC compliance (or SOC - India)`.
 
 Your `CIS Account Manager will connect with you`, on registration, for screening, ~if required.
-
+_________________________________________________________________________________________
 I personally use CIS CAT Assessor Toolkit Pro 64-bit by verifying the checksum values MD5 / SHA on the CIS Workbench (Administrator Dashboard) to not request and install a false positive.
 
 It is `NOT` legal to create, distribute or sell AMI or Machine Image in any form post altering the system using CIS CAT Assessor Toolkit Pro as you'd directly violate End-user License (`Microsoft OS or its affiliates` and `Center for Internet Security`). You could `opt-in to CIS Hardened Images for your choice of Cloud OS via Azure or AWS Marketplace` instead for `continued support and staying resilient` against erroneous deploys. `Advisories - https://www.cisecurity.org/advisory` - You can subscribe to `CIS Hardened` `AMI` or `Containers` hosted on `AWS Cloud` by clicking on the link here - https://go.aws/3TZkolO
 
 `Some IT Administrators prefer to enable Network on Boot to deploy stable OS which is purchasing a (Pro ver.) licensed copy of your OS, and boot image through Network, however, this is quite complicated as you'd need to alter .win file from the OS Image and several other steps. Ideally, not recommended for incremental ver. upgrades for examole. Windows 7 / 10 2019 to 2022. Resilience to your local/cloud systems is a vector landscape that you define. Works for some though.`
-
+_________________________________________________________________________________________
 Deployments across Multiple Cloud Infrastracture and Cancellations will result in ingress `Subscription Fees`. Make sure to `add/modify/cancel a valid Payment Method across CIS Administrator Dashboard`, AWS Marketplace (aws Console) or Azure Marketplace. If you are planning on securing an `Apple OSx device (On-prem / for Cloud)` - You can `seek support from your CIS Account Manager` regarding `LTS and Apple Developer Support`.
-
+_________________________________________________________________________________________
 The following settings apply to mostly any smartphone or cellular device connecting to a mobile network in India.
-
+_________________________________________________________________________________________
 - `Settings` - `Connections` - `Mobile Networks` - `Network Operators` - Disable Select Automatically and Search for Your Sim Provider - `Choose Reliance Jio`
 
 - Set `Network Mode` (Manual - Disable Select Automatically)
@@ -860,7 +954,7 @@ The following settings apply to mostly any smartphone or cellular device connect
 - If `Airtel` - `LTE/3G/2G` (Select Automatically) or LTE if available
 
 - You can `create a new APN Profile` by navigating to `Settings` - `Connections` - `Mobile Networks` - `Access Point Names (APN)` - Make sure to select it after settings are applied on your end.
-
+_________________________________________________________________________________________
 - Access Point Names (APN Settings)
 Settings for Reliance Jio
 - `Name` - Jio 4G (You can give it a relevant name of choice)
@@ -869,9 +963,9 @@ Settings for Reliance Jio
 - `MCC` - `405`
 - `MNC` - `874`
 - `Authentication` - `CHAP`
-- `APN Type` - Enter `default,supl,xcap,net,ia,hipri,mms,wap`
+- `APN Type` - Enter `default,supl,xcap,net,ia,hipri,mms,wap,fota,cbs,mcx,emergency,dun`
 - `APN Protocol` - `IPV4`
-- `APN Roaming Protocol` - `IPV4`
+- `APN Roaming Protocol` - `IPV6`
 - `Bearer` - `LTE`
 - `Mobile Virtual Network Operator Type` - 
 (Set Any One)
@@ -881,7 +975,7 @@ Mobile Virtual Network Operator Value - `Jio`
 Mobile Virtual Network Operator Value - `405874x`
 - If `GID`
 Mobile Virtual Network Operator Value - `FFFFFFFFFFFFFFFFFFFF`
-
+_________________________________________________________________________________________
 Click on the three dot menu on the right and select `Save`.
 
 For `Video KYC`, these settings remain as stated above. `Kindly do not approve telecallers claiming to revoke the above settings. These are cellular network settings fetched for servicing data plans on your smartphone.`
@@ -1033,5 +1127,6 @@ Dispute Collection Officer Information Report
 
 `Previous Communication ref. trxn. ticket.id`
 ```
-
+_________________________________________________________________________________________
 [Subscribe to future updates to this repo by click here](https://github.com/dravasp/ccavenuepaymentgatewaymagentoseamless/commits.atom) - View .atom RSS file to import to Thunderbird
+_________________________________________________________________________________________

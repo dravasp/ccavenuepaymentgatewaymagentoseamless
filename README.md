@@ -1016,7 +1016,7 @@ Select Mode of Payment
 - `eCommerce via CCAvenue Checkout` (`Self-hosted` / `Re-direct Seamless` / `Seamless`) - Enter `URL starting with https://www. or https://`
 	Select if `CCAvenue Checkout was Enabled across your Checkout Experience` or `requisite a charge associated via (Redirect / Landing / External Checkout via Bank Channel)`
 	- `Magento OS Commerce (Bitnami on AWS / GCP / Azure Hosting) (Bitnami on Kubernetes) (Bitnami on Headless Commerce - GraphQL Framework)`
-	- `Shopware` / `Demandware` / `HCL Commerce Cloud` / `Sanity CMS Framework` - Extended Order Management
+	- `Shopware` / `Demandware` / `HCL Commerce Cloud` / `Sanity CMS Framework` / `OroCommerce` - Extended Order Management
 	- `WooCommerce` or `WooCommerce Payments` or `WordPress Checkout`
 	- `Shopify Plus Checkout` (Hosted and Headless via Nuxt.js version: GitHub Deployment)
 	- `PayPal Hosted Checkout` (`iZettle` / `Braintree` / `Payflow Pro` / `PayPal Payments via Authorise.net or Cybersource Vendor` / PayPal Checkout)

@@ -175,7 +175,7 @@ Decrypting the Response: The encrypted response body is decrypted using the decr
 Storing Decrypted Response: Optionally, the decrypted response can be stored in an environment variable named decrypted_response for further use in subsequent requests or tests.
 ```
 _________________________________________________________________________________________
-View - [Postman Workspace API](https://bit.ly/44f5Qnx)
+View - [Postman Workspace API](https://bit.ly/3To4cur)
 _________________________________________________________________________________________
 
 

@@ -441,7 +441,7 @@ Optional Method to Allow Private Repositories via Composer
   Run 
 	`composer update`
 
-Switching Network Carriers and WiFi provisioning across WAP Service` for `Terminal` Access even in Remote Locations
+Switching Network Carriers and WiFi provisioning across WAP Service for `Terminal` Access even in Remote Locations
 Subscribe to `MATRIX Communications WAP Service` for `Terminal` Access even in Remote Locations.
 	- Register your interest at https://matrix.in
 	- Complete KYC with TRAI Required
@@ -727,6 +727,7 @@ aws Instance Type Information (Hosting Web Server) - `Recommended for WooCommerc
 - `QuickAssist Technology (QAT)`
 - `(Refer to specific pricing on Vantage.sh (Regional Pricing) or Official AWS https://aws.amazon.com/ec2/instance-types/c7i/`
 - `Quick note on Vantage.sh - You can gain extended visibility into accrued network and data transfer costs associated`
+
 Note on Helm Charts by Bitnami and AWS Kubernetes.io - k8io
 - `k8io - resizing and efficient I/O network fees via Scalable Processors and Cloud Service Managers.`
 
@@ -809,21 +810,22 @@ If you wish to `use S/MIME Certificate across Microsoft Outlook (with Paid Micro
 _________________________________________________________________________________________
 If you wish to `use S/MIME Certificate across Amazon WorkMail (Paid - Valid for 1 Year)` Amazon Web Services Private Limited - [Refer to Article](https://docs.aws.amazon.com/workmail/latest/userguide/send_encrypted_email.html) `(Adding Custom Domain via Route53 is required prior to Enabling sending communication across Amazon Workmail. Also, DNS Records need to point across Amazon Workmail Servers. Billing for Amazon Workmail is calculated for your respective Billing Cycle across GST Invoice with Charges for Route 53 Zones Enabled and other AWS services such as EC2, ECS, EKS, SES, or SNS (if enabled)).`
 _________________________________________________________________________________________
-Sify Business Email with S/MIME Certificate (Paid) Sify Technologies SifyCorp
+If you wish to `use S/MIME Certificate across Sify Business Email with S/MIME Certificate (Paid) Sify Technologies SifyCorp (Paid - Valid for 2 Year)`
 _________________________________________________________________________________________
-Airtel Xstream Apps or Vodafone Business Cloud Apps (Paid)
+If you wish to `use S/MIME Certificate across Airtel Xstream Apps or Vodafone Business Cloud Apps (Paid)`
+
 _________________________________________________________________________________________
 ## Two-Step Authentication
 - Overview of two-step authentication processes and security guidelines.
 
 Post-Quantum Cryptography for IoT devices
-Extended Domain Validation (EV) trust certificate
-Chain of Trust via legacy X.509 certificates on Device Lifecycle Manager
-DigiCert CA, comodo CA, thawte CA, Actalis, Cloudflare Inc. (incl. Business Plan - Advanced Certificate Manager
-OCSP Stable Origin / CRL Status / HTTP enforced - DNSSEC / RSA)
-On-premise Server Certificates (Exchange Server - Microsoft IIS, and Apache Tomcat)
-Basic understanding of Certificate Signing Request
-Decoding Cipher - PFX, DER, or PEM - CAA OpenTLS
+- Extended Domain Validation (EV) trust certificate
+- Chain of Trust via legacy X.509 certificates on Device Lifecycle Manager
+- DigiCert CA, comodo CA, thawte CA, Actalis, Cloudflare Inc. (incl. Business Plan - Advanced Certificate Manager
+- OCSP Stable Origin / CRL Status / HTTP enforced - DNSSEC / RSA)
+- On-premise Server Certificates (Exchange Server - Microsoft IIS, and Apache Tomcat)
+- Basic understanding of Certificate Signing Request
+- Decoding Cipher - PFX, DER, or PEM - CAA OpenTLS
 
 `Several IoT Devices that link to - Merchant Services and Payments Acceptance mode (Post-Quantum Cryptography)`
 `You can request a fully qualified Extended Domain Validation (EV) trust certificate (via primitive Unique Identifier`
@@ -831,6 +833,7 @@ Decoding Cipher - PFX, DER, or PEM - CAA OpenTLS
 `Providers include - DigiCert CA, comodo CA, thawte CA, Actalis, Cloudflare Inc. (incl. Business Plan - Advanced Certificate Manager`
 `OCSP Stable Origin / CRL Status / HTTP enforced - DNSSEC / RSA) and other On-premise Server Certificates (Exchange Server - Microsoft IIS, and Apache Tomcat)`
 `Basic understanding of Certificate Signing Request (Decoding Cipher - PFX, DER, or PEM - CAA OpenTLS) is required.`
+
 Norton SiteLock (.. coupled with EV SSL*) or TrustedSite Pro (McAfee) - Automatic Sitemap Submission
 `You can apply for Norton SiteLock (.. coupled with EV SSL*) or TrustedSite Pro (McAfee) - Automatic Sitemap Submission to large user base and industry experts (Non-OEM)`
 _________________________________________________________________________________________
@@ -930,15 +933,15 @@ PGP Secure eMail to CCAvenue / Merchant Services / Attestation / DSC Services
 If you're using `ZohoMail` as your default mailclient, it's advised to `upgrade to Premium and register OpenPGP signature and .asc file to send encrypted mails`. `Mozilla Thunderbird (Donate to Opensource) is preferred Desktop PC client to access emails via IMAP/POP3`. You can request uptodate public keys and add them to Thunderbird Mail Client to send encrypted mails to Security Experts at CCAvenue / Merchant Services / Attestation / DSC Services. Disable various ZOHO Applications included as per usage - You'd ideally want to disable integrations to external Zoho services (except Zoho Workdrive) for quick responses across Zoho Co-location Datacenter.
 
 UPI Protection Plans - Cyber Sachet Policy - Personal Accident Policy - Marine Inland Transit Insurance - Cargo Handling
-e-Insurance Account and CKYC Master Group Policy that is issued to Individual
-Essential CERSAI Information to Account Executives
-Biometric, Authorisation and Authentication - DigiLocker and meriPehachan
-Virtual ID - CDAC to complete Payment Acceptance License
-Aadhaar Seva Kendra Enrolment - Doorstep Banking
-Income Tax of India CPC-IT Login by enablement of Aadhaar Authentication
-Login to Central Processing (TRACES) from your Netbanking
-Annual Information Statement (AIS) . Tax Information Summary (TIS) - UTILS or `NSDL` to download your `Electronic (Digitally Signed) PAN Card
-ABHA ID update Co-WIN Registration on your reissue Passport (India) for eBoarding via CSIA Arrivals
+- e-Insurance Account and CKYC Master Group Policy that is issued to Individual
+- Essential CERSAI Information to Account Executives
+- Biometric, Authorisation and Authentication - DigiLocker and meriPehachan
+- Virtual ID - CDAC to complete Payment Acceptance License
+- Aadhaar Seva Kendra Enrolment - Doorstep Banking
+- Income Tax of India CPC-IT Login by enablement of Aadhaar Authentication
+- Login to Central Processing (TRACES) from your Netbanking
+- Annual Information Statement (AIS) . Tax Information Summary (TIS) - UTILS or `NSDL` to download your `Electronic (Digitally Signed) PAN Card
+- ABHA ID update Co-WIN Registration on your reissue Passport (India) for eBoarding via CSIA Arrivals
 
 To get started, `purchase UPI Protection Plan offered via HDFCErgo (Cyber Sachet Policy) via Paytm Insurance Broking available via Paytm`. Link Policy to HDFCErgo CKYC (Individual) Web Interface. Your annual coverage includes UPI Protection upto INR 10,000/- It is essential to fill the `CERSAI (.pdf)` and share the same with your account manager of your respective bank account. You will be required to update your address, date of birth, phone number and other KYC details instead of set defaults as it is a `Master Group Policy that is issued to Individual`. It takes less than 24 hours to link and dispatch a physical copy to your registered address.
 
@@ -947,18 +950,18 @@ You can `Lock Biometrics via mAadhaar (Biometric and Authentication Lock) if you
 You can `complete your security enforcement on Income Tax of India CPC-IT Login by enablement of Aadhaar Authentication`. You can `login to Central Processing (TRACES) from your respective Netbanking Channel` to download your `Annual Information Statement (AIS)` and `Tax Information Summary (TIS)`. You can use `UTILS` or `NSDL` to download your `Electronic (Digitally Signed) PAN Card` by paying nominal fees, however `banks will require you to verify using Original Issued PAN Card via Income Tax Department of India`. Similarly, you'll be required to `provide original UIDAI Aadhaar Letter on Passport Application along with other documents`. Currently, `hospitals request state issued ABHA ID on Admission for relatives (Non-Emergency)`. It is advised to `update Co-WIN Registration on your fresh Passport (India) for eBoarding` via CSIA Arrivals.
 
 eMudhra Government CA upon DSC Issuance (Class 3)
-V-Sign (Verasys) or Pentasign or SIFY Technologies Safescrypt
-HyperPKI 2003 for Goods and Service Tax (GST) Zonal Officer, EXIM Authority, and Legal Attestation
-COBOL Systems and Lenovo Workstations - Infrastructure - SaaS Deployment
+- V-Sign (Verasys) or Pentasign or SIFY Technologies Safescrypt
+- HyperPKI 2003 for Goods and Service Tax (GST) Zonal Officer, EXIM Authority, and Legal Attestation
+- COBOL Systems and Lenovo Workstations - Infrastructure - SaaS Deployment
 
 Your primary KYC will be sent to `eMudhra Government CA upon DSC Issuance (Class 3) issued via V-Sign (Verasys) or Pentasign or SIFY Technologies`. Only a single DSC can be issued to Individual valid for a specified tenure applied for. You can use the `DSC Java Util. to file returns to Goods and Service Tax (GST) Zonal Officer, EXIM Authority, and Legal Attestation for post processing`. You can use `HyperPKI 2003 to install your freshly issued .cert across acceptance platforms`.
 
 You might be required to `switch to a Diskette for installing specific security drivers made available to you via your Payment Partner/s`. Most workstations via `#Lenovo` such as `Lenovo Thinkstation` offer `reverse engineered OS / COBOL` to run similar drivers. Your local systems can host a simulated OS such as CIS-2003 Office that require redundancy (further below).
 
 Two-step Authentication -
-CIBIL Transunion, Experian or CRIFHighmark
-Credit Inquiries, Loan Accounts, Implied Checks from Banks for Large Credit Transfers
-Dematerialization of Share Certificates (ASBA enabled Demat Account)
+- CIBIL Transunion, Experian or CRIFHighmark
+- Credit Inquiries, Loan Accounts, Implied Checks from Banks for Large Credit Transfers
+- Dematerialization of Share Certificates (ASBA enabled Demat Account)
 
 It is advised to host a `Paid account on CIBIL Transunion, Experian or CRIFHighmark for monitoring your financial activity such as Credit Inquiries, Loan Accounts, Implied Checks from Banks for Large Credit Transfers`. However, your `PAN issued via CPC IT and TRACES will be sufficient for most accuracy if you have invested in NSE/BSE Listed Equities for STCG or LTCG via your Depository Participant`. `PaytmMoney with CDSL is a performant combination if you require low charges on your Dematerialization of Share Certificates (ASBA enabled Demat Account). However, you'd absolutely require 2FA enabled on Login.`
 _________________________________________________________________________________________
@@ -990,9 +993,9 @@ You should moat definitely add filtered keywords to your social media and other 
 
 _________________________________________________________________________________________
 SCAP Compliance Checker - CATI, CATII, and/or CATIII
-Local Group Policies (LGPO) - Security Guidelines - DoD Cyber Exchange Public, Security Technical Implementation Guides (STIGs) or Security Content Automation Protocol (SCAP) sponsored by `Defense Information Systems Agency (DISA)
-Benchmarking STIG SCAP - Google Chrome, Defender Antivirus, Edge Browser, Internet Explorer 11, Microsoft Office 2013/2016, 
-Microsoft Defender Firewall, Adobe Acrobat Reader DC Continuous, Acrobat Pro DC Continuous, Mozilla Firefox
+- Local Group Policies (LGPO) - Security Guidelines - DoD Cyber Exchange Public, Security Technical Implementation Guides (STIGs) or Security Content Automation Protocol (SCAP) sponsored by `Defense Information Systems Agency (DISA)
+- Benchmarking STIG SCAP - Google Chrome, Defender Antivirus, Edge Browser, Internet Explorer 11, Microsoft Office 2013/2016, 
+- Microsoft Defender Firewall, Adobe Acrobat Reader DC Continuous, Acrobat Pro DC Continuous, Mozilla Firefox
 
 Enable DNS to 1.1.1.1 (Cloudflare DNS) - Configure Mobile and Desktop Browser - Enable TLS 1.3
 
@@ -1210,7 +1213,7 @@ ________________________________________________________________________________
 If license.xml file is placed correctly in the license folder, the program will automatically deploy as `CIS CAT Pro - Assessor Toolkit`. You will `NOT` be able to remediate hardening steps with `1-click remediation` using Buildkits (that allow the automation on system) if you're planning to use CIS CAT Assessor Toolkit (as Free ver.)
 
 Cisco Routers IEEE 802.3ab and IEEE 802.3z
-You can complete this process on all employee/organisation workstations including Network `Routers` and local systems running `Microsoft Office` products and enable security enhanced ver. of your software. CIS Suite offers remediation for `Linux` / `Windows` and `MacOSx` + Cisco Routers IEEE 802.3ab and IEEE 802.3z that are generally configured.
+- You can complete this process on all employee/organisation workstations including Network `Routers` and local systems running `Microsoft Office` products and enable security enhanced ver. of your software. CIS Suite offers remediation for `Linux` / `Windows` and `MacOSx` + Cisco Routers IEEE 802.3ab and IEEE 802.3z that are generally configured.
 
 These steps `differ from DISA STIGs and SCAPs outlined above as you're simply configuring Local Group Policies on Pro ver. of your Operating Systems - fresh out of the box`. Enabling and remediating your systems using CIS CAT Assessor Toolkit Pro will result in hardening your systems - `Making changes to your OS functions and programs to Security Standards`. I have personally used the Toolkit on my systems and experienced `a security enhanced experience, saving me hours of deployment and compliance/audit checks for OCC compliance (or SOC - India)`.
 
@@ -1230,8 +1233,8 @@ ________________________________________________________________________________
 The following settings apply to mostly any smartphone or cellular device connecting to a mobile network in India.
 _________________________________________________________________________________________
 Mobile Networks - Network Operators - Telecom Configuration (Reliance, Vodafone, and Airtel)
-APN Profiles - Access Point Names (APN Settings)
-Errors across Software and Device Manufacturers
+- APN Profiles - Access Point Names (APN Settings)
+- Errors across Software and Device Manufacturers
 
 - `Settings` - `Connections` - `Mobile Networks` - `Network Operators` - Disable Select Automatically and Search for Your Sim Provider - `Choose Reliance Jio`
 
@@ -1420,3 +1423,4 @@ ________________________________________________________________________________
 - Subscribe to future updates for ongoing support and information.
 [Subscribe to future updates to this repo by click here](https://github.com/dravasp/ccavenuepaymentgatewaymagentoseamless/commits.atom) - View .atom RSS file to import to Thunderbird
 _________________________________________________________________________________________
+[Navigate to Top](#introduction)

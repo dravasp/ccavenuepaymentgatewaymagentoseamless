@@ -225,6 +225,72 @@ ________________________________________________________________________________
 	
   - One-page Checkout Enabled for Magento Commerce OS - Bitnami
 
+_________________________________________________________________________________________
+Setting up Webhooks for Dynamic Event Notifications in CCAvenue Internet Payment Gateway for both WordPress WooCommerce and Magento OS 2.4.8.
+
+1. CCAvenue Webhook Configuration
+
+Merchant Account: `your-merchant-id`
+
+Dynamic Event Notifications URLs:
+
+Order Status: `https://example.com/cca/order-status`
+Echo URL: `https://example.com/cca/echo`
+Order Risk Status: `https://example.com/cca/order-risk`
+Order Dispute Status: `https://example.com/cca/order-dispute`
+Order Reconciliation Status: `https://example.com/cca/order-reconciliation`
+Recurring Payments Alert: `https://example.com/cca/recurring-alert`
+
+2. WordPress WooCommerce Webhook Setup
+
+Log in to `WooCommerce Admin`.
+Navigate to: `WooCommerce > Settings > Advanced > Webhooks`
+
+Add Webhook:
+Name: `CCAvenue Order Status Update`
+Status: `Active`
+Topic: Set `Order Updated`
+Delivery URL: `https://example.com/cca/order-status`
+Secret: `your-secret-key`
+Delivery Method: `POST`
+SAVE the Webhook.
+
+3. Magento OS 2.4.8 Webhook Setup
+
+Log in to Magento Admin.
+Navigate to: Stores > Configuration > Services > Webhooks
+
+Add Webhook:
+Webhook Name: `CCAvenue Order Status Change`
+Event Type: Select `Order Status Change`
+Endpoint URL: `https://example.com/cca/order-status`
+HTTP Method: `POST`
+Save the configuration.
+
+4. Testing the Webhooks
+
+Trigger Events:
+
+Create a test order in WooCommerce.
+Change the order status to "Processing."
+
+Navigate to external site - `Webhook.site` to create a temporary URL
+`https://webhook.site/your-temp-url` (Change only /your-temp-url - `https://webhook.site/dXXa4b39-dXXX-xfee-ac6e-be00c786571`)
+
+Update the Delivery URL in WooCommerce to this temporary URL for testing.
+
+Verify Payload:
+
+Check the received data at `Webhook.site` to ensure it contains:
+`order_id` `amount` `currency` `customer_name` `customer_email` `customer_phone` `return_url` `merchant_id`
+`merchant_param1` `merchant_param2` `merchant_param3` `merchant_param4` `merchant_param5`
+
+Monitor Logs:
+`Check WooCommerce logs under WooCommerce > Status > Logs for any errors`
+
+_________________________________________________________________________________________
+
+
 CCAvenue India for Business
 _________________________________________________________________________________________
 Presenting CCAvenue Merchant App - the most advanced omni-channel payments platform, designed to track all your transactions on the go and request for payments via LinkPay & QRPay in a jiffy.

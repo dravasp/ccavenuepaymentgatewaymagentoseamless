@@ -12,6 +12,107 @@ ________________________________________________________________________________
 ![YuTube Channel](https://img.shields.io/youtube/channel/subscribers/UCv-tdY7OFWk_f1JP4_hmS5A)
 ![Github Followers](https://img.shields.io/github/followers/dravasp?style=social)
 
+# CCAvenue Payment Gateway Integration
+
+## Table of Contents
+_________________________________________________________________________________________
+| Information  | Protocol  |  Service
+| ------------- | ------------- | ------------- |
+| [Introduction](#introduction) | [Why Choose CCAvenue](#why-choose-ccavenue)  |  [Integration Guide](#integration-guide)
+| [Benefits of Strong Authentication](#benefits-of-strong-authentication) | [Market Challenges](#market-challenges)  |  [Merchant Registration](#merchant-registration)
+| [Compliance and Certification](#compliance-and-certification) | [Expert Support](#expert-support)  |  [Corporate Information](#corporate-information)
+| [Product Certifications](#product-certifications) | [Investment and Advisory](#investment-and-advisory)  |  [Server Configuration](#server-configuration)
+| [Testing and API Workflow](#testing-and-api-workflow) | [Corporate Office Locations](#corporate-office-locations)  |  [Webhooks and Notifications](#webhooks-and-notifications)
+| [Merchant App Features](#merchant-app-features) | [Payment Services](#payment-services)  |  [Patch Management](#patch-management)
+| [SMS Notifications](#sms-notifications) | [Cloud Services](#cloud-services)  |  [Invoice Management](#invoice-management)
+| [Email Security](#email-security) | [Cryptography and Compliance](#cryptography-and-compliance)  |  [Two-Step Authentication](#two-step-authentication)
+| [Telecommunications Security](#telecommunications-security) | [Charge Recognition](#charge-recognition)  |  [Future Updates](#future-updates)
+
+## Introduction
+CCAvenue is a leading payment gateway provider that offers a seamless payment experience for eCommerce platforms.
+
+## Why Choose CCAvenue
+- Preferred payment partner with a strong reputation.
+- Comprehensive support for secure payment ecosystems.
+
+## Integration Guide
+- Steps to integrate your eCommerce platform with CCAvenue for secure payments.
+
+## Benefits of Strong Authentication
+- Enhanced security through acquirer channel partners.
+
+## Market Challenges
+- Overview of challenges faced by market enablers.
+
+## Merchant Registration
+- Register with CCAvenue Merchant Desk to gain benefits from value-added service providers.
+- Complete merchant onboarding requisites by entering and saving `Merchant ID`, `Access Code`, and `Encryption Key` in Magento Admin.
+
+## Compliance and Certification
+- Stay compliant with international standards and achieve certification of trust.
+
+## Expert Support
+- Access to expert partner support for seamless integration.
+
+## Corporate Information
+- Locations with market dominance and information about Infibeam Avenues Limited's Chief Business Officers and team leaders.
+
+## Product Certifications
+- Certification of hardware product line-up including EMV L1, L2, PCI PTS, CE, FCC, and RoHS.
+
+## Investment and Advisory
+- Overview of CCAvenue's investments and advisory arm, including support council and trade agreements.
+
+## Server Configuration
+- Change server PHP settings and get started with installation via Composer.
+- Activate the payment module in Magento Admin.
+
+## Testing and API Workflow
+- Test using Postman API workflow and send encrypted payloads to CCAvenue.
+
+## Corporate Office Locations
+- Information on CCAvenue's global corporate office locations and 24x7 infrastructure support.
+
+## Webhooks and Notifications
+- Enable webhooks for dynamic event notifications in CCAvenue Internet Payment Gateway.
+
+## Merchant App Features
+- Overview of the CCAvenue Merchant App, including business QR, soundbox max, and payment links.
+
+## Payment Services
+- Benefits of merchant services compared to standard integration.
+- Steps to apply repo information across secure setups via Packagist.
+
+## Patch Management
+- Manage sensitive data archival and quality patches via official Magento provisioners.
+
+## SMS Notifications
+- Enable SMS notifications to customers via Magento OS LTS and integrate with AWS SNS.
+
+## Cloud Services
+- Register with Amazon Web Services for development credits and configure SMTP extensions for Magento.
+
+## Invoice Management
+- Apply invoice management dashboard at GST.gov.in and steps for GST filing using Google Sheets.
+
+## Email Security
+- Configure secure email clients and S/MIME certificates for secure communication.
+
+## Cryptography and Compliance
+- Implement post-quantum cryptography for IoT devices and ensure PCI compliance.
+
+## Two-Step Authentication
+- Overview of two-step authentication processes and security guidelines.
+
+## Telecommunications Security
+- Security guidelines for telecommunications and Android iOS configuration.
+
+## Charge Recognition
+- Steps to recognize a charge on your statement and immediate resolution via CCAvenue Merchant Services.
+
+## Future Updates
+- Subscribe to future updates for ongoing support and information.
+
 _________________________________________________________________________________________
 `CCAvenue` - Turns 24 - and coherently, ranks 23rd among 452 active competitors globally
 - Estimated `Annual Conglomerate Revenue recorded at ₹3,200Cr --on Mar 31, 2024`

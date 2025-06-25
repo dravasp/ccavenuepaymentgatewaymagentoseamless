@@ -367,6 +367,12 @@ Check the received data at `Webhook.site` to ensure it contains:
 `order_id` `amount` `currency` `customer_name` `customer_email` `customer_phone` `return_url` `merchant_id`
 `merchant_param1` `merchant_param2` `merchant_param3` `merchant_param4` `merchant_param5`
 
+CCAvenue API SDK Enabled across UPI Intent App Drawer (Universal):
+
+```
+window.open(`upi://pay?pa=${paymentData.merchantId}&pn=${paymentData.merchantName}&mc=${paymentData.merchantCode}&tid=${paymentData.transactionId}&am=${paymentData.amount}&cu=INR&url=${paymentData.url}`);
+```
+
 Monitor Logs:
 `Check WooCommerce logs under WooCommerce > Status > Logs for any errors`
 

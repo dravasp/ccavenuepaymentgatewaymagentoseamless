@@ -171,7 +171,9 @@ ________________________________________________________________________________
 ## Server Configuration
 - Change server PHP settings and get started with installation via Composer.
 - Activate the payment module in Magento Admin.
-  
+
+![Flow-Diagram](https://github.com/user-attachments/assets/1712b83a-ccff-4fa7-aa61-dcc428fe7100)
+
 Enabling Service - `Register and Enable` `Core Middleware (mPOS)`, `Hardware Token`, `and Connected Systems`
 
 ```

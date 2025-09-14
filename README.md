@@ -41,7 +41,7 @@ _For all your design imperative individuals who are brand frenzy - here is_
 
 ## Integration Guide
 - Steps to integrate your eCommerce platform with CCAvenue for secure payments.
-- Download and Fill - Press Release Sample Template - http://bit.ly/4nvFHsf
+- Download and Fill - Press Release Sample Template - https://bit.ly/46k5DjB
 _________________________________________________________________________________________
 Build a sense of familiarity in large number of `forward-thinking customers` by integrating `CCAvenue's Merchant Services and Assurance Vendors` across your line of business.
 `CCAvenue` is empowered with high network businesses and service providers across the country, `India` (and in `Singapore` - globally).

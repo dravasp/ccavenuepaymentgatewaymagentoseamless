@@ -231,6 +231,94 @@ ________________________________________________________________________________
 
 ## Testing and API Workflow
 - Test using Postman API workflow and send encrypted payloads to CCAvenue.
+
+## Compliance On-boarding
+
+```
+Upload .pdf document file CCAvenue Merchant Agreement (ISO A4 - 17 Pages) to print on 
+
+e-Stamp Paper (Non-Judicial) (State of Maharashtra)
+Service Charge (eDrafter.in) (Maharashtra) (INR. ₹ 240/-)
+
+First Party Name and Address (Service Provider)
+
+1. INFIBEAM AVENUES LIMITED
+28th Floor, Gift Two Tower, Block No. 56, Road 5C, Zone5, Gift City Gandhinagar - 382355, Gujarat India
+
+2. Second Party Name and Address
+
+{Enter Company Name - Merchant}
+{Enter Company Address}
+
+eDrafter Service Purchased by - Second Party Name {Enter Merchant Name}
+
+Select Second Party as Payer of Stamp Duty (INR. ₹ 500/-)
+1. Add-ons eDrafter Service - Notarial Service (INR. ₹ 170/-)
+1.1 Upload Digitally Verified UIDAI Aadhaar with Enrollment Number - Unmasked Colored - True Copy Duly Attested (Prodigy)
+1.2 Upload Signature (Sign with Black Ink on Blank Crop Image) - True Copy Duly Attested (Self)
+
+2. Add-ons eDrafter Service - Digital Signature
+2.1 Verified UIDAI Aadhaar (INR. ₹ 39/-)
+2.1 OTP Authentication (Mobile Number) (INR. ₹ 19/-)
+
+2.2 Name of Authorised Partner (Primary)
+{Enter Company Authorised Partner / Signatory First and Last Name}
+{Enter Mobile Number of Company Authorised Partner / Signatory}
+{Enter Email Address of Company Authorised Partner / Signatory}
+
+2.3 Name of Authorised Partner (Secondary)
+{Enter Secondary Partner First and Last Name}
+{Enter Mobile Number of Secondary Partner}
+{Enter Email Address of Secondary Partner}
+
+Nature of Pre-judice (Document Review by eDrafter.in) (INR. ₹ 199/-)
+
+CCAvenue Merchant - Privilege Plan Fees (INR. ₹ ) 598.1KB ~600KB
+OR.
+CCAvenue Merchant - StartUp Pro Plan Fees (INR. ₹ ) 598.1KB ~600KB
+
+
+Page 1. 
+1.1 Agreement Execution and Effective date - {Enter Signing Date of Agreement}
+1.2 Enter Company Name - Merchant / Enter Company Address
+1.3 Select Type from Dropdown - Type of Business Registration (Ministry of Corporate Affairs)
+Private Limited Company / Trust / Government / Association / Education / Society  / Non-Governmental Organization / Partnership Firm / Public Limited Company / Individual as Sole Proprietor / Hindu Undivided Family (HUF) with Registration Number - CIN (Corporate Identification Number) / MCA RoC - Registrar of Companies (ROC) / GSTIN (Goods and Services Tax Identification Number) / TAN (Tax Deduction and Collection Account Number) / PAN (Permanent Account Number) / Trust (Deed Registration Number)/ Certificate of Registration RNI (Registrar of Newspapers for India) / NGO Identification Number (NGO Darpan UID) / Registrar of Societies / UGC (University Grants Commission) or AICTE (All India Council for Technical Education)
+1.4 Merchant Site URL - Working eCommerce Website URL or Commerce Portal for which CCAvenue Internet Payment Gateway is to be implemented - https://www. or https://
+1.4.1 Merchant Site URL - Terms and Conditions - Order Checkout, Order Fulfilment Policies, Order Cancellation, Part Payments, Offer and EMI Bank Cards, Refund Conditions as per Deductions, Privacy Policy, Product HAZMAT Declaration as per Commodity HSN, About Merchant - Contact Information - Level Matrix - Escalations, Grievance Officer Information, Acceptable Terms of Use - Non-impeachment Clause or Arbitrage, and Declaration of Service End-user Agreement - Exclusive Jurisdiction to Mumbai Metropolitan Magistrate Court
+1.5 Enter Product or Service (Nature of Commerce - Goods or Services Rendered) - Select from Dropdown / Enter Merchant Category Code
+1.6 Self-attest with Signature (all pages on bottom left corner)
+
+
+"This Non-Judicial Stamp Paper forms an integral part of the Infibeam Avenues Ltd. Internet Gateway Merchant Legal Agreement executed by ______________________ (Firm name) on DD / MM / YYYY (date)"
+
+
+Fascimile for Sending - Completed Document (Digitally Scanned)
+Fascimile for Sending - Physical Attested Copy to Mailing Address (Hard-copy)
+
+You can use a Cover Page when sending out Fax.Plus or HP Smart Fax Service or Mitsumi Corporation (FedEx Notary Service) to CCAvenue Merchant Services (Attn: Legal Agreement)
+Primary Fax +91 22 26480772 or Telephone +91 22 67425542
+
+Attach Merchant TID or Terminal ID (if enrolled via a CCAvenue Merchant Partner Associate)
+
+For queries in regards to Deduction and With-holding of Taxes as per Annual Information Summary / Tax Information Summary as per issued TAN Document
+- Attach latest TDS Certificate (as per TDS-CPC-IT) separately to Dedicated Account Manager
+
+Acceptable Documents as per F.R.I.S.K - Merchant Underwriting
+1. Individual or Sole Proprietorship
+Bank Cheque (Cancelled), PAN Document issued via Income Tax Department, UIDAI Aadhaar Unmasked with Enrollment Number, Resident Domiscile or Citizenship Proof - Authorised and Co-Sigantories (ex-gratia)
+
+2. Goods and Services Tax (GSTIN Certificate) - Check Applicable e-Invoicing across IMS (Invoice Management System) Dashbaord or Quarterly Filing, Shop and Establishment License (Municipal Coporation as per Ward Office), CENVAT CESS Registration Certificate (GSTIN), Board Resolution Format described from Company Secretary (On Company Letterhead - Latest), Restaurant or Commercial Establishment FCOS FSSAI (FBO or eCommerce.fbo), Pharmacy License Department Underwriting, and eWaste Handler Certification (Manufacturing Escrow Payments)
+
+3. Business Valuation Report as per Line of Business (LoB) - Certified Public Accountant or equivalent CFO - Solvency Report as per CCAvenue Merchant Agreement
+3.1 RTGS enabled Bank Account - Statement for eCMS and Overdraft Enrollment (ASBA) - Line of Credit
+
+Public Limited Company 
+- Shareholding Pattern with Ultimate Beneficial Ownership (UBO Declaration)
+- Year to Date Price Ratio Valuation of Listed Equity, Debentures and Liquidation Policy Framework as per BSE and equivalant Mutual Fund AMFI sectorship
+
+Code-signing Certificate can be issued via eMudhra CA
+
+```
   
 [] Use Postman API Collection to Outline Error Troubleshooting with payload response `encrypted` and `decrypted` 
 ```
